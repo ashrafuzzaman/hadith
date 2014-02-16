@@ -5,13 +5,52 @@ require 'awesome_print'
 
 class Scraper
 
-  def scrap_title
-    page = Nokogiri::HTML(open("http://hdith.com/abudawud"))
-    puts page.class # => Nokogiri::HTML::Document
-    ap page.css('.book_title')
+  def scrap_book_index
+    base_url = "http://sunnah.com"
+    url = "#{base_url}/abudawud"
+    doc = Nokogiri::HTML(open(url))
+    #ap doc.at_css(".colindextitle").text
+
+    books = []
+
+    doc.css(".book_title").each do |item|
+      book = {
+          book_url: (base_url + item.at_css("a")['href']),
+          book_number: item.at_css(".book_number").text,
+          book_name: {
+              en: item.at_css(".english_book_name").text,
+              ar: item.at_css(".arabic_book_name").text
+          },
+          book_range: item.css(".book_range_from").collect { |range| range.text }
+      }
+      books << book
+    end
+
+    ap books
+    scrap_book_page books.first[:book_url]
+  end
+
+  def scrap_book_page(url)
+    doc = Nokogiri::HTML(open(url))
+    hadiths = []
+
+    doc.css(".actualHadithContainer").each do |item|
+      hadith = {
+          #book_url: (base_url + item.at_css("a")['href']),
+          hadith_narrator: item.at_css(".englishcontainer .hadith_narrated").text
+          #book_name: {
+          #    en: item.at_css(".english_book_name").text,
+          #    ar: item.at_css(".arabic_book_name").text
+          #},
+          #book_range: item.css(".book_range_from").collect { |range| range.text }
+      }
+      hadiths << hadith
+    end
+
+    ap hadiths
   end
 
 end
 
 
-Scraper.new.scrap_title
+Scraper.new.scrap_book_index
