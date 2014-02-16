@@ -26,7 +26,7 @@ class Scraper
       books << book
     end
 
-    ap books
+    #ap books
     scrap_book_page books.first[:book_url]
   end
 
@@ -37,7 +37,12 @@ class Scraper
     doc.css(".actualHadithContainer").each do |item|
       hadith = {
           #book_url: (base_url + item.at_css("a")['href']),
-          hadith_narrator: item.at_css(".englishcontainer .hadith_narrated").text
+          hadith_narrator: (item.at_css(".englishcontainer .hadith_narrated").text rescue nil),
+          reference: (item.at_css(".bottomItems .hadith_reference tr:first td:last").text rescue nil),
+          hadith: {
+              en: (item.at_css(".englishcontainer .text_details").text rescue nil),
+              ar: (item.at_css(".arabic_hadith_full .arabic_text_details").text rescue nil)
+          }
           #book_name: {
           #    en: item.at_css(".english_book_name").text,
           #    ar: item.at_css(".arabic_book_name").text
