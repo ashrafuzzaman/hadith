@@ -9,7 +9,6 @@ class Scraper
     base_url = "http://sunnah.com"
     url = "#{base_url}/abudawud"
     doc = Nokogiri::HTML(open(url))
-    #ap doc.at_css(".colindextitle").text
 
     books = []
 
@@ -37,13 +36,13 @@ class Scraper
     doc.css(".actualHadithContainer").each do |item|
       hadith = {
           #book_url: (base_url + item.at_css("a")['href']),
-          hadith_narrator: (item.at_css(".englishcontainer .hadith_narrated").text rescue nil),
+          hadith_narrator: (item.at_css(".englishcontainer .hadith_narrated").text.strip rescue nil),
+          arabic_sanad: (item.at_css(".arabic_hadith_full .arabic_sanad").text.strip rescue nil),
           hadith: {
-              en: (item.at_css(".englishcontainer .text_details").text rescue nil),
-              ar: (item.at_css(".arabic_hadith_full .arabic_text_details").text rescue nil)
+              en: (item.at_css(".englishcontainer .text_details").text.strip rescue nil),
+              ar: (item.at_css(".arabic_hadith_full .arabic_text_details").text.strip rescue nil)
           },
           reference: dom_to_reference(item.at_css(".hadith_reference"))
-          #book_range: item.css(".book_range_from").collect { |range| range.text }
       }
       hadiths << hadith
     end
@@ -56,8 +55,8 @@ class Scraper
     dom.css("tr").collect do |item|
       items = item.css("td")
       ref_name = items.first.text rescue nil
-      ref = items.last.text rescue nil
-      {ref_name => ref[/\s*:\s+.*/]}
+      ref = items.last.text.scan(/\s*:\s*(.*)/).flatten[0].strip rescue nil
+      {ref_name => ref}
     end
   end
 
