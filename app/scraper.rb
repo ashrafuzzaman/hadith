@@ -38,15 +38,11 @@ class Scraper
       hadith = {
           #book_url: (base_url + item.at_css("a")['href']),
           hadith_narrator: (item.at_css(".englishcontainer .hadith_narrated").text rescue nil),
-          reference: (item.at_css(".bottomItems .hadith_reference tr:first td:last").text rescue nil),
           hadith: {
               en: (item.at_css(".englishcontainer .text_details").text rescue nil),
               ar: (item.at_css(".arabic_hadith_full .arabic_text_details").text rescue nil)
-          }
-          #book_name: {
-          #    en: item.at_css(".english_book_name").text,
-          #    ar: item.at_css(".arabic_book_name").text
-          #},
+          },
+          reference: dom_to_reference(item.at_css(".hadith_reference"))
           #book_range: item.css(".book_range_from").collect { |range| range.text }
       }
       hadiths << hadith
@@ -55,7 +51,16 @@ class Scraper
     ap hadiths
   end
 
-end
 
+  def dom_to_reference(dom)
+    dom.css("tr").collect do |item|
+      items = item.css("td")
+      ref_name = items.first.text rescue nil
+      ref = items.last.text rescue nil
+      {ref_name => ref[/\s*:\s+.*/]}
+    end
+  end
+
+end
 
 Scraper.new.scrap_book_index
