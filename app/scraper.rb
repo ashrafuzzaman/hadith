@@ -29,10 +29,12 @@ class Scraper
       books << book
     end
     marshal_to_file(book_name, books)
-    scrap_book_page books.first[:book_url]
+    books.each_with_index do |book, i|
+      scrap_book_page book[:book_url], "#{book_name}/#{i+1}"
+    end
   end
 
-  def scrap_book_page(url)
+  def scrap_book_page(url, file_path)
     doc = Nokogiri::HTML(open(url))
     hadiths = []
 
@@ -48,6 +50,8 @@ class Scraper
       }
       hadiths << hadith
     end
+
+    marshal_to_file(file_path, hadiths)
   end
 
   def dom_to_reference(dom)
@@ -59,8 +63,8 @@ class Scraper
     end
   end
 
-  def marshal_to_file(file_name, data)
-    path = File.expand_path "#{__FILE__}/../../books/#{file_name}.json"
+  def marshal_to_file(file_path, data)
+    path = File.expand_path "#{__FILE__}/../../books/#{file_path}.json"
     p "Writting to file #{path}"
     File.open(path, "w") do |f|
       f.write(data.to_json)
