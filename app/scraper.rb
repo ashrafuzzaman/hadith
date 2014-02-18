@@ -2,19 +2,23 @@ require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
 require 'awesome_print'
+require 'json'
 
 class Scraper
+  BASE_URL = "http://sunnah.com"
 
-  def scrap_book_index
-    base_url = "http://sunnah.com"
-    url = "#{base_url}/abudawud"
+  def scrap_books
+    scrap_book("abudawud")
+  end
+
+  def scrap_book(book_name)
+    url = "#{BASE_URL}/#{book_name}"
     doc = Nokogiri::HTML(open(url))
 
     books = []
-
     doc.css(".book_title").each do |item|
       book = {
-          book_url: (base_url + item.at_css("a")['href']),
+          book_url: (BASE_URL + item.at_css("a")['href']),
           book_number: item.at_css(".book_number").text,
           book_name: {
               en: item.at_css(".english_book_name").text,
@@ -24,8 +28,7 @@ class Scraper
       }
       books << book
     end
-
-    #ap books
+    marshal_to_file(book_name, books)
     scrap_book_page books.first[:book_url]
   end
 
@@ -35,7 +38,6 @@ class Scraper
 
     doc.css(".actualHadithContainer").each do |item|
       hadith = {
-          #book_url: (base_url + item.at_css("a")['href']),
           hadith_narrator: (item.at_css(".englishcontainer .hadith_narrated").text.strip rescue nil),
           arabic_sanad: (item.at_css(".arabic_hadith_full .arabic_sanad").text.strip rescue nil),
           hadith: {
@@ -46,10 +48,7 @@ class Scraper
       }
       hadiths << hadith
     end
-
-    ap hadiths
   end
-
 
   def dom_to_reference(dom)
     dom.css("tr").collect do |item|
@@ -60,6 +59,14 @@ class Scraper
     end
   end
 
+  def marshal_to_file(file_name, data)
+    path = File.expand_path "#{__FILE__}/../../books/#{file_name}.json"
+    p "Writting to file #{path}"
+    File.open(path, "w") do |f|
+      f.write(data.to_json)
+    end
+  end
+
 end
 
-Scraper.new.scrap_book_index
+Scraper.new.scrap_books
