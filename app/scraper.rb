@@ -3,6 +3,7 @@ require 'nokogiri'
 require 'open-uri'
 require 'awesome_print'
 require 'json'
+require 'yaml'
 
 class Scraper
   BASE_URL = "http://sunnah.com"
@@ -64,10 +65,13 @@ class Scraper
   end
 
   def marshal_to_file(file_path, data)
-    path = File.expand_path "#{__FILE__}/../../books/#{file_path}.json"
-    p "Writting to file #{path}"
-    File.open(path, "w") do |f|
-      f.write(data.to_json)
+    formats = ['json', 'yaml']
+    formats.each do |format|
+      path = File.expand_path "#{__FILE__}/../../books/#{file_path}.#{format}"
+      p "Writting to file #{path}"
+      File.open(path, "w") do |f|
+        f.write(data.send :"to_#{format}")
+      end
     end
   end
 
