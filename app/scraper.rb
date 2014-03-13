@@ -36,7 +36,7 @@ class Scraper
   end
 
   def scrap_book_page(url, file_path)
-    doc = Nokogiri::HTML(open(url))
+    doc = Nokogiri::HTML(open_url(url, file_path))
     hadiths = []
 
     doc.css(".actualHadithContainer").each do |item|
@@ -55,6 +55,19 @@ class Scraper
     marshal_to_file(file_path, hadiths)
   end
 
+  def open_url(url, file_path)
+    file_path = "#{file_path}.html"
+    file_content = file_content(file_path)
+    if file_content
+      file_content
+    else
+      sleep rand(10)
+      content = open(url)
+      write_to_file file_path, content
+      content
+    end
+  end
+
   def dom_to_reference(dom)
     dom.css("tr").collect do |item|
       items = item.css("td")
@@ -67,14 +80,26 @@ class Scraper
   def marshal_to_file(file_path, data)
     formats = ['json', 'yaml']
     formats.each do |format|
-      path = File.expand_path "#{__FILE__}/../../books/#{file_path}.#{format}"
-      p "Writting to file #{path}"
-      File.open(path, "w") do |f|
-        f.write(data.send :"to_#{format}")
-      end
+      write_to_file "#{file_path}.#{format.to_s}", data.send(:"to_#{format.to_s}")
     end
   end
 
+  def file_content(file_path)
+    path = File.expand_path "#{__FILE__}/../../books/#{file_path}"
+    if File.exist?
+      File.open(path, "rb").read
+    else
+      nil
+    end
+  end
+
+  def write_to_file(file_path, content)
+    path = File.expand_path "#{__FILE__}/../../books/#{file_path}"
+    p "Writting to file #{path}"
+    File.open(path, "w") do |f|
+      f.write(content)
+    end
+  end
 end
 
 Scraper.new.scrap_books
