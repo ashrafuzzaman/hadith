@@ -9,7 +9,15 @@ class Scraper
   BASE_URL = "http://sunnah.com"
 
   def scrap_books
+    scrap_book("bukhari")
+    scrap_book("muslim")
+    scrap_book("nasai")
     scrap_book("abudawud")
+    scrap_book("tirmidhi")
+    scrap_book("ibnmajah")
+    scrap_book("malik")
+    scrap_book("nawawi40")
+    scrap_book("adab")
   end
 
   def scrap_book(book_name)
