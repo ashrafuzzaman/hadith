@@ -1,0 +1,243 @@
+---
+- :book_url: http://sunnah.com/ibnmajah/introduction
+  :book_number: " "
+  :book_name:
+    :en: The Book of the Sunnah
+    :ar: "  كتاب المقدمة "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/1
+  :book_number: '1'
+  :book_name:
+    :en: The Book of Purification and its Sunnah
+    :ar: "كتاب الطهارة وسننها "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/2
+  :book_number: '2'
+  :book_name:
+    :en: The Book of the Prayer
+    :ar: " كتاب الصلاة "
+  :book_range:
+  - '667'
+  - '705'
+- :book_url: http://sunnah.com/ibnmajah/3
+  :book_number: '3'
+  :book_name:
+    :en: The Book of the Adhan and the Sunnah Regarding It
+    :ar: " كتاب الأذان والسنة فيها "
+  :book_range:
+  - '706'
+  - '734'
+- :book_url: http://sunnah.com/ibnmajah/4
+  :book_number: '4'
+  :book_name:
+    :en: The Book On The Mosques And The Congregations
+    :ar: " كتاب المساجد والجماعات "
+  :book_range:
+  - '735'
+  - '802'
+- :book_url: http://sunnah.com/ibnmajah/5
+  :book_number: '5'
+  :book_name:
+    :en: Establishing the Prayer and the Sunnah Regarding Them
+    :ar: " كتاب إقامة الصلاة والسنة فيها "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/6
+  :book_number: '6'
+  :book_name:
+    :en: Chapters Regarding Funerals
+    :ar: " كتاب الجنائز "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/7
+  :book_number: '7'
+  :book_name:
+    :en: Fasting
+    :ar: " كتاب الصيام "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/8
+  :book_number: '8'
+  :book_name:
+    :en: The Chapters Regarding Zakat
+    :ar: " كتاب الزكاة "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/9
+  :book_number: '9'
+  :book_name:
+    :en: The Chapters on Marriage
+    :ar: " كتاب النكاح "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/10
+  :book_number: '10'
+  :book_name:
+    :en: The Chapters on Divorce
+    :ar: " كتاب الطلاق "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/11
+  :book_number: '11'
+  :book_name:
+    :en: The Chapters on Expiation
+    :ar: " كتاب الكفارات "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/12
+  :book_number: '12'
+  :book_name:
+    :en: The Chapters on Business Transactions
+    :ar: " كتاب التجارات "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/13
+  :book_number: '13'
+  :book_name:
+    :en: The Chapters on Rulings
+    :ar: " كتاب الأحكام "
+  :book_range:
+  - '2308'
+  - '2374'
+- :book_url: http://sunnah.com/ibnmajah/14
+  :book_number: '14'
+  :book_name:
+    :en: The Chapters on Gifts
+    :ar: " كتاب الهبات "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/15
+  :book_number: '15'
+  :book_name:
+    :en: The Chapters on Charity
+    :ar: " كتاب الصدقات "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/16
+  :book_number: '16'
+  :book_name:
+    :en: The Chapters on Pawning
+    :ar: " كتاب الرهون "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/17
+  :book_number: '17'
+  :book_name:
+    :en: The Chapters on Pre-emption
+    :ar: " كتاب الشفعة "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/18
+  :book_number: '18'
+  :book_name:
+    :en: The Chapters on Lost Property
+    :ar: " كتاب اللقطة "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/19
+  :book_number: '19'
+  :book_name:
+    :en: The Chapters on Manumission (of Slaves)
+    :ar: " كتاب العتق "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/20
+  :book_number: '20'
+  :book_name:
+    :en: The Chapters on Legal Punishments
+    :ar: " كتاب الحدود "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/21
+  :book_number: '21'
+  :book_name:
+    :en: The Chapters on Blood Money
+    :ar: " كتاب الديات "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/22
+  :book_number: '22'
+  :book_name:
+    :en: The Chapters on Wills
+    :ar: " كتاب الوصايا "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/23
+  :book_number: '23'
+  :book_name:
+    :en: Chapters on Shares of Inheritance
+    :ar: " كتاب الفرائض "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/24
+  :book_number: '24'
+  :book_name:
+    :en: The Chapters on Jihad
+    :ar: " كتاب الجهاد "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/25
+  :book_number: '25'
+  :book_name:
+    :en: Chapters on Hajj Rituals
+    :ar: " كتاب المناسك "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/26
+  :book_number: '26'
+  :book_name:
+    :en: Chapters on Sacrifices
+    :ar: " كتاب الأضاحي "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/27
+  :book_number: '27'
+  :book_name:
+    :en: Chapters on Slaughtering
+    :ar: " كتاب الذبائح "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/28
+  :book_number: '28'
+  :book_name:
+    :en: Chapters on Hunting
+    :ar: " كتاب الصيد "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/29
+  :book_number: '29'
+  :book_name:
+    :en: " Chapters on Food"
+    :ar: " كتاب الأطعمة "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/30
+  :book_number: '30'
+  :book_name:
+    :en: Chapters on Drinks
+    :ar: " كتاب الأشربة "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/31
+  :book_number: '31'
+  :book_name:
+    :en: Chapters on Medicine
+    :ar: " كتاب الطب "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/32
+  :book_number: '32'
+  :book_name:
+    :en: Chapters on Dress
+    :ar: " كتاب اللباس "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/33
+  :book_number: '33'
+  :book_name:
+    :en: Etiquette
+    :ar: " كتاب الأدب "
+  :book_range:
+  - '3657'
+  - '3826'
+- :book_url: http://sunnah.com/ibnmajah/34
+  :book_number: '34'
+  :book_name:
+    :en: Supplication
+    :ar: " كتاب الدعاء "
+  :book_range:
+  - '3827'
+  - '3892'
+- :book_url: http://sunnah.com/ibnmajah/35
+  :book_number: '35'
+  :book_name:
+    :en: Interpretation of Dreams
+    :ar: " كتاب تعبير الرؤيا "
+  :book_range:
+  - '3893'
+  - '3926'
+- :book_url: http://sunnah.com/ibnmajah/36
+  :book_number: '36'
+  :book_name:
+    :en: Tribulations
+    :ar: " كتاب الفتن "
+  :book_range: []
+- :book_url: http://sunnah.com/ibnmajah/37
+  :book_number: '37'
+  :book_name:
+    :en: Zuhd
+    :ar: " كتاب الزهد"
+  :book_range: []
