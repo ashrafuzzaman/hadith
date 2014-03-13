@@ -14,7 +14,7 @@ class Scraper
 
   def scrap_book(book_name)
     url = "#{BASE_URL}/#{book_name}"
-    doc = Nokogiri::HTML(open(url))
+    doc = Nokogiri::HTML(open_url(url, book_name))
 
     books = []
     doc.css(".book_title").each do |item|
@@ -59,10 +59,11 @@ class Scraper
     file_path = "#{file_path}.html"
     file_content = file_content(file_path)
     if file_content
+      p "Fetching from file #{file_path}"
       file_content
     else
       sleep rand(10)
-      content = open(url)
+      content = open(url).read
       write_to_file file_path, content
       content
     end
@@ -86,7 +87,7 @@ class Scraper
 
   def file_content(file_path)
     path = File.expand_path "#{__FILE__}/../../books/#{file_path}"
-    if File.exist?
+    if File.exist?(path)
       File.open(path, "rb").read
     else
       nil
