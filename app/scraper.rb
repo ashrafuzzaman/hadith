@@ -22,6 +22,7 @@ class Scraper
 
   def scrap_book(book_name)
     url = "#{BASE_URL}/#{book_name}"
+    create_directory book_name
     doc = Nokogiri::HTML(open_url(url, book_name))
 
     books = []
@@ -108,6 +109,11 @@ class Scraper
     File.open(path, "w") do |f|
       f.write(content)
     end
+  end
+
+  def create_directory(book_name)
+    path = File.expand_path "#{__FILE__}/../../books/#{book_name}"
+    Dir.mkdir path unless Dir.exist?(path)
   end
 end
 
