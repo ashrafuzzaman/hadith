@@ -1,0 +1,11 @@
+GEM
+  specs:
+    awesome_print (1.2.0)
+    sqlite3 (1.3.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  sqlite3
