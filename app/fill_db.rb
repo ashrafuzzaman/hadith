@@ -61,10 +61,6 @@ class Scraper
               en: (item.at_css(".englishcontainer .text_details").text.strip rescue nil),
               ar: (item.at_css(".arabic_hadith_full .arabic_text_details").text.strip rescue nil)
           },
-          grade: {
-              en: (item.css(".english_grade").last.text.strip.match(/\:\S?(.*)/)[1] rescue nil),
-              ar: (item.at_css(".arabic_grade.arabic").text.strip rescue nil)
-          },
           reference: dom_to_reference(item.at_css(".hadith_reference"))
       }
       hadiths << hadith

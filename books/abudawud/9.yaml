@@ -13,6 +13,9 @@
     :ar: "\"‏ أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَقُولُوا لاَ إِلَهَ إِلاَّ
       اللَّهُ فَمَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ عَصَمَ مِنِّي مَالَهُ وَنَفْسَهُ
       إِلاَّ بِحَقِّهِ وَحِسَابُهُ عَلَى اللَّهِ عَزَّ وَجَلَّ ‏\""
+  :grade:
+    :en: 
+    :ar: "  صحيح ق لكن قوله ع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1556"
   - In-book reference: " Book 9, Hadith 1"
@@ -26,6 +29,9 @@
     :ar: "حَدَّثَنَا ابْنُ السَّرْحِ، وَسُلَيْمَانُ بْنُ دَاوُدَ، قَالاَ أَخْبَرَنَا
       ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ الزُّهْرِيِّ، قَالَ قَالَ أَبُو بَكْرٍ
       إِنَّ حَقَّهُ أَدَاءُ الزَّكَاةِ وَقَالَ عِقَالاً ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  صحيح ولكنه شاذ بهذا اللفظ   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1557"
   - In-book reference: " Book 9, Hadith 2"
@@ -41,6 +47,9 @@
       loads(wasq).
     :ar: "\"‏ لَيْسَ فِيمَا دُونَ خَمْسِ ذَوْدٍ صَدَقَةٌ وَلَيْسَ فِيمَا دُونَ خَمْسِ
       أَوَاقٍ صَدَقَةٌ وَلَيْسَ فِيمَا دُونَ خَمْسَةِ أَوْسُقٍ صَدَقَةٌ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1558"
   - In-book reference: " Book 9, Hadith 3"
@@ -54,6 +63,9 @@
     :en: 'The Prophet (ﷺ) said: There is no zakat payable (on grain or dates) on less
       than five camel-loads. The wasq (one camel-load) measures sixty sa'' in weight.'
     :ar: "\"‏ لَيْسَ فِيمَا دُونَ خَمْسَةِ أَوْسُقٍ زَكَاةٌ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1559"
   - In-book reference: " Book 9, Hadith 4"
@@ -65,6 +77,9 @@
     :ar: "حَدَّثَنَا مُحَمَّدُ بْنُ قُدَامَةَ بْنِ أَعْيَنَ، حَدَّثَنَا جَرِيرٌ، عَنِ
       الْمُغِيرَةِ، عَنْ إِبْرَاهِيمَ، قَالَ الْوَسْقُ سِتُّونَ صَاعًا مَخْتُومًا
       بِالْحَجَّاجِيِّ ‏.‏"
+  :grade:
+    :en: Sahih Maqtu' (Al-Albani)
+    :ar: "  صحيح مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1560"
   - In-book reference: " Book 9, Hadith 5"
@@ -88,6 +103,9 @@
       وَكَذَا بَعِيرًا كَذَا وَكَذَا أَوَجَدْتُمْ هَذَا فِي الْقُرْآنِ قَالَ لاَ ‏.‏
       قَالَ فَعَنْ مَنْ أَخَذْتُمْ هَذَا أَخَذْتُمُوهُ عَنَّا وَأَخَذْنَاهُ عَنْ نَبِيِّ
       اللَّهِ صلى الله عليه وسلم وَذَكَرَ أَشْيَاءَ نَحْوَ هَذَا ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1561"
   - In-book reference: " Book 9, Hadith 6"
@@ -103,6 +121,9 @@
       عَنْ أَبِيهِ، سُلَيْمَانَ عَنْ سَمُرَةَ بْنِ جُنْدُبٍ، قَالَ أَمَّا بَعْدُ فَإِنَّ
       رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَأْمُرُنَا أَنْ نُخْرِجَ الصَّدَقَةَ
       مِنَ الَّذِي نُعِدُّ لِلْبَيْعِ ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1562"
   - In-book reference: " Book 9, Hadith 7"
@@ -125,6 +146,9 @@
       الْقِيَامَةِ سِوَارَيْنِ مِنْ نَارٍ ‏\"‏ ‏.‏ قَالَ فَخَلَعَتْهُمَا فَأَلْقَتْهُمَا
       إِلَى النَّبِيِّ صلى الله عليه وسلم وَقَالَتْ هُمَا لِلَّهِ عَزَّ وَجَلَّ وَلِرَسُولِهِ
       ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1563"
   - In-book reference: " Book 9, Hadith 8"
@@ -139,6 +163,9 @@
       of Allah? He replied: whatever reaches a quantity on which zakat is payable
       is not a treasure (kanz) when the zakat is paid.'
     :ar: "\"‏ مَا بَلَغَ أَنْ تُؤَدَّى زَكَاتُهُ فَزُكِّيَ فَلَيْسَ بِكَنْزٍ ‏\""
+  :grade:
+    :en: 
+    :ar: "  حسن المرفوع منه فقط   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1564"
   - In-book reference: " Book 9, Hadith 9"
@@ -160,6 +187,9 @@
       هَذَا يَا عَائِشَةُ ‏\"‏ ‏.‏ فَقُلْتُ صَنَعْتُهُنَّ أَتَزَيَّنُ لَكَ يَا رَسُولَ
       اللَّهِ ‏.‏ قَالَ ‏\"‏ أَتُؤَدِّينَ زَكَاتَهُنَّ ‏\"‏ ‏.‏ قُلْتُ لاَ أَوْ مَا
       شَاءَ اللَّهُ ‏.‏ قَالَ ‏\"‏ هُوَ حَسْبُكِ مِنَ النَّارِ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1565"
   - In-book reference: " Book 9, Hadith 10"
@@ -175,6 +205,9 @@
       حَدَّثَنَا سُفْيَانُ، عَنْ عُمَرَ بْنِ يَعْلَى، فَذَكَرَ الْحَدِيثَ نَحْوَ حَدِيثِ
       الْخَاتَمِ ‏.‏ قِيلَ لِسُفْيَانَ كَيْفَ تُزَكِّيهِ قَالَ تَضُمُّهُ إِلَى غَيْرِهِ
       ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1566"
   - In-book reference: " Book 9, Hadith 11"
@@ -282,6 +315,9 @@
       أَرْبَعِينَ فَلَيْسَ فِيهَا شَىْءٌ إِلاَّ أَنْ يَشَاءَ رَبُّهَا وَفِي الرِّقَةِ
       رُبْعُ الْعُشْرِ فَإِنْ لَمْ يَكُنِ الْمَالُ إِلاَّ تِسْعِينَ وَمِائَةً فَلَيْسَ
       فِيهَا شَىْءٌ إِلاَّ أَنْ يَشَاءَ رَبُّهَا ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1567"
   - In-book reference: " Book 9, Hadith 12"
@@ -337,6 +373,9 @@
       وَلاَ يُجْمَعُ بَيْنَ مُتَفَرِّقٍ مَخَافَةَ الصَّدَقَةِ وَمَا كَانَ مِنْ خَلِيطَيْنِ
       فَإِنَّهُمَا يَتَرَاجَعَانِ بَيْنَهُمَا بِالسَّوِيَّةِ وَلاَ يُؤْخَذُ فِي الصَّدَقَةِ
       هَرِمَةٌ وَلاَ ذَاتُ عَيْبٍ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1568"
   - In-book reference: " Book 9, Hadith 13"
@@ -351,6 +390,9 @@
       there is no she Camel in her second year, a she Camel in her third year is to
       be given.” This does not mention the words of Al Zuhri.
     :ar: "\"‏ فَإِنْ لَمْ تَكُنِ ابْنَةُ مَخَاضٍ فَابْنُ لَبُونٍ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1569"
   - In-book reference: " Book 9, Hadith 14"
@@ -409,6 +451,9 @@
       نَحْوَ حَدِيثِ سُفْيَانَ بْنِ حُسَيْنٍ وَفِيهِ ‏\"‏ وَلاَ يُؤْخَذُ فِي الصَّدَقَةِ
       هَرِمَةٌ وَلاَ ذَاتُ عَوَارٍ مِنَ الْغَنَمِ وَلاَ تَيْسُ الْغَنَمِ إِلاَّ أَنْ
       يَشَاءَ الْمُصَّدِّقُ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1570"
   - In-book reference: " Book 9, Hadith 15"
@@ -433,6 +478,9 @@
       ثَلاَثُ شِيَاهٍ فَإِذَا أَظَلَّهُمَا الْمُصَدِّقُ فَرَّقَا غَنَمَهُمَا فَلَمْ
       يَكُنْ عَلَى كُلِّ وَاحِدٍ مِنْهُمَا إِلاَّ شَاةٌ فَهَذَا الَّذِي سَمِعْتُ فِي
       ذَلِكَ ‏.‏"
+  :grade:
+    :en: Sahih Maqtu' (Al-Albani)
+    :ar: "  صحيح مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1571"
   - In-book reference: " Book 9, Hadith 16"
@@ -498,6 +546,9 @@
       قَالَ زُهَيْرٌ أَحْسَبُهُ قَالَ ‏\"‏ مَرَّةً ‏\"‏ ‏.‏ وَفِي حَدِيثِ عَاصِمٍ
       ‏\"‏ إِذَا لَمْ يَكُنْ فِي الإِبِلِ ابْنَةُ مَخَاضٍ وَلاَ ابْنُ لَبُونٍ فَعَشَرَةُ
       دَرَاهِمَ أَوْ شَاتَانِ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1572"
   - In-book reference: " Book 9, Hadith 17"
@@ -528,6 +579,9 @@
       عَلَيْهِ الْحَوْلُ ‏\"‏ ‏.‏ إِلاَّ أَنَّ جَرِيرًا قَالَ ابْنُ وَهْبٍ يَزِيدُ
       فِي الْحَدِيثِ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ لَيْسَ فِي مَالٍ زَكَاةٌ
       حَتَّى يَحُولَ عَلَيْهِ الْحَوْلُ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1573"
   - In-book reference: " Book 9, Hadith 18"
@@ -546,6 +600,9 @@
     :ar: "\"‏ قَدْ عَفَوْتُ عَنِ الْخَيْلِ وَالرَّقِيقِ فَهَاتُوا صَدَقَةَ الرِّقَةِ
       مِنْ كُلِّ أَرْبَعِينَ دِرْهَمًا دِرْهَمٌ وَلَيْسَ فِي تِسْعِينَ وَمِائَةٍ شَىْءٌ
       فَإِذَا بَلَغَتْ مِائَتَيْنِ فَفِيهَا خَمْسَةُ دَرَاهِمَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1574"
   - In-book reference: " Book 9, Hadith 19"
@@ -567,6 +624,9 @@
       ‏.‏ قَالَ ابْنُ الْعَلاَءِ ‏\"‏ مُؤْتَجِرًا بِهَا ‏\"‏ ‏.‏ ‏\"‏ فَلَهُ أَجْرُهَا
       وَمَنْ مَنَعَهَا فَإِنَّا آخِذُوهَا وَشَطْرَ مَالِهِ عَزْمَةً مِنْ عَزَمَاتِ
       رَبِّنَا عَزَّ وَجَلَّ لَيْسَ لآلِ مُحَمَّدٍ مِنْهَا شَىْءٌ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1575"
   - In-book reference: " Book 9, Hadith 20"
@@ -584,6 +644,9 @@
       تَبِيعًا أَوْ تَبِيعَةً وَمِنْ كُلِّ أَرْبَعِينَ مُسِنَّةً وَمِنْ كُلِّ حَالِمٍ
       - يَعْنِي مُحْتَلِمًا - دِينَارًا أَوْ عِدْلَهُ مِنَ الْمَعَافِرِ ثِيَابٌ تَكُونُ
       بِالْيَمَنِ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1576"
   - In-book reference: " Book 9, Hadith 21"
@@ -596,6 +659,9 @@
     :ar: "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَالنُّفَيْلِيُّ، وَابْنُ الْمُثَنَّى،
       قَالُوا حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا الأَعْمَشُ، عَنْ إِبْرَاهِيمَ،
       عَنْ مَسْرُوقٍ، عَنْ مُعَاذٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1577"
   - In-book reference: " Book 9, Hadith 22"
@@ -614,6 +680,9 @@
       مُحْتَلِمًا ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ جَرِيرٌ وَيَعْلَى وَمَعْمَرٌ وَشُعْبَةُ
       وَأَبُو عَوَانَةَ وَيَحْيَى بْنُ سَعِيدٍ عَنِ الأَعْمَشِ عَنْ أَبِي وَائِلٍ
       عَنْ مَسْرُوقٍ - قَالَ يَعْلَى وَمَعْمَرٌ - عَنْ مُعَاذٍ مِثْلَهُ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1578"
   - In-book reference: " Book 9, Hadith 23"
@@ -654,6 +723,9 @@
       وسلم يَقُولُ لِي عَمَدْتَ إِلَى رَجُلٍ فَتَخَيَّرْتَ عَلَيْهِ إِبِلَهُ ‏.‏ قَالَ
       أَبُو دَاوُدَ وَرَوَاهُ هُشَيْمٌ عَنْ هِلاَلِ بْنِ خَبَّابٍ نَحْوَهُ إِلاَّ
       أَنَّهُ قَالَ ‏\"‏ لاَ يُفَرِّقْ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1579"
   - In-book reference: " Book 9, Hadith 24"
@@ -671,6 +743,9 @@
       بِيَدِهِ وَقَرَأْتُ فِي عَهْدِهِ ‏\"‏ لاَ يُجْمَعُ بَيْنَ مُفْتَرِقٍ وَلاَ يُفَرَّقُ
       بَيْنَ مُجْتَمِعٍ خَشْيَةَ الصَّدَقَةِ ‏\"‏ ‏.‏ وَلَمْ يَذْكُرْ ‏\"‏ رَاضِعَ
       لَبَنٍ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1580"
   - In-book reference: " Book 9, Hadith 25"
@@ -719,6 +794,9 @@
       ‏.‏ فَجَعَلاَهَا مَعَهُمَا عَلَى بَعِيرِهِمَا ثُمَّ انْطَلَقَا ‏.‏ قَالَ أَبُو
       دَاوُدَ رَوَاهُ أَبُو عَاصِمٍ عَنْ زَكَرِيَّاءَ قَالَ أَيْضًا مُسْلِمُ بْنُ
       شُعْبَةَ ‏.‏ كَمَا قَالَ رَوْحٌ ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1581"
   - In-book reference: " Book 9, Hadith 26"
@@ -749,6 +827,9 @@
       وَلاَ الدَّرِنَةَ وَلاَ الْمَرِيضَةَ وَلاَ الشَّرَطَ اللَّئِيمَةَ وَلَكِنْ مِنْ
       وَسَطِ أَمْوَالِكُمْ فَإِنَّ اللَّهَ لَمْ يَسْأَلْكُمْ خَيْرَهُ وَلَمْ يَأْمُرْكُمْ
       بِشَرِّهِ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1582"
   - In-book reference: " Book 9, Hadith 27"
@@ -800,6 +881,9 @@
       me to take possession of it, and he prayed for a blessing on his property."
     :ar: "\"‏ ذَاكَ الَّذِي عَلَيْكَ فَإِنْ تَطَوَّعْتَ بِخَيْرٍ آجَرَكَ اللَّهُ فِيهِ
       وَقَبِلْنَاهُ مِنْكَ ‏\""
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1583"
   - In-book reference: " Book 9, Hadith 28"
@@ -826,6 +910,9 @@
       وَتُرَدُّ فِي فُقَرَائِهِمْ فَإِنْ هُمْ أَطَاعُوكَ لِذَلِكَ فَإِيَّاكَ وَكَرَائِمَ
       أَمْوَالِهِمْ وَاتَّقِ دَعْوَةَ الْمَظْلُومِ فَإِنَّهَا لَيْسَ بَيْنَهَا وَبَيْنَ
       اللَّهِ حِجَابٌ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1584"
   - In-book reference: " Book 9, Hadith 29"
@@ -838,6 +925,9 @@
     :en: 'The Prophet (ﷺ) said: He who collects more sadaqah than is due is like him
       who refuses to pay it.'
     :ar: "\"‏ الْمُعْتَدِي فِي الصَّدَقَةِ كَمَانِعِهَا ‏\""
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1585"
   - In-book reference: " Book 9, Hadith 30"
@@ -856,6 +946,9 @@
       said: (to the Messenger of Allah): The collectors of sadaqah collect more than
       is due; can we hide our property to that proportion? He replied: \"No.\""
     :ar: "\"‏ لاَ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1586"
   - In-book reference: " Book 9, Hadith 31"
@@ -873,6 +966,9 @@
       إِلاَّ أَنَّهُ قَالَ قُلْنَا يَا رَسُولَ اللَّهِ إِنَّ أَصْحَابَ الصَّدَقَةِ
       يَعْتَدُونَ ‏.‏ قَالَ أَبُو دَاوُدَ رَفَعَهُ عَبْدُ الرَّزَّاقِ عَنْ مَعْمَرٍ
       ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1587"
   - In-book reference: " Book 9, Hadith 32"
@@ -893,6 +989,9 @@
       وَخَلُّوا بَيْنَهُمْ وَبَيْنَ مَا يَبْتَغُونَ فَإِنْ عَدَلُوا فَلأَنْفُسِهِمْ
       وَإِنْ ظَلَمُوا فَعَلَيْهَا وَأَرْضُوهُمْ فَإِنَّ تَمَامَ زَكَاتِكُمْ رِضَاهُمْ
       وَلْيَدْعُوا لَكُمْ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1588"
   - In-book reference: " Book 9, Hadith 33"
@@ -919,6 +1018,9 @@
       عُثْمَانُ ‏\"‏ وَإِنْ ظُلِمْتُمْ ‏\"‏ ‏.‏ قَالَ أَبُو كَامِلٍ فِي حَدِيثِهِ
       قَالَ جَرِيرٌ مَا صَدَرَ عَنِّي مُصَدِّقٌ بَعْدَ مَا سَمِعْتُ هَذَا مِنْ رَسُولِ
       اللَّهِ صلى الله عليه وسلم إِلاَّ وَهُوَ عَنِّي رَاضٍ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1589"
   - In-book reference: " Book 9, Hadith 34"
@@ -936,6 +1038,9 @@
       وَكَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَتَاهُ قَوْمٌ بِصَدَقَتِهِمْ قَالَ
       ‏\"‏ اللَّهُمَّ صَلِّ عَلَى آلِ فُلاَنٍ ‏\"‏ ‏.‏ قَالَ فَأَتَاهُ أَبِي بِصَدَقَتِهِ
       فَقَالَ ‏\"‏ اللَّهُمَّ صَلِّ عَلَى آلِ أَبِي أَوْفَى ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1590"
   - In-book reference: " Book 9, Hadith 35"
@@ -951,6 +1056,9 @@
       in their dwelling.
     :ar: "\"‏ لاَ جَلَبَ وَلاَ جَنَبَ وَلاَ تُؤْخَذُ صَدَقَاتُهُمْ إِلاَّ فِي دُورِهِمْ
       ‏\""
+  :grade:
+    :en: Hasan Sahih (Al-Albani)
+    :ar: "  حسن صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1591"
   - In-book reference: " Book 9, Hadith 36"
@@ -967,6 +1075,9 @@
       not stay at a distance from the places of the people who bring their animals
       to him. The zakat should be collected in its place.
     :ar: "\"‏ لاَ جَلَبَ وَلاَ جَنَبَ ‏\""
+  :grade:
+    :en: Sahih Maqtu' (Al-Albani)
+    :ar: "  صحيح مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1592"
   - In-book reference: " Book 9, Hadith 37"
@@ -981,6 +1092,9 @@
       it being sold, and intended to buy it. So he asked the Messenger of Allah (ﷺ)
       about this. He said Do not buy it, and do not take back your sadaqah."
     :ar: "\"‏ لاَ تَبْتَعْهُ وَلاَ تَعُدْ فِي صَدَقَتِكَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1593"
   - In-book reference: " Book 9, Hadith 38"
@@ -995,6 +1109,9 @@
       given at the breaking of the fast (at the end of Ramadan).'
     :ar: "\"‏ لَيْسَ فِي الْخَيْلِ وَالرَّقِيقِ زَكَاةٌ إِلاَّ زَكَاةُ الْفِطْرِ فِي
       الرَّقِيقِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1594"
   - In-book reference: " Book 9, Hadith 39"
@@ -1008,6 +1125,9 @@
     :en: The Messenger of Allah(ﷺ) as saying No sadaqah is due from a Muslim on his
       slave or his horse.
     :ar: "\"‏ لَيْسَ عَلَى الْمُسْلِمِ فِي عَبْدِهِ وَلاَ فِي فَرَسِهِ صَدَقَةٌ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1595"
   - In-book reference: " Book 9, Hadith 40"
@@ -1023,6 +1143,9 @@
       what is watered by draught camels.
     :ar: "\"‏ فِيمَا سَقَتِ السَّمَاءُ وَالأَنْهَارُ وَالْعُيُونُ أَوْ كَانَ بَعْلاً
       الْعُشْرُ وَفِيمَا سُقِيَ بِالسَّوَانِي أَوِ النَّضْحِ نِصْفُ الْعُشْرِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1596"
   - In-book reference: " Book 9, Hadith 41"
@@ -1037,6 +1160,9 @@
       watered by draught camels.
     :ar: "\"‏ فِيمَا سَقَتِ الأَنْهَارُ وَالْعُيُونُ الْعُشْرُ وَمَا سُقِيَ بِالسَّوَانِي
       فَفِيهِ نِصْفُ الْعُشْرِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1597"
   - In-book reference: " Book 9, Hadith 42"
@@ -1052,6 +1178,9 @@
       مَاءِ السَّمَاءِ ‏.‏ قَالَ ابْنُ الأَسْوَدِ وَقَالَ يَحْيَى يَعْنِي ابْنَ آدَمَ
       سَأَلْتُ أَبَا إِيَاسٍ الأَسَدِيَّ عَنِ الْبَعْلِ فَقَالَ الَّذِي يُسْقَى بِمَاءِ
       السَّمَاءِ ‏.‏ وَقَالَ النَّضْرُ بْنُ شُمَيْلٍ الْبَعْلُ مَاءُ الْمَطَرِ ‏.‏"
+  :grade:
+    :en: Sahih Maqtu' (Al-Albani)
+    :ar: "  صحيح مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1598"
   - In-book reference: " Book 9, Hadith 43"
@@ -1070,6 +1199,9 @@
       Abu Dawud said: In Egypt I saw a cucumber thirteen spans in length and a citron cut into two pieces loaded on a camel like two loads.
     :ar: "\"‏ خُذِ الْحَبَّ مِنَ الْحَبِّ وَالشَّاةَ مِنَ الْغَنَمِ وَالْبَعِيرَ مِنَ
       الإِبِلِ وَالْبَقَرَةَ مِنَ الْبَقَرِ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1599"
   - In-book reference: " Book 9, Hadith 44"
@@ -1098,6 +1230,9 @@
       كَانَ يُؤَدِّي إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم مِنْ عُشُورِ نَحْلِهِ
       لَهُ فَاحْمِ لَهُ سَلَبَةَ وَإِلاَّ فَإِنَّمَا هُوَ ذُبَابُ غَيْثٍ يَأْكُلُهُ
       مَنْ يَشَاءُ ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1600"
   - In-book reference: " Book 9, Hadith 45"
@@ -1118,6 +1253,9 @@
       قِرَبٍ قِرْبَةٌ وَقَالَ سُفْيَانُ بْنُ عَبْدِ اللَّهِ الثَّقَفِيُّ قَالَ وَكَانَ
       يُحَمِّي لَهُمْ وَادِيَيْنِ زَادَ فَأَدَّوْا إِلَيْهِ مَا كَانُوا يُؤَدُّونَ
       إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَحَمَّى لَهُمْ وَادِيَيْهِمْ ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1601"
   - In-book reference: " Book 9, Hadith 46"
@@ -1133,6 +1271,9 @@
       أَخْبَرَنِي أُسَامَةُ بْنُ زَيْدٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ،
       عَنْ جَدِّهِ، أَنَّ بَطْنًا، مِنْ فَهْمٍ بِمَعْنَى الْمُغِيرَةِ قَالَ مِنْ عَشْرِ
       قِرَبٍ قِرْبَةٌ ‏.‏ وَقَالَ وَادِيَيْنِ لَهُمْ ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1602"
   - In-book reference: " Book 9, Hadith 47"
@@ -1148,6 +1289,9 @@
       سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ عَتَّابِ بْنِ أَسِيدٍ، قَالَ أَمَرَ رَسُولُ
       اللَّهِ صلى الله عليه وسلم أَنْ يُخْرَصَ الْعِنَبُ كَمَا يُخْرَصُ النَّخْلُ
       وَتُؤْخَذُ زَكَاتُهُ زَبِيبًا كَمَا تُؤْخَذُ زَكَاةُ النَّخْلِ تَمْرًا ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1603"
   - In-book reference: " Book 9, Hadith 48"
@@ -1161,6 +1305,9 @@
       بْنُ نَافِعٍ، عَنْ مُحَمَّدِ بْنِ صَالِحٍ التَّمَّارِ، عَنِ ابْنِ شِهَابٍ، بِإِسْنَادِهِ
       وَمَعْنَاهُ ‏.‏ قَالَ أَبُو دَاوُدَ وَسَعِيدٌ لَمْ يَسْمَعْ مِنْ عَتَّابٍ شَيْئًا
       ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1604"
   - In-book reference: " Book 9, Hadith 49"
@@ -1176,6 +1323,9 @@
       you do not leave or find a third, leave a quarter.'
     :ar: "\"‏ إِذَا خَرَصْتُمْ فَخُذُوا وَدَعُوا الثُّلُثَ فَإِنْ لَمْ تَدَعُوا أَوْ
       تَجِدُوا الثُّلُثَ فَدَعُوا الرُّبُعَ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1605"
   - In-book reference: " Book 9, Hadith 50"
@@ -1191,6 +1341,9 @@
       عنها - أَنَّهَا قَالَتْ وَهِيَ تَذْكُرُ شَأْنَ خَيْبَرَ كَانَ النَّبِيُّ صلى
       الله عليه وسلم يَبْعَثُ عَبْدَ اللَّهِ بْنَ رَوَاحَةَ إِلَى يَهُودِ خَيْبَرَ
       فَيَخْرِصُ النَّخْلَ حِينَ يَطِيبُ قَبْلَ أَنْ يُؤْكَلَ مِنْهُ ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1606"
   - In-book reference: " Book 9, Hadith 51"
@@ -1211,6 +1364,9 @@
       الصَّدَقَةِ ‏.‏ قَالَ الزُّهْرِيُّ لَوْنَيْنِ مِنْ تَمْرِ الْمَدِينَةِ ‏.‏ قَالَ
       أَبُو دَاوُدَ وَأَسْنَدَهُ أَيْضًا أَبُو الْوَلِيدِ عَنْ سُلَيْمَانَ بْنِ كَثِيرٍ
       عَنِ الزُّهْرِيِّ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1607"
   - In-book reference: " Book 9, Hadith 52"
@@ -1231,6 +1387,9 @@
       وَقَالَ ‏\"‏ لَوْ شَاءَ رَبُّ هَذِهِ الصَّدَقَةِ تَصَدَّقَ بِأَطْيَبَ مِنْهَا
       ‏\"‏ ‏.‏ وَقَالَ ‏\"‏ إِنَّ رَبَّ هَذِهِ الصَّدَقَةِ يَأْكُلُ الْحَشَفَ يَوْمَ
       الْقِيَامَةِ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1608"
   - In-book reference: " Book 9, Hadith 53"
@@ -1252,6 +1411,9 @@
       اللَّغْوِ وَالرَّفَثِ وَطُعْمَةً لِلْمَسَاكِينِ مَنْ أَدَّاهَا قَبْلَ الصَّلاَةِ
       فَهِيَ زَكَاةٌ مَقْبُولَةٌ وَمَنْ أَدَّاهَا بَعْدَ الصَّلاَةِ فَهِيَ صَدَقَةٌ
       مِنَ الصَّدَقَاتِ ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1609"
   - In-book reference: " Book 9, Hadith 54"
@@ -1267,6 +1429,9 @@
       رَسُولُ اللَّهِ صلى الله عليه وسلم بِزَكَاةِ الْفِطْرِ أَنْ تُؤَدَّى قَبْلَ
       خُرُوجِ النَّاسِ إِلَى الصَّلاَةِ ‏.‏ قَالَ فَكَانَ ابْنُ عُمَرَ يُؤَدِّيهَا
       قَبْلَ ذَلِكَ بِالْيَوْمِ وَالْيَوْمَيْنِ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  صحيح ق دون فعل ابن عمر ولـ خ نحوه   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1610"
   - In-book reference: " Book 9, Hadith 55"
@@ -1284,6 +1449,9 @@
       مَالِكٌ - زَكَاةُ الْفِطْرِ مِنْ رَمَضَانَ صَاعٌ مِنْ تَمْرٍ أَوْ صَاعٌ مِنْ
       شَعِيرٍ عَلَى كُلِّ حُرٍّ أَوْ عَبْدٍ ذَكَرٍ أَوْ أُنْثَى مِنَ الْمُسْلِمِينَ
       ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1611"
   - In-book reference: " Book 9, Hadith 56"
@@ -1304,6 +1472,9 @@
       قَالَ عَلَى كُلِّ مُسْلِمٍ وَرَوَاهُ سَعِيدٌ الْجُمَحِيُّ عَنْ عُبَيْدِ اللَّهِ
       عَنْ نَافِعٍ قَالَ فِيهِ مِنَ الْمُسْلِمِينَ وَالْمَشْهُورُ عَنْ عُبَيْدِ اللَّهِ
       لَيْسَ فِيهِ مِنَ الْمُسْلِمِينَ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1612"
   - In-book reference: " Book 9, Hadith 57"
@@ -1324,6 +1495,9 @@
       زَادَ مُوسَى وَالذَّكَرِ وَالأُنْثَى ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ فِيهِ أَيُّوبُ
       وَعَبْدُ اللَّهِ - يَعْنِي الْعُمَرِيَّ - فِي حَدِيثِهِمَا عَنْ نَافِعٍ ذَكَرٍ
       أَوْ أُنْثَى ‏.‏ أَيْضًا ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1613"
   - In-book reference: " Book 9, Hadith 58"
@@ -1343,6 +1517,9 @@
       صَاعًا مِنْ شَعِيرٍ أَوْ تَمْرٍ أَوْ سُلْتٍ أَوْ زَبِيبٍ ‏.‏ قَالَ قَالَ عَبْدُ
       اللَّهِ فَلَمَّا كَانَ عُمَرُ - رضى الله عنه - وَكَثُرَتِ الْحِنْطَةُ جَعَلَ
       عُمَرُ نِصْفَ صَاعِ حِنْطَةٍ مَكَانَ صَاعٍ مِنْ تِلْكَ الأَشْيَاءِ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  ضعيف خ مختصرا نحوه   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1614"
   - In-book reference: " Book 9, Hadith 59"
@@ -1357,6 +1534,9 @@
       حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، قَالَ قَالَ عَبْدُ اللَّهِ فَعَدَلَ النَّاسُ
       بَعْدُ نِصْفَ صَاعٍ مِنْ بُرٍّ ‏.‏ قَالَ وَكَانَ عَبْدُ اللَّهِ يُعْطِي التَّمْرَ
       فَأَعْوَزَ أَهْلَ الْمَدِينَةِ التَّمْرُ عَامًا فَأَعْطَى الشَّعِيرَ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1615"
   - In-book reference: " Book 9, Hadith 60"
@@ -1384,6 +1564,9 @@
       اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُثْمَانَ بْنِ حَكِيمِ بْنِ حِزَامٍ عَنْ عِيَاضٍ
       عَنْ أَبِي سَعِيدٍ بِمَعْنَاهُ وَذَكَرَ رَجُلٌ وَاحِدٌ فِيهِ عَنِ ابْنِ عُلَيَّةَ
       أَوْ صَاعَ حِنْطَةٍ ‏.‏ وَلَيْسَ بِمَحْفُوظٍ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1616"
   - In-book reference: " Book 9, Hadith 61"
@@ -1399,6 +1582,9 @@
     :en: "“Half a sa’ of wheat “. But this is a misunderstanding on the part of muawayah
       b. Hisham and of those who narrated from him."
     :ar: "\"‏ نِصْفَ صَاعٍ مِنْ بُرٍّ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1617"
   - In-book reference: " Book 9, Hadith 62"
@@ -1419,6 +1605,9 @@
       أَوْ أَقِطٍ أَوْ زَبِيبٍ هَذَا حَدِيثُ يَحْيَى زَادَ سُفْيَانُ أَوْ صَاعًا مِنْ
       دَقِيقٍ قَالَ حَامِدٌ فَأَنْكَرُوا عَلَيْهِ فَتَرَكَهُ سُفْيَانُ ‏.‏ قَالَ أَبُو
       دَاوُدَ فَهَذِهِ الزِّيَادَةُ وَهَمٌ مِنِ ابْنِ عُيَيْنَةَ ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1618"
   - In-book reference: " Book 9, Hadith 63"
@@ -1439,6 +1628,9 @@
     :ar: "\"‏ صَاعٌ مِنْ بُرٍّ أَوْ قَمْحٍ عَلَى كُلِّ اثْنَيْنِ صَغِيرٍ أَوْ كَبِيرٍ
       حُرٍّ أَوْ عَبْدٍ ذَكَرٍ أَوْ أُنْثَى أَمَّا غَنِيُّكُمْ فَيُزَكِّيهِ اللَّهُ
       وَأَمَّا فَقِيرُكُمْ فَيَرُدُّ اللَّهُ عَلَيْهِ أَكْثَرَ مِمَّا أَعْطَاهُ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1619"
   - In-book reference: " Book 9, Hadith 64"
@@ -1464,6 +1656,9 @@
       شَعِيرٍ عَنْ كُلِّ رَأْسٍ زَادَ عَلِيٌّ فِي حَدِيثِهِ أَوْ صَاعِ بُرٍّ أَوْ
       قَمْحٍ بَيْنَ اثْنَيْنِ - ثُمَّ اتَّفَقَا - عَنِ الصَّغِيرِ وَالْكَبِيرِ وَالْحُرِّ
       وَالْعَبْدِ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1620"
   - In-book reference: " Book 9, Hadith 65"
@@ -1481,6 +1676,9 @@
       قَالَ ابْنُ صَالِحٍ قَالَ الْعَدَوِيُّ وَإِنَّمَا هُوَ الْعُذْرِيُّ خَطَبَ رَسُولُ
       اللَّهِ صلى الله عليه وسلم النَّاسَ قَبْلَ الْفِطْرِ بِيَوْمَيْنِ بِمَعْنَى
       حَدِيثِ الْمُقْرِئِ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1621"
   - In-book reference: " Book 9, Hadith 66"
@@ -1509,6 +1707,9 @@
       رُخْصَ السِّعْرِ قَالَ قَدْ أَوْسَعَ اللَّهُ عَلَيْكُمْ فَلَوْ جَعَلْتُمُوهُ
       صَاعًا مِنْ كُلِّ شَىْءٍ ‏.‏ قَالَ حُمَيْدٌ وَكَانَ الْحَسَنُ يَرَى صَدَقَةَ
       رَمَضَانَ عَلَى مَنْ صَامَ ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1622"
   - In-book reference: " Book 9, Hadith 67"
@@ -1535,6 +1736,9 @@
       الْعَبَّاسُ عَمُّ رَسُولِ اللَّهِ صلى الله عليه وسلم فَهِيَ عَلَىَّ وَمِثْلُهَا
       ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ أَمَا شَعَرْتَ أَنَّ عَمَّ الرَّجُلِ صِنْوُ الأَبِ
       ‏\"‏ ‏.‏ أَوْ ‏\"‏ صِنْوُ أَبِيهِ ‏\"‏ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  صحيح م خ دون قوله أما شعرت   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1623"
   - In-book reference: " Book 9, Hadith 68"
@@ -1555,6 +1759,9 @@
       فِي ذَلِكَ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَى هَذَا الْحَدِيثَ هُشَيْمٌ عَنْ مَنْصُورِ
       بْنِ زَاذَانَ عَنِ الْحَكَمِ عَنِ الْحَسَنِ بْنِ مُسْلِمٍ عَنِ النَّبِيِّ صلى
       الله عليه وسلم وَحَدِيثُ هُشَيْمٍ أَصَحُّ ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1624"
   - In-book reference: " Book 9, Hadith 69"
@@ -1575,6 +1782,9 @@
       مِنْ حَيْثُ كُنَّا نَأْخُذُهَا عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم
       وَوَضَعْنَاهَا حَيْثُ كُنَّا نَضَعُهَا عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله
       عليه وسلم ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1625"
   - In-book reference: " Book 9, Hadith 70"
@@ -1598,6 +1808,9 @@
       ‏\"‏ ‏.‏ قَالَ يَحْيَى فَقَالَ عَبْدُ اللَّهِ بْنُ عُثْمَانَ لِسُفْيَانَ حِفْظِي
       أَنَّ شُعْبَةَ لاَ يَرْوِي عَنْ حَكِيمِ بْنِ جُبَيْرٍ فَقَالَ سُفْيَانُ فَقَدْ
       حَدَّثَنَاهُ زُبَيْدٌ عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1626"
   - In-book reference: " Book 9, Hadith 71"
@@ -1625,6 +1838,9 @@
       أَسْأَلْهُ فَقَدِمَ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم بَعْدَ ذَلِكَ شَعِيرٌ
       أَوْ زَبِيبٌ فَقَسَمَ لَنَا مِنْهُ - أَوْ كَمَا قَالَ - حَتَّى أَغْنَانَا اللَّهُ
       ‏.‏ قَالَ أَبُو دَاوُدَ هَكَذَا رَوَاهُ الثَّوْرِيُّ كَمَا قَالَ مَالِكٌ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1627"
   - In-book reference: " Book 9, Hadith 72"
@@ -1642,6 +1858,9 @@
       "An uqiyah during the time of the Messenger of Allah (ﷺ) was equivalent to forty
       dirhams."'
     :ar: "\"‏ مَنْ سَأَلَ وَلَهُ قِيمَةُ أُوقِيَّةٍ فَقَدْ أَلْحَفَ ‏\""
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1628"
   - In-book reference: " Book 9, Hadith 73"
@@ -1683,6 +1902,9 @@
       فِي مَوْضِعٍ آخَرَ ‏\"‏ أَنْ يَكُونَ لَهُ شِبَعُ يَوْمٍ وَلَيْلَةٍ أَوْ لَيْلَةٍ
       وَيَوْمٍ ‏\"‏ ‏.‏ وَكَانَ حَدَّثَنَا بِهِ مُخْتَصِرًا عَلَى هَذِهِ الأَلْفَاظِ
       الَّتِي ذُكِرَتْ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1629"
   - In-book reference: " Book 9, Hadith 74"
@@ -1705,6 +1927,9 @@
     :ar: "\"‏ إِنَّ اللَّهَ تَعَالَى لَمْ يَرْضَ بِحُكْمِ نَبِيٍّ وَلاَ غَيْرِهِ فِي
       الصَّدَقَاتِ حَتَّى حَكَمَ فِيهَا هُوَ فَجَزَّأَهَا ثَمَانِيَةَ أَجْزَاءٍ فَإِنْ
       كُنْتَ مِنْ تِلْكَ الأَجْزَاءِ أَعْطَيْتُكَ حَقَّكَ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1630"
   - In-book reference: " Book 9, Hadith 75"
@@ -1721,6 +1946,9 @@
     :ar: "\"‏ لَيْسَ الْمِسْكِينُ الَّذِي تَرُدُّهُ التَّمْرَةُ وَالتَّمْرَتَانِ وَالأُكْلَةُ
       وَالأُكْلَتَانِ وَلَكِنَّ الْمِسْكِينَ الَّذِي لاَ يَسْأَلُ النَّاسَ شَيْئًا
       وَلاَ يَفْطِنُونَ بِهِ فَيُعْطُونَهُ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1631"
   - In-book reference: " Book 9, Hadith 76"
@@ -1744,6 +1972,9 @@
       لاَ يَسْأَلُ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَى هَذَا مُحَمَّدُ بْنُ ثَوْرٍ
       وَعَبْدُ الرَّزَّاقِ عَنْ مَعْمَرٍ جَعَلاَ الْمَحْرُومَ مِنْ كَلاَمِ الزُّهْرِيِّ
       وَهَذَا أَصَحُّ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  صحيح دون قوله فذاك المرحوم فإنه مقطوع من كلام الزهري ق   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1632"
   - In-book reference: " Book 9, Hadith 77"
@@ -1762,6 +1993,9 @@
       a rich man or for one who is strong and able to earn a living.'
     :ar: "\"‏ إِنْ شِئْتُمَا أَعْطَيْتُكُمَا وَلاَ حَظَّ فِيهَا لِغَنِيٍّ وَلاَ لِقَوِيٍّ
       مُكْتَسِبٍ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1633"
   - In-book reference: " Book 9, Hadith 78"
@@ -1786,6 +2020,9 @@
       سَوِيٍّ ‏\"‏ ‏.‏ وَقَالَ عَطَاءُ بْنُ زُهَيْرٍ إِنَّهُ لَقِيَ عَبْدَ اللَّهِ
       بْنَ عَمْرٍو فَقَالَ إِنَّ الصَّدَقَةَ لاَ تَحِلُّ لِقَوِيٍّ وَلاَ لِذِي مِرَّةٍ
       سَوِيٍّ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1634"
   - In-book reference: " Book 9, Hadith 79"
@@ -1803,6 +2040,9 @@
       اللَّهِ أَوْ لِعَامِلٍ عَلَيْهَا أَوْ لِغَارِمٍ أَوْ لِرَجُلٍ اشْتَرَاهَا بِمَالِهِ
       أَوْ لِرَجُلٍ كَانَ لَهُ جَارٌ مِسْكِينٌ فَتُصُدِّقَ عَلَى الْمِسْكِينِ فَأَهْدَاهَا
       الْمِسْكِينُ لِلْغَنِيِّ ‏\""
+  :grade:
+    :en: Sahih li ghairih (Al-Albani)
+    :ar: "  صحيح لغيره   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1635"
   - In-book reference: " Book 9, Hadith 80"
@@ -1823,6 +2063,9 @@
       قَالَ أَبُو دَاوُدَ وَرَوَاهُ ابْنُ عُيَيْنَةَ عَنْ زَيْدٍ كَمَا قَالَ مَالِكٌ
       وَرَوَاهُ الثَّوْرِيُّ عَنْ زَيْدٍ قَالَ حَدَّثَنِي الثَّبْتُ عَنِ النَّبِيِّ
       صلى الله عليه وسلم ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1636"
   - In-book reference: " Book 9, Hadith 81"
@@ -1840,6 +2083,9 @@
     :ar: "\"‏ لاَ تَحِلُّ الصَّدَقَةُ لِغَنِيٍّ إِلاَّ فِي سَبِيلِ اللَّهِ أَوِ ابْنِ
       السَّبِيلِ أَوْ جَارٍ فَقِيرٍ يُتَصَدَّقُ عَلَيْهِ فَيُهْدِي لَكَ أَوْ يَدْعُوكَ
       ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1637"
   - In-book reference: " Book 9, Hadith 82"
@@ -1856,6 +2102,9 @@
       أَنَّ رَجُلاً، مِنَ الأَنْصَارِ يُقَالُ لَهُ سَهْلُ بْنُ أَبِي حَثْمَةَ أَخْبَرَهُ
       أَنَّ النَّبِيَّ صلى الله عليه وسلم وَدَاهُ بِمِائَةٍ مِنْ إِبِلِ الصَّدَقَةِ
       - يَعْنِي دِيَةَ الأَنْصَارِيِّ الَّذِي قُتِلَ بِخَيْبَرَ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1638"
   - In-book reference: " Book 9, Hadith 83"
@@ -1872,6 +2121,9 @@
     :ar: "\"‏ الْمَسَائِلُ كُدُوحٌ يَكْدَحُ بِهَا الرَّجُلُ وَجْهَهُ فَمَنْ شَاءَ
       أَبْقَى عَلَى وَجْهِهِ وَمَنْ شَاءَ تَرَكَ إِلاَّ أَنْ يَسْأَلَ الرَّجُلُ ذَا
       سُلْطَانٍ أَوْ فِي أَمْرٍ لاَ يَجِدُ مِنْهُ بُدًّا ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1639"
   - In-book reference: " Book 9, Hadith 84"
@@ -1906,6 +2158,9 @@
       فَسَأَلَ حَتَّى يُصِيبَ قِوَامًا مِنْ عَيْشٍ - أَوْ سِدَادًا مِنْ عَيْشٍ - ثُمَّ
       يُمْسِكُ وَمَا سِوَاهُنَّ مِنَ الْمَسْأَلَةِ يَا قَبِيصَةُ سُحْتٌ يَأْكُلُهَا
       صَاحِبُهَا سُحْتًا ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1640"
   - In-book reference: " Book 9, Hadith 85"
@@ -1951,6 +2206,9 @@
       ‏\"‏ هَذَا خَيْرٌ لَكَ مِنْ أَنْ تَجِيءَ الْمَسْأَلَةُ نُكْتَةً فِي وَجْهِكَ
       يَوْمَ الْقِيَامَةِ إِنَّ الْمَسْأَلَةَ لاَ تَصْلُحُ إِلاَّ لِثَلاَثَةٍ لِذِي
       فَقْرٍ مُدْقِعٍ أَوْ لِذِي غُرْمٍ مُفْظِعٍ أَوْ لِذِي دَمٍ مُوجِعٍ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1641"
   - In-book reference: " Book 9, Hadith 86"
@@ -1978,6 +2236,9 @@
       كَانَ بَعْضُ أُولَئِكَ النَّفَرِ يَسْقُطُ سَوْطُهُ فَمَا يَسْأَلُ أَحَدًا أَنْ
       يُنَاوِلَهُ إِيَّاهُ ‏.‏ قَالَ أَبُو دَاوُدَ حَدِيثُ هِشَامٍ لَمْ يَرْوِهِ إِلاَّ
       سَعِيدٌ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1642"
   - In-book reference: " Book 9, Hadith 87"
@@ -1993,6 +2254,9 @@
       him Paradise.  Thawban said : I (will not beg).  He never asked anyone for anything.'
     :ar: "\"‏ مَنْ تَكَفَّلَ لِي أَنْ لاَ يَسْأَلَ النَّاسَ شَيْئًا وَأَتَكَفَّلَ
       لَهُ بِالْجَنَّةِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1643"
   - In-book reference: " Book 9, Hadith 88"
@@ -2013,6 +2277,9 @@
     :ar: "\"‏ مَا يَكُونُ عِنْدِي مِنْ خَيْرٍ فَلَنْ أَدَّخِرَهُ عَنْكُمْ وَمَنْ يَسْتَعْفِفْ
       يُعِفَّهُ اللَّهُ وَمَنْ يَسْتَغْنِ يُغْنِهِ اللَّهُ وَمَنْ يَتَصَبَّرْ يُصَبِّرْهُ
       اللَّهُ وَمَا أَعْطَى اللَّهُ أَحَدًا مِنْ عَطَاءٍ أَوْسَعَ مِنَ الصَّبْرِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1644"
   - In-book reference: " Book 9, Hadith 89"
@@ -2031,6 +2298,9 @@
     :ar: "\"‏ مَنْ أَصَابَتْهُ فَاقَةٌ فَأَنْزَلَهَا بِالنَّاسِ لَمْ تُسَدَّ فَاقَتُهُ
       وَمَنْ أَنْزَلَهَا بِاللَّهِ أَوْشَكَ اللَّهُ لَهُ بِالْغِنَى إِمَّا بِمَوْتٍ
       عَاجِلٍ أَوْ غِنًى عَاجِلٍ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1645"
   - In-book reference: " Book 9, Hadith 90"
@@ -2044,6 +2314,9 @@
     :en: 'Al-Firasi asked the Messenger of Allah (ﷺ): May I beg, Messenger of Allah?
       The Prophet (ﷺ) said: No, but if there is no escape from it, beg from the upright.'
     :ar: "\"‏ لاَ وَإِنْ كُنْتَ سَائِلاً لاَ بُدَّ فَاسْأَلِ الصَّالِحِينَ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1646"
   - In-book reference: " Book 9, Hadith 91"
@@ -2067,6 +2340,9 @@
       it for your own purpose and as sadaqah.'
     :ar: "\"‏ إِذَا أُعْطِيتَ شَيْئًا مِنْ غَيْرِ أَنْ تَسْأَلَهُ فَكُلْ وَتَصَدَّقْ
       ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1647"
   - In-book reference: " Book 9, Hadith 92"
@@ -2090,6 +2366,9 @@
       الْيَدُ الْعُلْيَا الْمُتَعَفِّفَةُ ‏\"‏ ‏.‏ وَقَالَ أَكْثَرُهُمْ عَنْ حَمَّادِ
       بْنِ زَيْدٍ عَنْ أَيُّوبَ ‏\"‏ الْيَدُ الْعُلْيَا الْمُنْفِقَةُ ‏\"‏ ‏.‏ وَقَالَ
       وَاحِدٌ عَنْ حَمَّادٍ ‏\"‏ الْمُتَعَفِّفَةُ ‏\"‏ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  صحيح ق ورواية المتعففة شاذة   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1648"
   - In-book reference: " Book 9, Hadith 93"
@@ -2106,6 +2385,9 @@
     :ar: "\"‏ الأَيْدِي ثَلاَثَةٌ فَيَدُ اللَّهِ الْعُلْيَا وَيَدُ الْمُعْطِي الَّتِي
       تَلِيهَا وَيَدُ السَّائِلِ السُّفْلَى فَأَعْطِ الْفَضْلَ وَلاَ تَعْجِزْ عَنْ
       نَفْسِكَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1649"
   - In-book reference: " Book 9, Hadith 94"
@@ -2124,6 +2406,9 @@
       is treated as one of them.'
     :ar: "\"‏ مَوْلَى الْقَوْمِ مِنْ أَنْفُسِهِمْ وَإِنَّا لاَ تَحِلُّ لَنَا الصَّدَقَةُ
       ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1650"
   - In-book reference: " Book 9, Hadith 95"
@@ -2137,6 +2422,9 @@
       - قَالاَ حَدَّثَنَا حَمَّادٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ
       صلى الله عليه وسلم كَانَ يَمُرُّ بِالتَّمْرَةِ الْعَائِرَةِ فَمَا يَمْنَعُهُ
       مِنْ أَخْذِهَا إِلاَّ مَخَافَةُ أَنْ تَكُونَ صَدَقَةً ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1651"
   - In-book reference: " Book 9, Hadith 96"
@@ -2149,6 +2437,9 @@
     :en: 'Messenger of Allah (May peace be upon him) found a date and said: Were it
       not that I fear it may be part of the sadaqah, I would eat it.'
     :ar: "\"‏ لَوْلاَ أَنِّي أَخَافُ أَنْ تَكُونَ صَدَقَةً لأَكَلْتُهَا ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1652"
   - In-book reference: " Book 9, Hadith 97"
@@ -2162,6 +2453,9 @@
       بْنُ فُضَيْلٍ، عَنِ الأَعْمَشِ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ كُرَيْبٍ،
       مَوْلَى ابْنِ عَبَّاسٍ عَنِ ابْنِ عَبَّاسٍ، قَالَ بَعَثَنِي أَبِي إِلَى النَّبِيِّ
       صلى الله عليه وسلم فِي إِبِلٍ أَعْطَاهَا إِيَّاهُ مِنَ الصَّدَقَةِ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1653"
   - In-book reference: " Book 9, Hadith 98"
@@ -2176,6 +2470,9 @@
       حَدَّثَنَا مُحَمَّدٌ، - هُوَ ابْنُ أَبِي عُبَيْدَةَ - عَنْ أَبِيهِ، عَنِ الأَعْمَشِ،
       عَنْ سَالِمٍ، عَنْ كُرَيْبٍ، مَوْلَى ابْنِ عَبَّاسٍ عَنِ ابْنِ عَبَّاسٍ، نَحْوَهُ
       زَادَ أَبِي يُبْدِلُهَا لَهُ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1654"
   - In-book reference: " Book 9, Hadith 99"
@@ -2190,6 +2487,9 @@
       عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أُتِيَ بِلَحْمٍ قَالَ ‏\"‏
       مَا هَذَا ‏\"‏ ‏.‏ قَالُوا شَىْءٌ تُصُدِّقَ بِهِ عَلَى بَرِيرَةَ فَقَالَ ‏\"‏
       هُوَ لَهَا صَدَقَةٌ وَلَنَا هَدِيَّةٌ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1655"
   - In-book reference: " Book 9, Hadith 100"
@@ -2206,6 +2506,9 @@
       girl.  He said your reward is sure and the inheritance has given her back to
       you.
     :ar: "\"‏ قَدْ وَجَبَ أَجْرُكِ وَرَجَعَتْ إِلَيْكِ فِي الْمِيرَاثِ ‏\""
+  :grade:
+    :en: 
+    :ar: "  صحيح م بزيادة قضيتين أخريين   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1656"
   - In-book reference: " Book 9, Hadith 101"
@@ -2219,6 +2522,9 @@
       بْنِ أَبِي النَّجُودِ، عَنْ شَقِيقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ كُنَّا نَعُدُّ
       الْمَاعُونَ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم عَارِيَةَ الدَّلْوِ
       وَالْقِدْرِ ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1657"
   - In-book reference: " Book 9, Hadith 102"
@@ -2265,6 +2571,9 @@
       رُدَّتْ عَلَيْهِ أُولاَهَا حَتَّى يَحْكُمَ اللَّهُ تَعَالَى بَيْنَ عِبَادِهِ
       فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ ثُمَّ
       يُرَى سَبِيلُهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّارِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1658"
   - In-book reference: " Book 9, Hadith 103"
@@ -2282,6 +2591,9 @@
       هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ ‏.‏ قَالَ فِي قِصَّةِ
       الإِبِلِ بَعْدَ قَوْلِهِ ‏\"‏ لاَ يُؤَدِّي حَقَّهَا ‏\"‏ ‏.‏ قَالَ ‏\"‏ وَمِنْ
       حَقِّهَا حَلْبُهَا يَوْمَ وِرْدِهَا ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1659"
   - In-book reference: " Book 9, Hadith 104"
@@ -2300,6 +2612,9 @@
       لَهُ - يَعْنِي لأَبِي هُرَيْرَةَ - فَمَا حَقُّ الإِبِلِ قَالَ تُعْطِي الْكَرِيمَةَ
       وَتَمْنَحُ الْغَزِيرَةَ وَتُفْقِرُ الظَّهْرَ وَتُطْرِقُ الْفَحْلَ وَتَسْقِي
       اللَّبَنَ ‏.‏"
+  :grade:
+    :en: Hasan li ghairih (Al-Albani)
+    :ar: "  حسن لغيره   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1660"
   - In-book reference: " Book 9, Hadith 105"
@@ -2313,6 +2628,9 @@
     :en: 'A man asked: Messenger of Allah (ﷺ), what is due on camels? He replied in
       a similar way.  This version adds "and to lend its udders.”'
     :ar: "\"‏ وَإِعَارَةُ دَلْوِهَا ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1661"
   - In-book reference: " Book 9, Hadith 106"
@@ -2328,6 +2646,9 @@
       حَبَّانَ، عَنْ عَمِّهِ، وَاسِعِ بْنِ حَبَّانَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،
       أَنَّ النَّبِيَّ صلى الله عليه وسلم أَمَرَ مِنْ كُلِّ جَادِّ عَشَرَةِ أَوْسُقٍ
       مِنَ التَّمْرِ بِقِنْوٍ يُعَلَّقُ فِي الْمَسْجِدِ لِلْمَسَاكِينِ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1662"
   - In-book reference: " Book 9, Hadith 107"
@@ -2348,6 +2669,9 @@
     :ar: "\"‏ مَنْ كَانَ عِنْدَهُ فَضْلُ ظَهْرٍ فَلْيَعُدْ بِهِ عَلَى مَنْ لاَ ظَهْرَ
       لَهُ وَمَنْ كَانَ عِنْدَهُ فَضْلُ زَادٍ فَلْيَعُدْ بِهِ عَلَى مَنْ لاَ زَادَ
       لَهُ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1663"
   - In-book reference: " Book 9, Hadith 108"
@@ -2376,6 +2700,9 @@
       لَهُ ‏\"‏ أَلاَ أُخْبِرُكَ بِخَيْرِ مَا يَكْنِزُ الْمَرْءُ الْمَرْأَةُ الصَّالِحَةُ
       إِذَا نَظَرَ إِلَيْهَا سَرَّتْهُ وَإِذَا أَمَرَهَا أَطَاعَتْهُ وَإِذَا غَابَ
       عَنْهَا حَفِظَتْهُ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1664"
   - In-book reference: " Book 9, Hadith 109"
@@ -2389,6 +2716,9 @@
     :en: 'The Prophet (ﷺ) said: A beggar has the right though he may be riding (a
       horse).'
     :ar: "\"‏ لِلسَّائِلِ حَقٌّ وَإِنْ جَاءَ عَلَى فَرَسٍ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1665"
   - In-book reference: " Book 9, Hadith 110"
@@ -2402,6 +2732,9 @@
       زُهَيْرٌ، عَنْ شَيْخٍ، قَالَ رَأَيْتُ سُفْيَانَ عِنْدَهُ عَنْ فَاطِمَةَ بِنْتِ
       حُسَيْنٍ، عَنْ أَبِيهَا، عَنْ عَلِيٍّ، عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ
       ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1666"
   - In-book reference: " Book 9, Hadith 111"
@@ -2420,6 +2753,9 @@
       to give him, put something in his hand, even though it should be a burnt hoof.'
     :ar: "\"‏ إِنْ لَمْ تَجِدِي لَهُ شَيْئًا تُعْطِينَهُ إِيَّاهُ إِلاَّ ظِلْفًا مُحْرَقًا
       فَادْفَعِيهِ إِلَيْهِ فِي يَدِهِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1667"
   - In-book reference: " Book 9, Hadith 112"
@@ -2437,6 +2773,9 @@
       she hates Islam and she is a disbeliever.  May I do an act of kindness to her?  He
       replied Yes, do an act of kindness to her.
     :ar: "\"‏ نَعَمْ فَصِلِي أُمَّكِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1668"
   - In-book reference: " Book 9, Hadith 113"
@@ -2460,6 +2799,9 @@
       مَنْعُهُ قَالَ ‏\"‏ الْمِلْحُ ‏\"‏ ‏.‏ قَالَ يَا رَسُولَ اللَّهِ مَا الشَّىْءُ
       الَّذِي لاَ يَحِلُّ مَنْعُهُ قَالَ ‏\"‏ أَنْ تَفْعَلَ الْخَيْرَ خَيْرٌ لَكَ
       ‏\"‏ ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1669"
   - In-book reference: " Book 9, Hadith 114"
@@ -2475,6 +2817,9 @@
       \ Abu Bakr said I entered the mosque where a beggar was begging ; I found a
       piece of bread in the hand of ‘Abdal-Rahman which I took and gave it to him"
     :ar: "\"‏ هَلْ مِنْكُمْ أَحَدٌ أَطْعَمَ الْيَوْمَ مِسْكِينًا ‏\""
+  :grade:
+    :en: 
+    :ar: "  ضعيف وهو صحيح دون قصة السائل م   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1670"
   - In-book reference: " Book 9, Hadith 115"
@@ -2487,6 +2832,9 @@
   :hadith:
     :en: 'The Prophet (ﷺ) said: Nothing but Paradise must be begged for Allah''s sake.'
     :ar: "\"‏ لاَ يُسْأَلُ بِوَجْهِ اللَّهِ إِلاَّ الْجَنَّةُ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1671"
   - In-book reference: " Book 9, Hadith 116"
@@ -2505,6 +2853,9 @@
       وَمَنْ دَعَاكُمْ فَأَجِيبُوهُ وَمَنْ صَنَعَ إِلَيْكُمْ مَعْرُوفًا فَكَافِئُوهُ
       فَإِنْ لَمْ تَجِدُوا مَا تُكَافِئُونَهُ فَادْعُوا لَهُ حَتَّى تَرَوْا أَنَّكُمْ
       قَدْ كَافَأْتُمُوهُ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1672"
   - In-book reference: " Book 9, Hadith 117"
@@ -2535,6 +2886,9 @@
       his hand before the people. The best sadaqah is that which leaves a competence.'
     :ar: "\"‏ يَأْتِي أَحَدُكُمْ بِمَا يَمْلِكُ فَيَقُولُ هَذِهِ صَدَقَةٌ ثُمَّ يَقْعُدُ
       يَسْتَكِفُّ النَّاسَ خَيْرُ الصَّدَقَةِ مَا كَانَ عَنْ ظَهْرِ غِنًى ‏\""
+  :grade:
+    :en: 
+    :ar: "  ضعيف إنما يصح منه جملة خير الصدقة   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1673"
   - In-book reference: " Book 9, Hadith 118"
@@ -2547,6 +2901,9 @@
       a different chain of narrators to the same effect.  This version adds "have
       your property with you from us.  We have no need of it."
     :ar: "\"‏ خُذْ عَنَّا مَالَكَ لاَ حَاجَةَ لَنَا بِهِ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1674"
   - In-book reference: " Book 9, Hadith 119"
@@ -2564,6 +2921,9 @@
       then asked him to take two clothes from them. He reprimanded him and said: Take
       your clothe.'
     :ar: "\"‏ خُذْ ثَوْبَكَ ‏\""
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1675"
   - In-book reference: " Book 9, Hadith 120"
@@ -2577,6 +2937,9 @@
       is that which leaves a competence ; and begin with those for whom you are responsible.
     :ar: "\"‏ إِنَّ خَيْرَ الصَّدَقَةِ مَا تَرَكَ غِنًى أَوْ تُصُدِّقَ بِهِ عَنْ ظَهْرِ
       غِنًى وَابْدَأْ بِمَنْ تَعُولُ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1676"
   - In-book reference: " Book 9, Hadith 121"
@@ -2591,6 +2954,9 @@
       is most excellent?  He replied What a man with little property can afford to
       give; and begin with those for whom you are responsible.
     :ar: "\"‏ جَهْدُ الْمُقِلِّ وَابْدَأْ بِمَنْ تَعُولُ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1677"
   - In-book reference: " Book 9, Hadith 122"
@@ -2616,6 +2982,9 @@
       فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا أَبْقَيْتَ لأَهْلِكَ
       ‏\"‏ ‏.‏ قَالَ أَبْقَيْتُ لَهُمُ اللَّهَ وَرَسُولَهُ ‏.‏ قُلْتُ لاَ أُسَابِقُكَ
       إِلَى شَىْءٍ أَبَدًا ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1678"
   - In-book reference: " Book 9, Hadith 123"
@@ -2628,6 +2997,9 @@
     :en: Sa’id reported Sa’d came to the Prophet (SWAS) and asked him Which sadaqah
       do you like most? He replied Water.
     :ar: "\"‏ الْمَاءُ ‏\""
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1679"
   - In-book reference: " Book 9, Hadith 124"
@@ -2640,6 +3012,9 @@
     :ar: "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ، حَدَّثَنَا مُحَمَّدُ بْنُ عَرْعَرَةَ،
       عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَالْحَسَنِ،
       عَنْ سَعْدِ بْنِ عُبَادَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ ‏.‏"
+  :grade:
+    :en: 
+    :ar: 
   :reference:
   - Reference: " Sunan Abi Dawud 1680"
   - In-book reference: " Book 9, Hadith 125"
@@ -2653,6 +3028,9 @@
       is best? He replied: Water (is best). He dug a well and said: It is for Umm
       Sa''d.'
     :ar: "\"‏ الْمَاءُ ‏\""
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1681"
   - In-book reference: " Book 9, Hadith 126"
@@ -2672,6 +3050,9 @@
       مِنْ خُضْرِ الْجَنَّةِ وَأَيُّمَا مُسْلِمٍ أَطْعَمَ مُسْلِمًا عَلَى جُوعٍ أَطْعَمَهُ
       اللَّهُ مِنْ ثِمَارِ الْجَنَّةِ وَأَيُّمَا مُسْلِمٍ سَقَى مُسْلِمًا عَلَى ظَمَإٍ
       سَقَاهُ اللَّهُ مِنَ الرَّحِيقِ الْمَخْتُومِ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1682"
   - In-book reference: " Book 9, Hadith 127"
@@ -2691,6 +3072,9 @@
     :ar: "\"‏ أَرْبَعُونَ خَصْلَةً أَعْلاَهُنَّ مَنِيحَةُ الْعَنْزِ مَا يَعْمَلُ رَجُلٌ
       بِخَصْلَةٍ مِنْهَا رَجَاءَ ثَوَابِهَا وَتَصْدِيقَ مَوْعُودِهَا إِلاَّ أَدْخَلَهُ
       اللَّهُ بِهَا الْجَنَّةَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1683"
   - In-book reference: " Book 9, Hadith 128"
@@ -2708,6 +3092,9 @@
     :ar: "\"‏ إِنَّ الْخَازِنَ الأَمِينَ - الَّذِي يُعْطِي مَا أُمِرَ بِهِ كَامِلاً
       مُوَفَّرًا طَيِّبَةً بِهِ نَفْسُهُ حَتَّى يَدْفَعَهُ إِلَى الَّذِي أُمِرَ لَهُ
       بِهِ - أَحَدُ الْمُتَصَدِّقَيْنِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1684"
   - In-book reference: " Book 9, Hadith 129"
@@ -2725,6 +3112,9 @@
     :ar: "\"‏ إِذَا أَنْفَقَتِ الْمَرْأَةُ مِنْ بَيْتِ زَوْجِهَا غَيْرَ مُفْسِدَةٍ
       كَانَ لَهَا أَجْرُ مَا أَنْفَقَتْ وَلِزَوْجِهَا أَجْرُ مَا اكْتَسَبَ وَلِخَازِنِهِ
       مِثْلُ ذَلِكَ لاَ يَنْقُصُ بَعْضُهُمْ أَجْرَ بَعْضٍ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1685"
   - In-book reference: " Book 9, Hadith 130"
@@ -2746,6 +3136,9 @@
       means bread, vegetables and fresh dates.  \n\n\nAbu Dawud said Al-Thawri transmitted
       from Yunus in a similar manner."
     :ar: "\"‏ الرَّطْبُ تَأْكُلْنَهُ وَتُهْدِينَهُ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1686"
   - In-book reference: " Book 9, Hadith 131"
@@ -2760,6 +3153,9 @@
       has half his reward.
     :ar: "\"‏ إِذَا أَنْفَقَتِ الْمَرْأَةُ مِنْ كَسْبِ زَوْجِهَا مِنْ غَيْرِ أَمْرِهِ
       فَلَهَا نِصْفُ أَجْرِهِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1687"
   - In-book reference: " Book 9, Hadith 132"
@@ -2777,6 +3173,9 @@
       مِنْ بَيْتِ زَوْجِهَا قَالَ لاَ إِلاَّ مِنْ قُوتِهَا وَالأَجْرُ بَيْنَهُمَا
       وَلاَ يَحِلُّ لَهَا أَنْ تَصَدَّقَ مِنْ مَالِ زَوْجِهَا إِلاَّ بِإِذْنِهِ ‏.‏
       قَالَ أَبُو دَاوُدَ هَذَا يُضَعِّفُ حَدِيثَ هَمَّامٍ ‏.‏"
+  :grade:
+    :en: Sahih Mauquf (Al-Albani)
+    :ar: "  صحيح موقوف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1688"
   - In-book reference: " Book 9, Hadith 133"
@@ -2803,6 +3202,9 @@
       قَيْسِ بْنِ عَتِيكِ بْنِ زَيْدِ بْنِ مُعَاوِيَةَ بْنِ عَمْرِو بْنِ مَالِكِ بْنِ
       النَّجَّارِ فَعَمْرٌو يَجْمَعُ حَسَّانَ وَأَبَا طَلْحَةَ وَأُبَيًّا ‏.‏ قَالَ
       الأَنْصَارِيُّ بَيْنَ أُبَىٍّ وَأَبِي طَلْحَةَ سِتَّةُ آبَاءٍ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1689"
   - In-book reference: " Book 9, Hadith 134"
@@ -2819,6 +3221,9 @@
       had given her to your maternal uncles, it would have increased your reward'
     :ar: "\"‏ آجَرَكِ اللَّهُ أَمَا إِنَّكِ لَوْ كُنْتِ أَعْطَيْتِهَا أَخْوَالَكِ
       كَانَ أَعْظَمَ لأَجْرِكِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1690"
   - In-book reference: " Book 9, Hadith 135"
@@ -2840,6 +3245,9 @@
       ‏.‏ قَالَ ‏\"‏ تَصَدَّقْ بِهِ عَلَى زَوْجَتِكَ ‏\"‏ ‏.‏ أَوْ قَالَ ‏\"‏ زَوْجِكَ
       ‏\"‏ ‏.‏ قَالَ عِنْدِي آخَرُ ‏.‏ قَالَ ‏\"‏ تَصَدَّقْ بِهِ عَلَى خَادِمِكَ ‏\"‏
       ‏.‏ قَالَ عِنْدِي آخَرُ ‏.‏ قَالَ ‏\"‏ أَنْتَ أَبْصَرُ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1691"
   - In-book reference: " Book 9, Hadith 136"
@@ -2852,6 +3260,9 @@
   :hadith:
     :en: It is sufficient sin for a man that he neglects him whom he maintains.
     :ar: "\"‏ كَفَى بِالْمَرْءِ إِثْمًا أَنْ يُضَيِّعَ مَنْ يَقُوتُ ‏\""
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1692"
   - In-book reference: " Book 9, Hadith 137"
@@ -2865,6 +3276,9 @@
       should do kindness to his near relatives.
     :ar: "\"‏ مَنْ سَرَّهُ أَنْ يُبْسَطَ لَهُ فِي رِزْقِهِ وَيُنْسَأَ لَهُ فِي أَثَرِهِ
       فَلْيَصِلْ رَحِمَهُ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1693"
   - In-book reference: " Book 9, Hadith 138"
@@ -2880,6 +3294,9 @@
       I shall cut him off.'
     :ar: "\"‏ قَالَ اللَّهُ أَنَا الرَّحْمَنُ وَهِيَ الرَّحِمُ شَقَقْتُ لَهَا اسْمًا
       مِنَ اسْمِي مَنْ وَصَلَهَا وَصَلْتُهُ وَمَنْ قَطَعَهَا بَتَتُّهُ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1694"
   - In-book reference: " Book 9, Hadith 139"
@@ -2894,6 +3311,9 @@
       الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، حَدَّثَنِي أَبُو سَلَمَةَ،
       أَنَّ الرَّدَّادَ اللَّيْثِيَّ، أَخْبَرَهُ عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ،
       أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم بِمَعْنَاهُ ‏.‏"
+  :grade:
+    :en: 
+    :ar: 
   :reference:
   - Reference: " Sunan Abi Dawud 1695"
   - In-book reference: " Book 9, Hadith 140"
@@ -2906,6 +3326,9 @@
     :en: 'The Prophet(ﷺ) said: Anyone who cuts off relationship from his nearest relatives
       will not enter Paradise.'
     :ar: "\"‏ لاَ يَدْخُلُ الْجَنَّةَ قَاطِعُ رَحِمٍ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1696"
   - In-book reference: " Book 9, Hadith 141"
@@ -2924,6 +3347,9 @@
       is cut off."
     :ar: "\"‏ لَيْسَ الْوَاصِلُ بِالْمُكَافِئِ وَلَكِنَّ الْوَاصِلَ هُوَ الَّذِي إِذَا
       قُطِعَتْ رَحِمُهُ وَصَلَهَا ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1697"
   - In-book reference: " Book 9, Hadith 142"
@@ -2942,6 +3368,9 @@
     :ar: "\"‏ إِيَّاكُمْ وَالشُّحَّ فَإِنَّمَا هَلَكَ مَنْ كَانَ قَبْلَكُمْ بِالشُّحِّ
       أَمَرَهُمْ بِالْبُخْلِ فَبَخَلُوا وَأَمَرَهُمْ بِالْقَطِيعَةِ فَقَطَعُوا وَأَمَرَهُمْ
       بِالْفُجُورِ فَفَجَرُوا ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1698"
   - In-book reference: " Book 9, Hadith 143"
@@ -2956,6 +3385,9 @@
       al-Zubair (her husband) brings to me in his house: should I spend out of it?  He
       said : Give and do not hoard so your sustenance will be hoarded.'
     :ar: "\"‏ أَعْطِي وَلاَ تُوكِي فَيُوكِيَ عَلَيْكِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1699"
   - In-book reference: " Book 9, Hadith 144"
@@ -2970,6 +3402,9 @@
       She counted a number of sadaqahs. The Messenger of Allah (ﷺ) said: Give and
       do not calculate, so calculation will be made against you.'
     :ar: "\"‏ أَعْطِي وَلاَ تُحْصِي فَيُحْصِيَ عَلَيْكِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 1700"
   - In-book reference: " Book 9, Hadith 145"

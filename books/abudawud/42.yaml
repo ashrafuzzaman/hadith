@@ -10,6 +10,9 @@
     :ar: "\"‏ افْتَرَقَتِ الْيَهُودُ عَلَى إِحْدَى أَوْ ثِنْتَيْنِ وَسَبْعِينَ فِرْقَةً
       وَتَفَرَّقَتِ النَّصَارَى عَلَى إِحْدَى أَوْ ثِنْتَيْنِ وَسَبْعِينَ فِرْقَةً
       وَتَفْتَرِقُ أُمَّتِي عَلَى ثَلاَثٍ وَسَبْعِينَ فِرْقَةً ‏\""
+  :grade:
+    :en: Hasan Sahih (Al-Albani)
+    :ar: "  حسن صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4596"
   - In-book reference: " Book 42, Hadith 1"
@@ -35,6 +38,9 @@
       أَقْوَامٌ تَجَارَى بِهِمْ تِلْكَ الأَهْوَاءُ كَمَا يَتَجَارَى الْكَلْبُ لِصَاحِبِهِ
       ‏\"‏ ‏.‏ وَقَالَ عَمْرٌو ‏\"‏ الْكَلْبُ بِصَاحِبِهِ لاَ يَبْقَى مِنْهُ عِرْقٌ
       وَلاَ مَفْصِلٌ إِلاَّ دَخَلَهُ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4597"
   - In-book reference: " Book 42, Hadith 2"
@@ -54,6 +60,9 @@
       ‏}‏ إِلَى ‏{‏ أُولُو الأَلْبَابِ ‏}‏ قَالَتْ فَقَالَ رَسُولُ اللَّهِ صلى الله
       عليه وسلم ‏\"‏ فَإِذَا رَأَيْتُمُ الَّذِينَ يَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ
       فَأُولَئِكَ الَّذِينَ سَمَّى اللَّهُ فَاحْذَرُوهُمْ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4598"
   - In-book reference: " Book 42, Hadith 3"
@@ -66,6 +75,9 @@
     :en: 'The Prophet (ﷺ) said: The best of the actions is to love for the sake of
       Allah and to hate for the sake of Allah.'
     :ar: "\"‏ أَفْضَلُ الأَعْمَالِ الْحُبُّ فِي اللَّهِ وَالْبُغْضُ فِي اللَّهِ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4599"
   - In-book reference: " Book 42, Hadith 4"
@@ -90,6 +102,9 @@
       تَسَوَّرْتُ جِدَارَ حَائِطِ أَبِي قَتَادَةَ وَهُوَ ابْنُ عَمِّي فَسَلَّمْتُ
       عَلَيْهِ فَوَاللَّهِ مَا رَدَّ عَلَىَّ السَّلاَمَ ‏.‏ ثُمَّ سَاقَ خَبَرَ تَنْزِيلِ
       تَوْبَتِهِ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4600"
   - In-book reference: " Book 42, Hadith 5"
@@ -105,6 +120,9 @@
       I then went to Prophet (ﷺ) and saluted him, but he did not return me salutation.
       He said: Go and wash it away from you.'
     :ar: "\"‏ اذْهَبْ فَاغْسِلْ هَذَا عَنْكَ ‏\""
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4601"
   - In-book reference: " Book 42, Hadith 6"
@@ -121,6 +139,9 @@
       became angry and kept away from her during Dhu al-Hijjah, Muharram, and a part
       of Safar.'
     :ar: "\"‏ أَعْطِيهَا بَعِيرًا ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4602"
   - In-book reference: " Book 42, Hadith 7"
@@ -132,6 +153,9 @@
   :hadith:
     :en: 'The Prophet (ﷺ) said: Controverting about the Qur''an is disbelief.'
     :ar: "\"‏ الْمِرَاءُ فِي الْقُرْآنِ كُفْرٌ ‏\""
+  :grade:
+    :en: Hasan Sahih (Al-Albani)
+    :ar: "  حسن صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4603"
   - In-book reference: " Book 42, Hadith 8"
@@ -157,6 +181,9 @@
       مِنَ السَّبُعِ وَلاَ لُقَطَةُ مُعَاهِدٍ إِلاَّ أَنْ يَسْتَغْنِيَ عَنْهَا صَاحِبُهَا
       وَمَنْ نَزَلَ بِقَوْمٍ فَعَلَيْهِمْ أَنْ يَقْرُوهُ فَإِنْ لَمْ يَقْرُوهُ فَلَهُ
       أَنْ يُعْقِبَهُمْ بِمِثْلِ قِرَاهُ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4604"
   - In-book reference: " Book 42, Hadith 9"
@@ -173,6 +200,9 @@
     :ar: "\"‏ لاَ أُلْفِيَنَّ أَحَدَكُمْ مُتَّكِئًا عَلَى أَرِيكَتِهِ يَأْتِيهِ الأَمْرُ
       مِنْ أَمْرِي مِمَّا أَمَرْتُ بِهِ أَوْ نَهَيْتُ عَنْهُ فَيَقُولُ لاَ نَدْرِي
       مَا وَجَدْنَا فِي كِتَابِ اللَّهِ اتَّبَعْنَاهُ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4605"
   - In-book reference: " Book 42, Hadith 10"
@@ -191,6 +221,9 @@
       لَيْسَ فِيهِ فَهُوَ رَدٌّ ‏\"‏ ‏.‏ قَالَ ابْنُ عِيسَى قَالَ النَّبِيُّ صلى الله
       عليه وسلم ‏\"‏ مَنْ صَنَعَ أَمْرًا عَلَى غَيْرِ أَمْرِنَا فَهُوَ رَدٌّ ‏\"‏
       ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4606"
   - In-book reference: " Book 42, Hadith 11"
@@ -228,6 +261,9 @@
       تَمَسَّكُوا بِهَا وَعَضُّوا عَلَيْهَا بِالنَّوَاجِذِ وَإِيَّاكُمْ وَمُحْدَثَاتِ
       الأُمُورِ فَإِنَّ كُلَّ مُحْدَثَةٍ بِدْعَةٌ وَكُلَّ بِدْعَةٍ ضَلاَلَةٌ ‏\"‏
       ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4607"
   - In-book reference: " Book 42, Hadith 12"
@@ -240,6 +276,9 @@
   :hadith:
     :en: Beware! The extremists perished, saying it three times.
     :ar: "\"‏ أَلاَ هَلَكَ الْمُتَنَطِّعُونَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4608"
   - In-book reference: " Book 42, Hadith 13"
@@ -258,6 +297,9 @@
       تَبِعَهُ لاَ يَنْقُصُ ذَلِكَ مِنْ أُجُورِهِمْ شَيْئًا وَمَنْ دَعَا إِلَى ضَلاَلَةٍ
       كَانَ عَلَيْهِ مِنَ الإِثْمِ مِثْلُ آثَامِ مَنْ تَبِعَهُ لاَ يَنْقُصُ ذَلِكَ
       مِنْ آثَامِهِمْ شَيْئًا ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4609"
   - In-book reference: " Book 42, Hadith 14"
@@ -274,6 +316,9 @@
     :ar: "\"‏ إِنَّ أَعْظَمَ الْمُسْلِمِينَ فِي الْمُسْلِمِينَ جُرْمًا مَنْ سَأَلَ
       عَنْ أَمْرٍ لَمْ يُحَرَّمْ فَحُرِّمَ عَلَى النَّاسِ مِنْ أَجْلِ مَسْأَلَتِهِ
       ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4610"
   - In-book reference: " Book 42, Hadith 15"
@@ -310,6 +355,9 @@
       وَقَالَ لاَ يُثْنِيَنَّكَ كَمَا قَالَ عُقَيْلٌ ‏.‏ وَقَالَ ابْنُ إِسْحَاقَ عَنِ
       الزُّهْرِيِّ قَالَ بَلَى مَا تَشَابَهَ عَلَيْكَ مِنْ قَوْلِ الْحَكِيمِ حَتَّى
       تَقُولَ مَا أَرَادَ بِهَذِهِ الْكَلِمَةِ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  صحيح الإسناد موقوف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4611"
   - In-book reference: " Book 42, Hadith 16"
@@ -402,6 +450,9 @@
       الشَّقَاوَةُ وَمَا يُقَدَّرْ يَكُنْ وَمَا شَاءَ اللَّهُ كَانَ وَمَا لَمْ يَشَأْ
       لَمْ يَكُنْ وَلاَ نَمْلِكُ لأَنْفُسِنَا ضَرًّا وَلاَ نَفْعًا ثُمَّ رَغَبُوا
       بَعْدَ ذَلِكَ وَرَهِبُوا ‏.‏"
+  :grade:
+    :en: Sahih Maqtu' (Al-Albani)
+    :ar: "  صحيح مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4612"
   - In-book reference: " Book 42, Hadith 17"
@@ -420,6 +471,9 @@
       of Allah (ﷺ) say: Among my community there will be people who will falsify Divine
       decree.'
     :ar: "\"‏ إِنَّهُ سَيَكُونُ فِي أُمَّتِي أَقْوَامٌ يُكَذِّبُونَ بِالْقَدَرِ ‏\""
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4613"
   - In-book reference: " Book 42, Hadith 18"
@@ -441,6 +495,9 @@
       ‏{‏ مَا أَنْتُمْ عَلَيْهِ بِفَاتِنِينَ * إِلاَّ مَنْ هُوَ صَالِ الْجَحِيمِ ‏}‏
       قَالَ إِنَّ الشَّيَاطِينَ لاَ يَفْتِنُونَ بِضَلاَلَتِهِمْ إِلاَّ مَنْ أَوْجَبَ
       اللَّهُ عَلَيْهِ الْجَحِيمَ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  حسن الإسناد مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4614"
   - In-book reference: " Book 42, Hadith 19"
@@ -453,6 +510,9 @@
     :ar: "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا خَالِدٌ
       الْحَذَّاءُ، عَنِ الْحَسَنِ، فِي قَوْلِهِ تَعَالَى ‏{‏ وَلِذَلِكَ خَلَقَهُمْ
       ‏}‏ قَالَ خَلَقَ هَؤُلاَءِ لِهَذِهِ وَهَؤُلاَءِ لِهَذِهِ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  صحيح الإسناد مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4615"
   - In-book reference: " Book 42, Hadith 20"
@@ -467,6 +527,9 @@
       قَالَ قُلْتُ لِلْحَسَنِ ‏{‏ مَا أَنْتُمْ عَلَيْهِ بِفَاتِنِينَ * إِلاَّ مَنْ
       هُوَ صَالِ الْجَحِيمِ ‏}‏ قَالَ إِلاَّ مَنْ أَوْجَبَ اللَّهُ تَعَالَى عَلَيْهِ
       أَنَّهُ يَصْلَى الْجَحِيمَ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  صحيح الإسناد مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4616"
   - In-book reference: " Book 42, Hadith 21"
@@ -479,6 +542,9 @@
     :ar: "حَدَّثَنَا هِلاَلُ بْنُ بِشْرٍ، قَالَ حَدَّثَنَا حَمَّادٌ، قَالَ أَخْبَرَنِي
       حُمَيْدٌ، قَالَ كَانَ الْحَسَنُ يَقُولُ لأَنْ يُسْقَطَ مِنَ السَّمَاءِ إِلَى
       الأَرْضِ أَحَبُّ إِلَيْهِ مِنْ أَنْ يَقُولَ الأَمْرُ بِيَدِي ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  صحيح الإسناد مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4617"
   - In-book reference: " Book 42, Hadith 22"
@@ -501,6 +567,9 @@
       اللَّهِ هَلْ مِنْ خَالِقٍ غَيْرُ اللَّهِ خَلَقَ اللَّهُ الشَّيْطَانَ وَخَلَقَ
       الْخَيْرَ وَخَلَقَ الشَّرَّ ‏.‏ قَالَ الرَّجُلُ قَاتَلَهُمُ اللَّهُ كَيْفَ يَكْذِبُونَ
       عَلَى هَذَا الشَّيْخِ ‏.‏"
+  :grade:
+    :en: Sahih li ghairih (Al-Albani)
+    :ar: "  صحيح لغيره   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4618"
   - In-book reference: " Book 42, Hadith 23"
@@ -512,6 +581,9 @@
     :ar: "حَدَّثَنَا ابْنُ كَثِيرٍ، قَالَ أَخْبَرَنَا سُفْيَانُ، عَنْ حُمَيْدٍ الطَّوِيلِ،
       عَنِ الْحَسَنِ، ‏{‏ كَذَلِكَ نَسْلُكُهُ فِي قُلُوبِ الْمُجْرِمِينَ ‏}‏ قَالَ
       الشِّرْكُ ‏.‏"
+  :grade:
+    :en: Sahih li ghairih (Al-Albani)
+    :ar: "  صحيح لغيره   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4619"
   - In-book reference: " Book 42, Hadith 24"
@@ -525,6 +597,9 @@
       قَدْ سَمَّاهُ غَيْرِ ابْنِ كَثِيرٍ عَنْ سُفْيَانَ، عَنْ عُبَيْدٍ الصِّيدِ، عَنِ
       الْحَسَنِ، فِي قَوْلِ اللَّهِ عَزَّ وَجَلَّ ‏{‏ وَحِيلَ بَيْنَهُمْ وَبَيْنَ
       مَا يَشْتَهُونَ ‏}‏ قَالَ بَيْنَهُمْ وَبَيْنَ الإِيمَانِ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  ضعيف الإسناد مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4620"
   - In-book reference: " Book 42, Hadith 25"
@@ -540,6 +615,9 @@
       قَالَ كُنْتُ أَسِيرُ بِالشَّامِ فَنَادَانِي رَجُلٌ مِنْ خَلْفِي فَالْتَفَتُّ
       فَإِذَا رَجَاءُ بْنُ حَيْوَةَ فَقَالَ يَا أَبَا عَوْنٍ مَا هَذَا الَّذِي يَذْكُرُونَ
       عَنِ الْحَسَنِ قَالَ قُلْتُ إِنَّهُمْ يَكْذِبُونَ عَلَى الْحَسَنِ كَثِيرًا ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  صحيح الإسناد مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4621"
   - In-book reference: " Book 42, Hadith 26"
@@ -556,6 +634,9 @@
       رَأْيُهُمْ وَهُمْ يُرِيدُونَ أَنْ يُنَفِّقُوا بِذَلِكَ رَأْيَهُمْ وَقَوْمٌ لَهُ
       فِي قُلُوبِهِمْ شَنَآنٌ وَبُغْضٌ يَقُولُونَ أَلَيْسَ مِنْ قَوْلِهِ كَذَا أَلَيْسَ
       مِنْ قَوْلِهِ كَذَا"
+  :grade:
+    :en: Sahih li ghairih (Al-Albani)
+    :ar: "  صحيح لغيره   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4622"
   - In-book reference: " Book 42, Hadith 27"
@@ -569,6 +650,9 @@
       حَدَّثَهُمْ قَالَ كَانَ قُرَّةُ بْنُ خَالِدٍ يَقُولُ لَنَا يَا فِتْيَانُ لاَ
       تُغْلَبُوا عَلَى الْحَسَنِ فَإِنَّهُ كَانَ رَأْيُهُ السُّنَّةَ وَالصَّوَابَ
       ‏.‏"
+  :grade:
+    :en: Sahih li ghairih (Al-Albani)
+    :ar: "  صحيح لغيره   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4623"
   - In-book reference: " Book 42, Hadith 28"
@@ -585,6 +669,9 @@
       لَوْ عَلِمْنَا أَنَّ كَلِمَةَ، الْحَسَنِ تَبْلُغُ مَا بَلَغَتْ لَكَتَبْنَا بِرُجُوعِهِ
       كِتَابًا وَأَشْهَدْنَا عَلَيْهِ شُهُودًا وَلَكِنَّا قُلْنَا كَلِمَةٌ خَرَجَتْ
       لاَ تُحْمَلُ ‏.‏"
+  :grade:
+    :en: Sahih li ghairih (Al-Albani)
+    :ar: "  صحيح لغيره   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4624"
   - In-book reference: " Book 42, Hadith 29"
@@ -596,6 +683,9 @@
     :ar: "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ،
       عَنْ أَيُّوبَ، قَالَ قَالَ لِيَ الْحَسَنُ مَا أَنَا بِعَائِدٍ، إِلَى شَىْءٍ
       مِنْهُ أَبَدًا ‏.‏"
+  :grade:
+    :en: Sahih li ghairih (Al-Albani)
+    :ar: "  صحيح لغيره   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4625"
   - In-book reference: " Book 42, Hadith 30"
@@ -607,6 +697,9 @@
     :ar: "حَدَّثَنَا هِلاَلُ بْنُ بِشْرٍ، قَالَ حَدَّثَنَا عُثْمَانُ بْنُ عُثْمَانَ،
       عَنْ عُثْمَانَ الْبَتِّيِّ، قَالَ مَا فَسَّرَ الْحَسَنُ آيَةً قَطُّ إِلاَّ عَلَى
       الإِثْبَاتِ ‏.‏"
+  :grade:
+    :en: Sahih li ghairih (Al-Albani)
+    :ar: "  صحيح لغيره   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4626"
   - In-book reference: " Book 42, Hadith 31"
@@ -622,6 +715,9 @@
       نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كُنَّا نَقُولُ فِي زَمَنِ النَّبِيِّ صلى الله
       عليه وسلم لاَ نَعْدِلُ بِأَبِي بَكْرٍ أَحَدًا ثُمَّ عُمَرَ ثُمَّ عُثْمَانَ ثُمَّ
       نَتْرُكُ أَصْحَابَ النَّبِيِّ صلى الله عليه وسلم لاَ تَفَاضُلَ بَيْنَهُمْ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4627"
   - In-book reference: " Book 42, Hadith 32"
@@ -637,6 +733,9 @@
       قَالَ كُنَّا نَقُولُ وَرَسُولُ اللَّهِ صلى الله عليه وسلم حَىٌّ أَفْضَلُ أُمَّةِ
       النَّبِيِّ صلى الله عليه وسلم بَعْدَهُ أَبُو بَكْرٍ ثُمَّ عُمَرُ ثُمَّ عُثْمَانُ
       رضى الله عنهم أَجْمَعِينَ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4628"
   - In-book reference: " Book 42, Hadith 33"
@@ -654,6 +753,9 @@
       وسلم قَالَ أَبُو بَكْرٍ ‏.‏ قَالَ قُلْتُ ثُمَّ مَنْ قَالَ ثُمَّ عُمَرُ ‏.‏ قَالَ
       ثُمَّ خَشِيتُ أَنْ أَقُولَ ثُمَّ مَنْ فَيَقُولَ عُثْمَانُ فَقُلْتُ ثُمَّ أَنْتَ
       يَا أَبَةِ قَالَ مَا أَنَا إِلاَّ رَجُلٌ مِنَ الْمُسْلِمِينَ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4629"
   - In-book reference: " Book 42, Hadith 34"
@@ -671,6 +773,9 @@
       كَانَ أَحَقَّ بِالْوِلاَيَةِ مِنْهُمَا فَقَدْ خَطَّأَ أَبَا بَكْرٍ وَعُمَرَ
       وَالْمُهَاجِرِينَ وَالأَنْصَارَ وَمَا أُرَاهُ يَرْتَفِعُ لَهُ مَعَ هَذَا عَمَلٌ
       إِلَى السَّمَاءِ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  صحيح الإسناد مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4630"
   - In-book reference: " Book 42, Hadith 35"
@@ -683,6 +788,9 @@
       السَّمَّاكُ، قَالَ سَمِعْتُ سُفْيَانَ الثَّوْرِيَّ، يَقُولُ الْخُلَفَاءُ خَمْسَةٌ
       أَبُو بَكْرٍ وَعُمَرُ وَعُثْمَانُ وَعَلِيٌّ وَعُمَرُ بْنُ عَبْدِ الْعَزِيزِ
       رضى الله عنهم ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  ضعيف الإسناد مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4631"
   - In-book reference: " Book 42, Hadith 36"
@@ -731,6 +839,9 @@
       ‏\"‏ ‏.‏ فَقَالَ أَقْسَمْتُ يَا رَسُولَ اللَّهِ لَتُحَدِّثَنِّي مَا الَّذِي
       أَخْطَأْتُ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ لاَ تُقْسِمْ ‏\"‏
       ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4632"
   - In-book reference: " Book 42, Hadith 37"
@@ -744,6 +855,9 @@
       كَثِيرٍ، حَدَّثَنَا سُلَيْمَانُ بْنُ كَثِيرٍ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ
       اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه
       وسلم بِهَذِهِ الْقِصَّةِ قَالَ فَأَبَى أَنْ يُخْبِرَهُ ‏.‏"
+  :grade:
+    :en: Da'if in chain (Al-Albani)
+    :ar: "  ضعيف الإسناد   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4633"
   - In-book reference: " Book 42, Hadith 38"
@@ -759,6 +873,9 @@
       Umar and Uthman were weighed and Umar was heavier; than the scale was taken
       up. we saw signs of dislike on the face of the Messenger of Allah (ﷺ).'
     :ar: "\"‏ مَنْ رَأَى مِنْكُمْ رُؤْيَا ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4634"
   - In-book reference: " Book 42, Hadith 39"
@@ -777,6 +894,9 @@
       فَذَكَرَ مَعْنَاهُ وَلَمْ يَذْكُرِ الْكَرَاهِيَةَ ‏.‏ قَالَ فَاسْتَاءَ لَهَا
       رَسُولُ اللَّهِ صلى الله عليه وسلم يَعْنِي فَسَاءَهُ ذَلِكَ فَقَالَ ‏\"‏ خِلاَفَةُ
       نُبُوَّةٍ ثُمَّ يُؤْتِي اللَّهُ الْمُلْكَ مَنْ يَشَاءُ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4635"
   - In-book reference: " Book 42, Hadith 40"
@@ -795,6 +915,9 @@
     :ar: "\"‏ أُرِيَ اللَّيْلَةَ رَجُلٌ صَالِحٌ أَنَّ أَبَا بَكْرٍ نِيطَ بِرَسُولِ
       اللَّهِ صلى الله عليه وسلم وَنِيطَ عُمَرُ بِأَبِي بَكْرٍ وَنِيطَ عُثْمَانُ بِعُمَرَ
       ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4636"
   - In-book reference: " Book 42, Hadith 41"
@@ -817,6 +940,9 @@
       بِعَرَاقِيهَا فَشَرِبَ حَتَّى تَضَلَّعَ ثُمَّ جَاءَ عُثْمَانُ فَأَخَذَ بِعَرَاقِيهَا
       فَشَرِبَ حَتَّى تَضَلَّعَ ثُمَّ جَاءَ عَلِيٌّ فَأَخَذَ بِعَرَاقِيهَا فَانْتَشَطَتْ
       وَانْتَضَحَ عَلَيْهِ مِنْهَا شَىْءٌ ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4637"
   - In-book reference: " Book 42, Hadith 42"
@@ -830,6 +956,9 @@
       سَعِيدُ بْنُ عَبْدِ الْعَزِيزِ، عَنْ مَكْحُولٍ، قَالَ لَتَمْخُرَنَّ الرُّومُ
       الشَّامَ أَرْبَعِينَ صَبَاحًا لاَ يَمْتَنِعُ مِنْهَا إِلاَّ دِمَشْقُ وَعَمَّانُ
       ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  ضعيف الإسناد مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4638"
   - In-book reference: " Book 42, Hadith 43"
@@ -843,6 +972,9 @@
       عَبْدُ اللَّهِ بْنُ الْعَلاَءِ، أَنَّهُ سَمِعَ أَبَا الأَعْيَسِ عَبْدَ الرَّحْمَنِ
       بْنَ سَلْمَانَ، يَقُولُ سَيَأْتِي مَلِكٌ مِنْ مُلُوكِ الْعَجَمِ يَظْهَرُ عَلَى
       الْمَدَائِنِ كُلِّهَا إِلاَّ دِمَشْقَ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  صحيح الإسناد مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4639"
   - In-book reference: " Book 42, Hadith 44"
@@ -856,6 +988,9 @@
       called al-Ghutah.
     :ar: "\"‏ مَوْضِعُ فُسْطَاطِ الْمُسْلِمِينَ فِي الْمَلاَحِمِ أَرْضٌ يُقَالُ لَهَا
       الْغُوطَةُ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4640"
   - In-book reference: " Book 42, Hadith 45"
@@ -874,6 +1009,9 @@
       وَيَفُسِّرُهَا ‏{‏ إِذْ قَالَ اللَّهُ يَا عِيسَى إِنِّي مُتَوَفِّيكَ وَرَافِعُكَ
       إِلَىَّ وَمُطَهِّرُكَ مِنَ الَّذِينَ كَفَرُوا ‏}‏ يُشِيرُ إِلَيْنَا بِيَدِهِ
       وَإِلَى أَهْلِ الشَّامِ ‏.‏"
+  :grade:
+    :en: Da'if Maqtu' (Al-Albani)
+    :ar: "  ضعيف مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4641"
   - In-book reference: " Book 42, Hadith 46"
@@ -895,6 +1033,9 @@
       خَلْفَكَ صَلاَةً أَبَدًا وَإِنْ وَجَدْتُ قَوْمًا يُجَاهِدُونَكَ لأُجَاهِدَنَّكَ
       مَعَهُمْ ‏.‏ زَادَ إِسْحَاقُ فِي حَدِيثِهِ قَالَ فَقَاتَلَ فِي الْجَمَاجِمِ
       حَتَّى قُتِلَ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  ضعيف الإسناد مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4642"
   - In-book reference: " Book 42, Hadith 47"
@@ -920,6 +1061,9 @@
       أَنَّهُ يَرْمِي بِالْحَجَرِ فَيَقُولُ إِلَى أَنْ يَقَعَ الْحَجَرُ قَدْ حَدَثَ
       أَمْرٌ فَوَاللَّهِ لأَدَعَنَّهُمْ كَالأَمْسِ الدَّابِرِ ‏.‏ قَالَ فَذَكَرْتُهُ
       لِلأَعْمَشِ فَقَالَ أَنَا وَاللَّهِ سَمِعْتُهُ مِنْهُ ‏.‏"
+  :grade:
+    :en: Sahih in chain (Al-Albani)
+    :ar: "  صحيح الإسناد   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4643"
   - In-book reference: " Book 42, Hadith 48"
@@ -934,6 +1078,9 @@
       الأَعْمَشِ، قَالَ سَمِعْتُ الْحَجَّاجَ، يَقُولُ عَلَى الْمِنْبَرِ هَذِهِ الْحَمْرَاءُ
       هَبْرٌ هَبْرٌ أَمَا وَاللَّهِ لَقَدْ قَرَعْتُ عَصًا بِعَصًا لأَذَرَنَّهُمْ كَالأَمْسِ
       الذَّاهِبِ يَعْنِي الْمَوَالِي ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4644"
   - In-book reference: " Book 42, Hadith 49"
@@ -952,6 +1099,9 @@
       عَيَّاشٍ قَالَ فِيهَا فَاسْمَعُوا وَأَطِيعُوا لِخَلِيفَةِ اللَّهِ وَصَفِيِّهِ
       عَبْدِ الْمَلِكِ بْنِ مَرْوَانَ ‏.‏ وَسَاقَ الْحَدِيثَ قَالَ وَلَوْ أَخَذْتُ
       رَبِيعَةَ بِمُضَرَ وَلَمْ يَذْكُرْ قِصَّةَ الْحَمْرَاءِ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  صحيح إلى الحجاج الظالم   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4645"
   - In-book reference: " Book 42, Hadith 50"
@@ -969,6 +1119,9 @@
       Sa'id told that Safinah said to him: Calculate Abu Bakr's caliphate as two years, 'Umar's as ten, 'Uthman's as twelve and 'Ali so and so. Sa'id said: I said to Safinah: They conceive that 'Ali was not a caliph. He replied: The buttocks of Marwan told a lie.
     :ar: "\"‏ خِلاَفَةُ النُّبُوَّةِ ثَلاَثُونَ سَنَةً ثُمَّ يُؤْتِي اللَّهُ الْمُلْكَ
       - أَوْ مُلْكَهُ - مَنْ يَشَاءُ ‏\""
+  :grade:
+    :en: Hasan Sahih (Al-Albani)
+    :ar: "  حسن صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4646"
   - In-book reference: " Book 42, Hadith 51"
@@ -982,6 +1135,9 @@
       Kingdom to whom he wishes; or his kingdom to whom he wishes.
     :ar: "\"‏ خِلاَفَةُ النُّبُوَّةِ ثَلاَثُونَ سَنَةً ثُمَّ يُؤْتِي اللَّهُ الْمُلْكَ
       مَنْ يَشَاءُ - أَوْ مُلْكَهُ مَنْ يَشَاءُ - ‏\""
+  :grade:
+    :en: Hasan Sahih (Al-Albani)
+    :ar: "  حسن صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4647"
   - In-book reference: " Book 42, Hadith 52"
@@ -1013,6 +1169,9 @@
       his different chain of narrators in a a similar manner."
     :ar: "\"‏ اثْبُتْ حِرَاءُ إِنَّهُ لَيْسَ عَلَيْكَ إِلاَّ نَبِيٌّ أَوْ صِدِّيقٌ
       أَوْ شَهِيدٌ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4648"
   - In-book reference: " Book 42, Hadith 53"
@@ -1038,6 +1197,9 @@
       الْجَنَّةِ وَطَلْحَةُ فِي الْجَنَّةِ وَالزُّبَيْرُ بْنُ الْعَوَّامِ فِي الْجَنَّةِ
       وَسَعْدُ بْنُ مَالِكٍ فِي الْجَنَّةِ وَعَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ فِي الْجَنَّةِ
       ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4649"
   - In-book reference: " Book 42, Hadith 54"
@@ -1070,6 +1232,9 @@
       of Allah (ﷺ) is better than the actions of one of you for a whole life time
       even if he is granted the life-span of Noah."
     :ar: "\"‏ أَبُو بَكْرٍ فِي الْجَنَّةِ وَعُمَرُ فِي الْجَنَّةِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4650"
   - In-book reference: " Book 42, Hadith 55"
@@ -1087,6 +1252,9 @@
       with his foot and said: Be still, for only a prophet, an ever-truthful and two
       martyrs are on you.'
     :ar: "\"‏ اثْبُتْ أُحُدُ نَبِيٌّ وَصِدِّيقٌ وَشَهِيدَانِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4651"
   - In-book reference: " Book 42, Hadith 56"
@@ -1107,6 +1275,9 @@
       أَبُو بَكْرٍ يَا رَسُولَ اللَّهِ وَدِدْتُ أَنِّي كُنْتُ مَعَكَ حَتَّى أَنْظُرَ
       إِلَيْهِ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَمَا إِنَّكَ يَا
       أَبَا بَكْرٍ أَوَّلُ مَنْ يَدْخُلُ الْجَنَّةَ مِنْ أُمَّتِي ‏\"‏ ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4652"
   - In-book reference: " Book 42, Hadith 57"
@@ -1119,6 +1290,9 @@
     :en: No one of those who took the oath of allegiance under the tree will go to
       hell.
     :ar: "\"‏ لاَ يَدْخُلُ النَّارَ أَحَدٌ مِمَّنْ بَايَعَ تَحْتَ الشَّجَرَةِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4653"
   - In-book reference: " Book 42, Hadith 58"
@@ -1136,6 +1310,9 @@
       قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ مُوسَى ‏\"‏ فَلَعَلَّ اللَّهَ
       ‏\"‏ ‏.‏ وَقَالَ ابْنُ سِنَانٍ ‏\"‏ اطَّلَعَ اللَّهُ عَلَى أَهْلِ بَدْرٍ فَقَالَ
       اعْمَلُوا مَا شِئْتُمْ فَقَدْ غَفَرْتُ لَكُمْ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Hasan Sahih (Al-Albani)
+    :ar: "  حسن صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4654"
   - In-book reference: " Book 42, Hadith 59"
@@ -1160,6 +1337,9 @@
       الله عليه وسلم وَمَعَهُ السَّيْفُ وَعَلَيْهِ الْمِغْفَرُ فَضَرَبَ يَدَهُ بِنَعْلِ
       السَّيْفِ وَقَالَ أَخِّرْ يَدَكَ عَنْ لِحْيَتِهِ ‏.‏ فَرَفَعَ عُرْوَةُ رَأْسَهُ
       فَقَالَ مَنْ هَذَا قَالُوا الْمُغِيرَةُ بْنُ شُعْبَةَ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4655"
   - In-book reference: " Book 42, Hadith 60"
@@ -1193,6 +1373,9 @@
       فَقَالَ يَا دَفْرَاهُ يَا دَفْرَاهُ ‏.‏ فَقَالَ يَا أَمِيرَ الْمُؤْمِنِينَ إِنَّهُ
       خَلِيفَةٌ صَالِحٌ وَلَكِنَّهُ يُسْتَخْلَفُ حِينَ يُسْتَخْلَفُ وَالسَّيْفُ مَسْلُولٌ
       وَالدَّمُ مُهْرَاقٌ ‏.‏ قَالَ أَبُو دَاوُدَ الدَّفْرُ النَّتْنُ ‏.‏"
+  :grade:
+    :en: Da'if in chain (Al-Albani)
+    :ar: "  ضعيف الإسناد   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4656"
   - In-book reference: " Book 42, Hadith 61"
@@ -1214,6 +1397,9 @@
       أَمْ لاَ ‏\"‏ ثُمَّ يَظْهَرُ قَوْمٌ يَشْهَدُونَ وَلاَ يُسْتَشْهَدُونَ وَيَنْذِرُونَ
       وَلاَ يُوفُونَ وَيَخُونُونَ وَلاَ يُؤْتَمَنُونَ وَيَفْشُو فِيهِمُ السِّمَنُ
       ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4657"
   - In-book reference: " Book 42, Hadith 62"
@@ -1230,6 +1416,9 @@
     :ar: "\"‏ لاَ تَسُبُّوا أَصْحَابِي فَوَالَّذِي نَفْسِي بِيَدِهِ لَوْ أَنْفَقَ
       أَحَدُكُمْ مِثْلَ أُحُدٍ ذَهَبًا مَا بَلَغَ مُدَّ أَحَدِهِمْ وَلاَ نَصِيفَهُ
       ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4658"
   - In-book reference: " Book 42, Hadith 63"
@@ -1273,6 +1462,9 @@
       فِي غَضَبِي - فَإِنَّمَا أَنَا مِنْ وَلَدِ آدَمَ أَغْضَبُ كَمَا يَغْضَبُونَ
       وَإِنَّمَا بَعَثَنِي رَحْمَةً لِلْعَالَمِينَ - فَاجْعَلْهَا عَلَيْهِمْ صَلاَةً
       يَوْمَ الْقِيَامَةِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4659"
   - In-book reference: " Book 42, Hadith 64"
@@ -1301,6 +1493,9 @@
       people in prayer.'
     :ar: "\"‏ فَأَيْنَ أَبُو بَكْرٍ يَأْبَى اللَّهُ ذَلِكَ وَالْمُسْلِمُونَ يَأْبَى
       اللَّهُ ذَلِكَ وَالْمُسْلِمُونَ ‏\""
+  :grade:
+    :en: Hasan Sahih (Al-Albani)
+    :ar: "  حسن صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4660"
   - In-book reference: " Book 42, Hadith 65"
@@ -1319,6 +1514,9 @@
       of his apartment. He then said : No, no, no; the son of Abu Quhafah should lead
       the people in prayer. He said it angrily.'
     :ar: "\"‏ لاَ لاَ لاَ لِيُصَلِّ لِلنَّاسِ ابْنُ أَبِي قُحَافَةَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4661"
   - In-book reference: " Book 42, Hadith 66"
@@ -1338,6 +1536,9 @@
       هَذَا سَيِّدٌ وَإِنِّي أَرْجُو أَنْ يُصْلِحَ اللَّهُ بِهِ بَيْنَ فِئَتَيْنِ
       مِنْ أُمَّتِي ‏\"‏ ‏.‏ وَقَالَ فِي حَدِيثِ حَمَّادٍ ‏\"‏ وَلَعَلَّ اللَّهَ أَنْ
       يُصْلِحَ بِهِ بَيْنَ فِئَتَيْنِ مِنَ الْمُسْلِمِينَ عَظِيمَتَيْنِ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4662"
   - In-book reference: " Book 42, Hadith 67"
@@ -1352,6 +1553,9 @@
       except Muhammad ibn Maslamah, for I heard the Messenger of Allah (ﷺ) say: Trial
       will not harm you.'
     :ar: "\"‏ لاَ تَضُرُّكَ الْفِتْنَةُ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4663"
   - In-book reference: " Book 42, Hadith 68"
@@ -1370,6 +1574,9 @@
       مُحَمَّدُ بْنُ مَسْلَمَةَ فَسَأَلْنَاهُ عَنْ ذَلِكَ فَقَالَ مَا أُرِيدُ أَنْ
       يَشْتَمِلَ عَلَىَّ شَىْءٌ مِنْ أَمْصَارِكُمْ حَتَّى تَنْجَلِيَ عَمَّا انْجَلَتْ
       ‏.‏"
+  :grade:
+    :en: Sahih li ghairih (Al-Albani)
+    :ar: "  صحيح لغيره   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4664"
   - In-book reference: " Book 42, Hadith 69"
@@ -1382,6 +1589,9 @@
     :ar: "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَشْعَثَ بْنِ سُلَيْمٍ،
       عَنْ أَبِي بُرْدَةَ، عَنْ ضُبَيْعَةَ بْنِ حُصَيْنٍ الثَّعْلَبِيِّ، بِمَعْنَاهُ
       ‏.‏"
+  :grade:
+    :en: 
+    :ar: 
   :reference:
   - Reference: " Sunan Abi Dawud 4665"
   - In-book reference: " Book 42, Hadith 70"
@@ -1400,6 +1610,9 @@
       رَسُولُ اللَّهِ صلى الله عليه وسلم أَمْ رَأْىٌ رَأَيْتَهُ فَقَالَ مَا عَهِدَ
       إِلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم بِشَىْءٍ وَلَكِنَّهُ رَأْىٌ رَأَيْتُهُ
       ‏.‏"
+  :grade:
+    :en: Sahih in chain (Al-Albani)
+    :ar: "  صحيح الإسناد   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4666"
   - In-book reference: " Book 42, Hadith 71"
@@ -1414,6 +1627,9 @@
       ; one of the two parties that is nearer to the truth will kill it.
     :ar: "\"‏ تَمْرُقُ مَارِقَةٌ عِنْدَ فُرْقَةٍ مِنَ الْمُسْلِمِينَ يَقْتُلُهَا أَوْلَى
       الطَّائِفَتَيْنِ بِالْحَقِّ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4667"
   - In-book reference: " Book 42, Hadith 72"
@@ -1426,6 +1642,9 @@
   :hadith:
     :en: Do not distinguish between the Prophets.
     :ar: "\"‏ لاَ تُخَيِّرُوا بَيْنَ الأَنْبِيَاءِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4668"
   - In-book reference: " Book 42, Hadith 73"
@@ -1440,6 +1659,9 @@
       Jonah son of Matta.
     :ar: "\"‏ مَا يَنْبَغِي لِعَبْدٍ أَنْ يَقُولَ إِنِّي خَيْرٌ مِنْ يُونُسَ بْنِ
       مَتَّى ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4669"
   - In-book reference: " Book 42, Hadith 74"
@@ -1454,6 +1676,9 @@
     :en: 'It is not fitting for a prophet to say : I am better than Jonah son of matta.'
     :ar: "\"‏ مَا يَنْبَغِي لِنَبِيٍّ أَنْ يَقُولَ إِنِّي خَيْرٌ مِنْ يُونُسَ بْنِ
       مَتَّى ‏\""
+  :grade:
+    :en: Sahih li ghairih (Al-Albani)
+    :ar: "  صحيح لغيره   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4670"
   - In-book reference: " Book 42, Hadith 75"
@@ -1476,6 +1701,9 @@
       أَوَّلَ مَنْ يُفِيقُ فَإِذَا مُوسَى بَاطِشٌ فِي جَانِبِ الْعَرْشِ فَلاَ أَدْرِي
       أَكَانَ مِمَّنْ صَعِقَ فَأَفَاقَ قَبْلِي أَوْ كَانَ مِمَّنِ اسْتَثْنَى اللَّهُ
       عَزَّ وَجَلَّ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4671"
   - In-book reference: " Book 42, Hadith 76"
@@ -1490,6 +1718,9 @@
       all creatures! The Messenger of Allah (May peace be upon him) said : That was
       Abraham (peace be upon him).'
     :ar: "\"‏ ذَاكَ إِبْرَاهِيمُ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4672"
   - In-book reference: " Book 42, Hadith 77"
@@ -1505,6 +1736,9 @@
       will be accepted.
     :ar: "\"‏ أَنَا سَيِّدُ وَلَدِ آدَمَ وَأَوَّلُ مَنْ تَنْشَقُّ عَنْهُ الأَرْضُ
       وَأَوَّلُ شَافِعٍ وَأَوَّلُ مُشَفَّعٍ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4673"
   - In-book reference: " Book 42, Hadith 78"
@@ -1520,6 +1754,9 @@
       or not).
     :ar: "\"‏ مَا أَدْرِي أَتُبَّعٌ لَعِينٌ هُوَ أَمْ لاَ وَمَا أَدْرِي أَعُزَيْرٌ
       نَبِيٌّ هُوَ أَمْ لاَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4674"
   - In-book reference: " Book 42, Hadith 79"
@@ -1535,6 +1772,9 @@
       of one father by co-wives. There is no Prophet between me and him.'
     :ar: "\"‏ أَنَا أَوْلَى النَّاسِ بِابْنِ مَرْيَمَ الأَنْبِيَاءُ أَوْلاَدُ عَلاَّتٍ
       وَلَيْسَ بَيْنِي وَبَيْنَهُ نَبِيٌّ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4675"
   - In-book reference: " Book 42, Hadith 80"
@@ -1551,6 +1791,9 @@
     :ar: "\"‏ الإِيمَانُ بِضْعٌ وَسَبْعُونَ أَفْضَلُهَا قَوْلُ لاَ إِلَهَ إِلاَّ اللَّهُ
       وَأَدْنَاهَا إِمَاطَةُ الْعَظْمِ عَنِ الطَّرِيقِ وَالْحَيَاءُ شُعْبَةٌ مِنَ
       الإِيمَانِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4676"
   - In-book reference: " Book 42, Hadith 81"
@@ -1572,6 +1815,9 @@
       أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ وَإِقَامُ
       الصَّلاَةِ وَإِيتَاءُ الزَّكَاةِ وَصَوْمُ رَمَضَانَ وَأَنْ تُعْطُوا الْخُمُسَ
       مِنَ الْمَغْنَمِ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4677"
   - In-book reference: " Book 42, Hadith 82"
@@ -1584,6 +1830,9 @@
   :hadith:
     :en: Between a servant and unbelief there is the abandonment of prayer.
     :ar: "\"‏ بَيْنَ الْعَبْدِ وَبَيْنَ الْكُفْرِ تَرْكُ الصَّلاَةِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4678"
   - In-book reference: " Book 42, Hadith 83"
@@ -1604,6 +1853,9 @@
       الْعَقْلِ فَشَهَادَةُ امْرَأَتَيْنِ شَهَادَةُ رَجُلٍ وَأَمَّا نُقْصَانُ الدِّينِ
       فَإِنَّ إِحْدَاكُنَّ تُفْطِرُ رَمَضَانَ وَتُقِيمُ أَيَّامًا لاَ تُصَلِّي ‏\"‏
       ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4679"
   - In-book reference: " Book 42, Hadith 84"
@@ -1621,6 +1873,9 @@
       الله عليه وسلم إِلَى الْكَعْبَةِ قَالُوا يَا رَسُولَ اللَّهِ فَكَيْفَ الَّذِينَ
       مَاتُوا وَهُمْ يُصَلُّونَ إِلَى بَيْتِ الْمَقْدِسِ فَأَنْزَلَ اللَّهُ تَعَالَى
       ‏{‏ وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ ‏}‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4680"
   - In-book reference: " Book 42, Hadith 85"
@@ -1635,6 +1890,9 @@
       perfect faith.'
     :ar: "\"‏ مَنْ أَحَبَّ لِلَّهِ وَأَبْغَضَ لِلَّهِ وَأَعْطَى لِلَّهِ وَمَنَعَ لِلَّهِ
       فَقَدِ اسْتَكْمَلَ الإِيمَانَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4681"
   - In-book reference: " Book 42, Hadith 86"
@@ -1647,6 +1905,9 @@
     :en: 'The Prophet (ﷺ) said: The most perfect believer in respect of faith is he
       who is best of them in manners.'
     :ar: "\"‏ أَكْمَلُ الْمُؤْمِنِينَ إِيمَانًا أَحْسَنُهُمْ خُلُقًا ‏\""
+  :grade:
+    :en: Hasan Sahih (Al-Albani)
+    :ar: "  حسن صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4682"
   - In-book reference: " Book 42, Hadith 87"
@@ -1671,6 +1932,9 @@
       ‏.‏ ثُمَّ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِنِّي أُعْطِي رِجَالاً وَأَدَعُ
       مَنْ هُوَ أَحَبُّ إِلَىَّ مِنْهُمْ لاَ أُعْطِيهِ شَيْئًا مَخَافَةَ أَنْ يُكَبُّوا
       فِي النَّارِ عَلَى وُجُوهِهِمْ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4683"
   - In-book reference: " Book 42, Hadith 88"
@@ -1684,6 +1948,9 @@
     :ar: "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا ابْنُ ثَوْرٍ، عَنْ مَعْمَرٍ،
       قَالَ وَقَالَ الزُّهْرِيُّ ‏{‏ قُلْ لَمْ تُؤْمِنُوا وَلَكِنْ قُولُوا أَسْلَمْنَا
       ‏}‏ قَالَ نَرَى أَنَّ الإِسْلاَمَ الْكَلِمَةُ وَالإِيمَانَ الْعَمَلُ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  صحيح الإسناد مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4684"
   - In-book reference: " Book 42, Hadith 89"
@@ -1701,6 +1968,9 @@
       he may fall into Hell on his face.'
     :ar: "\"‏ أَوْ مُسْلِمٌ إِنِّي لأُعْطِي الرَّجُلَ الْعَطَاءَ وَغَيْرُهُ أَحَبُّ
       إِلَىَّ مِنْهُ مَخَافَةَ أَنْ يُكَبَّ عَلَى وَجْهِهِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4685"
   - In-book reference: " Book 42, Hadith 90"
@@ -1715,6 +1985,9 @@
       other.
     :ar: "\"‏ لاَ تَرْجِعُوا بَعْدِي كُفَّارًا يَضْرِبُ بَعْضُكُمْ رِقَابَ بَعْضٍ
       ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4686"
   - In-book reference: " Book 42, Hadith 91"
@@ -1729,6 +2002,9 @@
       actually an infidel, it is all right ; if not, he will become an infidel.
     :ar: "\"‏ أَيُّمَا رَجُلٍ مُسْلِمٍ أَكْفَرَ رَجُلاً مُسْلِمًا فَإِنْ كَانَ كَافِرًا
       وَإِلاَّ كَانَ هُوَ الْكَافِرَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4687"
   - In-book reference: " Book 42, Hadith 92"
@@ -1749,6 +2025,9 @@
       خَلَّةٌ مِنْهُنَّ كَانَ فِيهِ خَلَّةٌ مِنْ نِفَاقٍ حَتَّى يَدَعَهَا إِذَا حَدَّثَ
       كَذَبَ وَإِذَا وَعَدَ أَخْلَفَ وَإِذَا عَاهَدَ غَدَرَ وَإِذَا خَاصَمَ فَجَرَ
       ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4688"
   - In-book reference: " Book 42, Hadith 93"
@@ -1765,6 +2044,9 @@
     :ar: "\"‏ لاَ يَزْنِي الزَّانِي حِينَ يَزْنِي وَهُوَ مُؤْمِنٌ وَلاَ يَسْرِقُ حِينَ
       يَسْرِقُ وَهُوَ مُؤْمِنٌ وَلاَ يَشْرَبُ الْخَمْرَ حِينَ يَشْرَبُهَا وَهُوَ مُؤْمِنٌ
       وَالتَّوْبَةُ مَعْرُوضَةٌ بَعْدُ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4689"
   - In-book reference: " Book 42, Hadith 94"
@@ -1780,6 +2062,9 @@
       that action, faith returns to him.'
     :ar: "\"‏ إِذَا زَنَى الرَّجُلُ خَرَجَ مِنْهُ الإِيمَانُ كَانَ عَلَيْهِ كَالظُّلَّةِ
       فَإِذَا انْقَطَعَ رَجَعَ إِلَيْهِ الإِيمَانُ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4690"
   - In-book reference: " Book 42, Hadith 95"
@@ -1794,6 +2079,9 @@
       their funerals.'
     :ar: "\"‏ الْقَدَرِيَّةُ مَجُوسُ هَذِهِ الأُمَّةِ إِنْ مَرِضُوا فَلاَ تَعُودُوهُمْ
       وَإِنْ مَاتُوا فَلاَ تَشْهَدُوهُمْ ‏\""
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4691"
   - In-book reference: " Book 42, Hadith 96"
@@ -1813,6 +2101,9 @@
       لاَ قَدَرَ مَنْ مَاتَ مِنْهُمْ فَلاَ تَشْهَدُوا جَنَازَتَهُ وَمَنْ مَرِضَ مِنْهُمْ
       فَلاَ تَعُودُوهُمْ وَهُمْ شِيعَةُ الدَّجَّالِ وَحَقٌّ عَلَى اللَّهِ أَنْ يُلْحِقَهُمْ
       بِالدَّجَّالِ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4692"
   - In-book reference: " Book 42, Hadith 97"
@@ -1832,6 +2123,9 @@
       وَالأَبْيَضُ وَالأَسْوَدُ وَبَيْنَ ذَلِكَ وَالسَّهْلُ وَالْحَزْنُ وَالْخَبِيثُ
       وَالطَّيِّبُ ‏\"‏ ‏.‏ زَادَ فِي حَدِيثِ يَحْيَى ‏\"‏ وَبَيْنَ ذَلِكَ ‏\"‏ ‏.‏
       وَالإِخْبَارُ فِي حَدِيثِ يَزِيدَ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4693"
   - In-book reference: " Book 42, Hadith 98"
@@ -1873,6 +2167,9 @@
       مَنْ أَعْطَى وَاتَّقَى * وَصَدَّقَ بِالْحُسْنَى * فَسَنُيَسِّرُهُ لِلْيُسْرَى
       * وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَى * وَكَذَّبَ بِالْحُسْنَى * ‏.‏ فَسَنُيَسِّرُهُ
       لِلْعُسْرَى ‏}‏ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4694"
   - In-book reference: " Book 42, Hadith 99"
@@ -1951,6 +2248,9 @@
       انْطَلَقَ فَلَبِثْتُ ثَلاَثًا ثُمَّ قَالَ ‏\"‏ يَا عُمَرُ هَلْ تَدْرِي مَنِ
       السَّائِلُ ‏\"‏ ‏.‏ قُلْتُ اللَّهُ وَرَسُولُهُ أَعْلَمُ ‏.‏ قَالَ ‏\"‏ فَإِنَّهُ
       جِبْرِيلُ أَتَاكُمْ يُعَلِّمُكُمْ دِينَكُمْ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4695"
   - In-book reference: " Book 42, Hadith 100"
@@ -1980,6 +2280,9 @@
       فَفِيمَ الْعَمَلُ قَالَ ‏\"‏ إِنَّ أَهْلَ الْجَنَّةِ يُيَسَّرُونَ لِعَمَلِ أَهْلِ
       الْجَنَّةِ وَإِنَّ أَهْلَ النَّارِ يُيَسَّرُونَ لِعَمَلِ أَهْلِ النَّارِ ‏\"‏
       ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4696"
   - In-book reference: " Book 42, Hadith 101"
@@ -1999,6 +2302,9 @@
       Abu Dawud said: 'Alqamah was a Murji'i.
     :ar: "\"‏ إِقَامُ الصَّلاَةِ وَإِيتَاءُ الزَّكَاةِ وَحَجُّ الْبَيْتِ وَصَوْمُ
       شَهْرِ رَمَضَانَ وَالاِغْتِسَالُ مِنَ الْجَنَابَةِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4697"
   - In-book reference: " Book 42, Hadith 102"
@@ -2024,6 +2330,9 @@
       بِجَنْبَتَيْهِ وَذَكَرَ نَحْوَ هَذَا الْخَبَرِ فَأَقْبَلَ رَجُلٌ فَذَكَرَ هَيْئَتَهُ
       حَتَّى سَلَّمَ مِنْ طَرْفِ السِّمَاطِ فَقَالَ السَّلاَمُ عَلَيْكَ يَا مُحَمَّدُ
       ‏.‏ قَالَ فَرَدَّ عَلَيْهِ النَّبِيُّ صلى الله عليه وسلم ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4698"
   - In-book reference: " Book 42, Hadith 103"
@@ -2057,6 +2366,9 @@
       مَسْعُودٍ فَقَالَ مِثْلَ ذَلِكَ - قَالَ - ثُمَّ أَتَيْتُ حُذَيْفَةَ بْنَ الْيَمَانِ
       فَقَالَ مِثْلَ ذَلِكَ - قَالَ - ثُمَّ أَتَيْتُ زَيْدَ بْنَ ثَابِتٍ فَحَدَّثَنِي
       عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَ ذَلِكَ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4699"
   - In-book reference: " Book 42, Hadith 104"
@@ -2082,6 +2394,9 @@
       كُلِّ شَىْءٍ حَتَّى تَقُومَ السَّاعَةُ ‏\"‏ ‏.‏ يَا بُنَىَّ إِنِّي سَمِعْتُ
       رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ مَنْ مَاتَ عَلَى غَيْرِ هَذَا
       فَلَيْسَ مِنِّي ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4700"
   - In-book reference: " Book 42, Hadith 105"
@@ -2102,6 +2417,9 @@
       وَأَخْرَجْتَنَا مِنَ الْجَنَّةِ ‏.‏ فَقَالَ آدَمُ أَنْتَ مُوسَى اصْطَفَاكَ اللَّهُ
       بِكَلاَمِهِ وَخَطَّ لَكَ التَّوْرَاةَ بِيَدِهِ تَلُومُنِي عَلَى أَمْرٍ قَدَّرَهُ
       عَلَىَّ قَبْلَ أَنْ يَخْلُقَنِي بِأَرْبَعِينَ سَنَةً فَحَجَّ آدَمُ مُوسَى ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4701"
   - In-book reference: " Book 42, Hadith 106"
@@ -2136,6 +2454,9 @@
       تَلُومُنِي فِي شَىْءٍ سَبَقَ مِنَ اللَّهِ تَعَالَى فِيهِ الْقَضَاءُ قَبْلِي
       ‏\"‏ ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم عِنْدَ ذَلِكَ ‏\"‏ فَحَجَّ
       آدَمُ مُوسَى فَحَجَّ آدَمُ مُوسَى ‏\"‏ ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4702"
   - In-book reference: " Book 42, Hadith 107"
@@ -2176,6 +2497,9 @@
       بِهِ الْجَنَّةَ وَإِذَا خَلَقَ الْعَبْدَ لِلنَّارِ اسْتَعْمَلَهُ بِعَمَلِ أَهْلِ
       النَّارِ حَتَّى يَمُوتَ عَلَى عَمَلٍ مِنْ أَعْمَالِ أَهْلِ النَّارِ فَيُدْخِلَهُ
       بِهِ النَّارَ ‏\"‏ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  صحيح إلا مسح الظهر   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4703"
   - In-book reference: " Book 42, Hadith 108"
@@ -2190,6 +2514,9 @@
       عَنْ عَبْدِ الْحَمِيدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ مُسْلِمِ بْنِ يَسَارٍ،
       عَنْ نُعَيْمِ بْنِ رَبِيعَةَ، قَالَ كُنْتُ عِنْدَ عُمَرَ بْنِ الْخَطَّابِ بِهَذَا
       الْحَدِيثِ وَحَدِيثُ مَالِكٍ أَتَمُّ ‏.‏"
+  :grade:
+    :en: 
+    :ar: 
   :reference:
   - Reference: " Sunan Abi Dawud 4704"
   - In-book reference: " Book 42, Hadith 109"
@@ -2204,6 +2531,9 @@
       would have moved his parents to rebellion and unbelief.
     :ar: "\"‏ الْغُلاَمُ الَّذِي قَتَلَهُ الْخَضِرُ طُبِعَ كَافِرًا وَلَوْ عَاشَ لأَرْهَقَ
       أَبَوَيْهِ طُغْيَانًا وَكُفْرًا ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4705"
   - In-book reference: " Book 42, Hadith 110"
@@ -2219,6 +2549,9 @@
       قَالَ حَدَّثَنَا أُبَىُّ بْنُ كَعْبٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله
       عليه وسلم يَقُولُ فِي قَوْلِهِ ‏{‏ وَأَمَّا الْغُلاَمُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ
       ‏}‏ ‏\"‏ وَكَانَ طُبِعَ يَوْمَ طُبِعَ كَافِرًا ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4706"
   - In-book reference: " Book 42, Hadith 111"
@@ -2235,6 +2568,9 @@
       ‏\"‏ أَبْصَرَ الْخَضِرُ غُلاَمًا يَلْعَبُ مَعَ الصِّبْيَانِ فَتَنَاوَلَ رَأْسَهُ
       فَقَلَعَهُ فَقَالَ مُوسَى ‏{‏ أَقَتَلْتَ نَفْسًا زَكِيَّةً ‏}‏ ‏\"‏ ‏.‏ الآيَةَ
       ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4707"
   - In-book reference: " Book 42, Hadith 112"
@@ -2270,6 +2606,9 @@
       لَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ حَتَّى مَا يَكُونَ بَيْنَهُ وَبَيْنَهَا
       إِلاَّ ذِرَاعٌ أَوْ قِيدُ ذِرَاعٍ فَيَسْبِقُ عَلَيْهِ الْكِتَابُ فَيَعْمَلُ
       بِعَمَلِ أَهْلِ الْجَنَّةِ فَيَدْخُلُهَا ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4708"
   - In-book reference: " Book 42, Hadith 113"
@@ -2286,6 +2625,9 @@
       اللَّهِ صلى الله عليه وسلم يَا رَسُولَ اللَّهِ أَعُلِمَ أَهْلُ الْجَنَّةِ مِنْ
       أَهْلِ النَّارِ قَالَ ‏\"‏ نَعَمْ ‏\"‏ ‏.‏ قَالَ فَفِيمَ يَعْمَلُ الْعَامِلُونَ
       قَالَ ‏\"‏ كُلٌّ مُيَسَّرٌ لِمَا خُلِقَ لَهُ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4709"
   - In-book reference: " Book 42, Hadith 114"
@@ -2302,6 +2644,9 @@
     :en: Do not sit which those who believe in free will and do not address them before
       they address you.
     :ar: "\"‏ لاَ تُجَالِسُوا أَهْلَ الْقَدَرِ وَلاَ تُفَاتِحُوهُمْ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4710"
   - In-book reference: " Book 42, Hadith 115"
@@ -2314,6 +2659,9 @@
   :hadith:
     :en: Allah knows best about what they were doing.
     :ar: "\"‏ اللَّهُ أَعْلَمُ بِمَا كَانُوا عَامِلِينَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4711"
   - In-book reference: " Book 42, Hadith 116"
@@ -2337,6 +2685,9 @@
       كَانُوا عَامِلِينَ ‏\"‏ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ فَذَرَارِيُّ الْمُشْرِكِينَ
       قَالَ ‏\"‏ مِنْ آبَائِهِمْ ‏\"‏ ‏.‏ قُلْتُ بِلاَ عَمَلٍ قَالَ ‏\"‏ اللَّهُ أَعْلَمُ
       بِمَا كَانُوا عَامِلِينَ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih in chain (Al-Albani)
+    :ar: "  صحيح الإسناد   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4712"
   - In-book reference: " Book 42, Hadith 117"
@@ -2358,6 +2709,9 @@
     :ar: "\"‏ أَوَغَيْرَ ذَلِكَ يَا عَائِشَةُ إِنَّ اللَّهَ خَلَقَ الْجَنَّةَ وَخَلَقَ
       لَهَا أَهْلاً وَخَلَقَهَا لَهُمْ وَهُمْ فِي أَصْلاَبِ آبَائِهِمْ وَخَلَقَ النَّارَ
       وَخَلَقَ لَهَا أَهْلاً وَخَلَقَهَا لَهُمْ وَهُمْ فِي أَصْلاَبِ آبَائِهِمْ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4713"
   - In-book reference: " Book 42, Hadith 118"
@@ -2376,6 +2730,9 @@
       كَمَا تَنَاتَجُ الإِبِلُ مِنْ بَهِيمَةٍ جَمْعَاءَ هَلْ تُحِسُّ مِنْ جَدْعَاءَ
       ‏\"‏ ‏.‏ قَالُوا يَا رَسُولَ اللَّهِ أَفَرَأَيْتَ مَنْ يَمُوتُ وَهُوَ صَغِيرٌ
       قَالَ ‏\"‏ اللَّهُ أَعْلَمُ بِمَا كَانُوا عَامِلِينَ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4714"
   - In-book reference: " Book 42, Hadith 119"
@@ -2392,6 +2749,9 @@
       What do you think about the one who died while he was young? He replied : Allah
       knows best what he was going to do.'
     :ar: "\"‏ اللَّهُ أَعْلَمُ بِمَا كَانُوا عَامِلِينَ ‏\""
+  :grade:
+    :en: 
+    :ar: "  صحيح الإسناد مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4715"
   - In-book reference: " Book 42, Hadith 120"
@@ -2407,6 +2767,9 @@
       يُولَدُ عَلَى الْفِطْرَةِ ‏\"‏ ‏.‏ قَالَ هَذَا عِنْدَنَا حَيْثُ أَخَذَ اللَّهُ
       عَلَيْهِمُ الْعَهْدَ فِي أَصْلاَبِ آبَائِهِمْ حَيْثُ قَالَ ‏{‏ أَلَسْتُ بِرَبِّكُمْ
       قَالُوا بَلَى ‏}‏ ‏.‏"
+  :grade:
+    :en: 
+    :ar: "  صحيح الإسناد مقطوع   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4716"
   - In-book reference: " Book 42, Hadith 121"
@@ -2421,6 +2784,9 @@
       The woman who buries alive her new-born girl and the girl who is buried alive both will go to Hell.
       This tradition has also been transmitted by Ibn Mas’ud from the Prophet (May peace be upon him) to the same effect through a different chain of narrators.
     :ar: "\"‏ الْوَائِدَةُ وَالْمَوْءُودَةُ فِي النَّارِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4717"
   - In-book reference: " Book 42, Hadith 122"
@@ -2435,6 +2801,9 @@
       عَنْ أَنَسٍ، أَنَّ رَجُلاً، قَالَ يَا رَسُولَ اللَّهِ أَيْنَ أَبِي قَالَ ‏\"‏
       أَبُوكَ فِي النَّارِ ‏\"‏ ‏.‏ فَلَمَّا قَفَّى قَالَ ‏\"‏ إِنَّ أَبِي وَأَبَاكَ
       فِي النَّارِ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4718"
   - In-book reference: " Book 42, Hadith 123"
@@ -2446,6 +2815,9 @@
   :hadith:
     :en: The devil flows in a man like his blood.
     :ar: "\"‏ إِنَّ الشَّيْطَانَ يَجْرِي مِنِ ابْنِ آدَمَ مَجْرَى الدَّمِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4719"
   - In-book reference: " Book 42, Hadith 124"
@@ -2461,6 +2833,9 @@
     :en: Do not sit with those who believe in free will and do not address them before
       they address you.
     :ar: "\"‏ لاَ تُجَالِسُوا أَهْلَ الْقَدَرِ وَلاَ تُفَاتِحُوهُمُ الْحَدِيثَ ‏\""
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4720"
   - In-book reference: " Book 42, Hadith 125"
@@ -2477,6 +2852,9 @@
     :ar: "\"‏ لاَ يَزَالُ النَّاسُ يَتَسَاءَلُونَ حَتَّى يُقَالَ هَذَا خَلَقَ اللَّهُ
       الْخَلْقَ فَمَنْ خَلَقَ اللَّهَ فَمَنْ وَجَدَ مِنْ ذَلِكَ شَيْئًا فَلْيَقُلْ
       آمَنْتُ بِاللَّهِ ‏\""
+  :grade:
+    :en: 
+    :ar: "  صحيح م خ نحوه بلفظ فليتعذ بالله ولينته   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4721"
   - In-book reference: " Book 42, Hadith 126"
@@ -2497,6 +2875,9 @@
       ‏{‏ اللَّهُ أَحَدٌ * اللَّهُ الصَّمَدُ * لَمْ يَلِدْ وَلَمْ يُولَدْ * وَلَمْ
       يَكُنْ لَهُ كُفُوًا أَحَدٌ ‏}‏ ثُمَّ لْيَتْفُلْ عَنْ يَسَارِهِ ثَلاَثًا وَلْيَسْتَعِذْ
       مِنَ الشَّيْطَانِ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4722"
   - In-book reference: " Book 42, Hadith 127"
@@ -2533,6 +2914,9 @@
       مِثْلُ مَا بَيْنَ سَمَاءٍ إِلَى سَمَاءٍ ثُمَّ عَلَى ظُهُورِهِمُ الْعَرْشُ بَيْنَ
       أَسْفَلِهِ وَأَعْلاَهُ مِثْلُ مَا بَيْنَ سَمَاءٍ إِلَى سَمَاءٍ ثُمَّ اللَّهُ
       تَبَارَكَ وَتَعَالَى فَوْقَ ذَلِكَ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4723"
   - In-book reference: " Book 42, Hadith 128"
@@ -2545,6 +2929,9 @@
     :ar: "حَدَّثَنَا أَحْمَدُ بْنُ أَبِي سُرَيْجٍ، أَخْبَرَنَا عَبْدُ الرَّحْمَنِ
       بْنُ عَبْدِ اللَّهِ بْنِ سَعْدٍ، وَمُحَمَّدُ بْنُ سَعِيدٍ، قَالاَ أَخْبَرَنَا
       عَمْرُو بْنُ أَبِي قَيْسٍ، عَنْ سِمَاكٍ، بِإِسْنَادِهِ وَمَعْنَاهُ ‏.‏"
+  :grade:
+    :en: 
+    :ar: 
   :reference:
   - Reference: " Sunan Abi Dawud 4724"
   - In-book reference: " Book 42, Hadith 129"
@@ -2557,6 +2944,9 @@
     :ar: "حَدَّثَنَا أَحْمَدُ بْنُ حَفْصٍ، قَالَ حَدَّثَنِي أَبِي، حَدَّثَنَا إِبْرَاهِيمُ
       بْنُ طَهْمَانَ، عَنْ سِمَاكٍ، بِإِسْنَادِهِ وَمَعْنَى هَذَا الْحَدِيثِ الطَّوِيلِ
       ‏.‏"
+  :grade:
+    :en: 
+    :ar: 
   :reference:
   - Reference: " Sunan Abi Dawud 4725"
   - In-book reference: " Book 42, Hadith 130"
@@ -2597,6 +2987,9 @@
       عَنِ ابْنِ إِسْحَاقَ كَمَا قَالَ أَحْمَدُ أَيْضًا وَكَانَ سَمَاعُ عَبْدِ الأَعْلَى
       وَابْنِ الْمُثَنَّى وَابْنِ بَشَّارٍ مِنْ نُسْخَةٍ وَاحِدَةٍ فِيمَا بَلَغَنِي
       ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4726"
   - In-book reference: " Book 42, Hadith 131"
@@ -2614,6 +3007,9 @@
     :ar: "\"‏ أُذِنَ لِي أَنْ أُحَدِّثَ عَنْ مَلَكٍ مِنْ مَلاَئِكَةِ اللَّهِ مِنْ
       حَمَلَةِ الْعَرْشِ إِنَّ مَا بَيْنَ شَحْمَةِ أُذُنِهِ إِلَى عَاتِقِهِ مَسِيرَةُ
       سَبْعِمِائَةِ عَامٍ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4727"
   - In-book reference: " Book 42, Hadith 132"
@@ -2641,6 +3037,9 @@
       الْمُقْرِئُ يَعْنِي ‏{‏ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ ‏}‏ يَعْنِي أَنَّ لِلَّهِ
       سَمْعًا وَبَصَرًا ‏.‏ قَالَ أَبُو دَاوُدَ وَهَذَا رَدٌّ عَلَى الْجَهْمِيَّةِ
       ‏.‏"
+  :grade:
+    :en: Sahih in chain (Al-Albani)
+    :ar: "  صحيح الإسناد   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4728"
   - In-book reference: " Book 42, Hadith 133"
@@ -2663,6 +3062,9 @@
       عَلَى صَلاَةٍ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا فَافْعَلُوا ‏\"‏
       ‏.‏ ثُمَّ قَرَأَ هَذِهِ الآيَةَ ‏{‏ فَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ
       الشَّمْسِ وَقَبْلَ غُرُوبِهَا ‏}‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4729"
   - In-book reference: " Book 42, Hadith 134"
@@ -2684,6 +3086,9 @@
       لَيْلَةَ الْبَدْرِ لَيْسَ فِي سَحَابَةٍ ‏\"‏ ‏.‏ قَالُوا لاَ ‏.‏ قَالَ ‏\"‏
       وَالَّذِي نَفْسِي بِيَدِهِ لاَ تُضَارُّونَ فِي رُؤْيَتِهِ إِلاَّ كَمَا تُضَارُّونَ
       فِي رُؤْيَةِ أَحَدِهِمَا ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4730"
   - In-book reference: " Book 42, Hadith 135"
@@ -2708,6 +3113,9 @@
       بِهِ ‏\"‏ ‏.‏ ثُمَّ اتَّفَقَا قُلْتُ بَلَى ‏.‏ قَالَ ‏\"‏ فَاللَّهُ أَعْظَمُ
       ‏\"‏ ‏.‏ قَالَ ابْنُ مُعَاذٍ قَالَ ‏\"‏ فَإِنَّمَا هُوَ خَلْقٌ مِنْ خَلْقِ اللَّهِ
       فَاللَّهُ أَجَلُّ وَأَعْظَمُ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4731"
   - In-book reference: " Book 42, Hadith 136"
@@ -2729,6 +3137,9 @@
       الْمُتَكَبِّرُونَ ثُمَّ يَطْوِي الأَرَضِينَ ثُمَّ يَأْخُذُهُنَّ ‏\"‏ ‏.‏ قَالَ
       ابْنُ الْعَلاَءِ ‏\"‏ بِيَدِهِ الأُخْرَى ثُمَّ يَقُولُ أَنَا الْمَلِكُ أَيْنَ
       الْجَبَّارُونَ أَيْنَ الْمُتَكَبِّرُونَ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4732"
   - In-book reference: " Book 42, Hadith 137"
@@ -2746,6 +3157,9 @@
     :ar: "\"‏ يَنْزِلُ رَبُّنَا كُلَّ لَيْلَةٍ إِلَى سَمَاءِ الدُّنْيَا حِينَ يَبْقَى
       ثُلُثُ اللَّيْلِ الآخِرِ فَيَقُولُ مَنْ يَدْعُونِي فَأَسْتَجِيبَ لَهُ مَنْ يَسْأَلُنِي
       فَأُعْطِيَهُ مَنْ يَسْتَغْفِرُنِي فَأَغْفِرَ لَهُ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4733"
   - In-book reference: " Book 42, Hadith 138"
@@ -2761,6 +3175,9 @@
       preaching the word of my Lord.'
     :ar: "\"‏ أَلاَ رَجُلٌ يَحْمِلُنِي إِلَى قَوْمِهِ فَإِنَّ قُرَيْشًا قَدْ مَنَعُونِي
       أَنْ أُبَلِّغَ كَلاَمَ رَبِّي ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4734"
   - In-book reference: " Book 42, Hadith 139"
@@ -2776,6 +3193,9 @@
       بْنُ وَقَّاصٍ، وَعُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ، عَنْ حَدِيثِ، عَائِشَةَ
       وَكُلٌّ حَدَّثَنِي طَائِفَةً، مِنَ الْحَدِيثِ قَالَتْ وَلَشَأْنِي فِي نَفْسِي
       كَانَ أَحْقَرَ مِنْ أَنْ يَتَكَلَّمَ اللَّهُ فِيَّ بِأَمْرٍ يُتْلَى ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4735"
   - In-book reference: " Book 42, Hadith 140"
@@ -2789,6 +3209,9 @@
       أَخْبَرَنَا ابْنُ أَبِي زَائِدَةَ، عَنْ مُجَالِدٍ، عَنْ عَامِرٍ، - يَعْنِي الشَّعْبِيَّ
       - عَنْ عَامِرِ بْنِ شَهْرٍ، قَالَ ‏:‏ كُنْتُ عِنْدَ النَّجَاشِيِّ فَقَرَأَ ابْنٌ
       لَهُ آيَةً مِنَ الإِنْجِيلِ فَضَحِكْتُ فَقَالَ ‏:‏ أَتَضْحَكُ مِنْ كَلاَمِ اللَّهِ"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4736"
   - In-book reference: " Book 42, Hadith 141"
@@ -2808,6 +3231,9 @@
       وَمِنْ كُلِّ عَيْنٍ لاَمَّةٍ ‏\"‏ ‏.‏ ثُمَّ يَقُولُ ‏:‏ ‏\"‏ كَانَ أَبُوكُمْ
       يُعَوِّذُ بِهِمَا إِسْمَاعِيلَ وَإِسْحَاقَ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ ‏:‏
       هَذَا دَلِيلٌ عَلَى أَنَّ الْقُرْآنَ لَيْسَ بِمَخْلُوقٍ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4737"
   - In-book reference: " Book 42, Hadith 142"
@@ -2830,6 +3256,9 @@
       حَتَّى إِذَا جَاءَهُمْ جِبْرِيلُ فُزِّعَ عَنْ قُلُوبِهِمْ ‏\"‏ ‏.‏ قَالَ ‏:‏
       ‏\"‏ فَيَقُولُونَ ‏:‏ يَا جِبْرِيلُ مَاذَا قَالَ رَبُّكَ فَيَقُولُ ‏:‏ الْحَقَّ
       فَيَقُولُونَ ‏:‏ الْحَقَّ الْحَقَّ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4738"
   - In-book reference: " Book 42, Hadith 143"
@@ -2842,6 +3271,9 @@
     :en: 'The Prophet (ﷺ) said: My intercession will be for those of my people who
       have committed major sins.'
     :ar: "\"‏ شَفَاعَتِي لأَهْلِ الْكَبَائِرِ مِنْ أُمَّتِي ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4739"
   - In-book reference: " Book 42, Hadith 144"
@@ -2855,6 +3287,9 @@
       and be named Jahannamis.
     :ar: "\"‏ يَخْرُجُ قَوْمٌ مِنَ النَّارِ بِشَفَاعَةِ مُحَمَّدٍ فَيَدْخُلُونَ الْجَنَّةَ
       وَيُسَمَّوْنَ الْجَهَنَّمِيِّينَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4740"
   - In-book reference: " Book 42, Hadith 145"
@@ -2867,6 +3302,9 @@
     :en: 'I heard the Prophet(ﷺ) say: Those who go to Paradise will eat in it and
       drink.'
     :ar: "\"‏ إِنَّ أَهْلَ الْجَنَّةِ يَأْكُلُونَ فِيهَا وَيَشْرَبُونَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4741"
   - In-book reference: " Book 42, Hadith 146"
@@ -2878,6 +3316,9 @@
   :hadith:
     :en: 'The Prophet (ﷺ) said: The trumpet (sur) which will be blown.'
     :ar: "\"‏ الصُّورُ قَرْنٌ يُنْفَخُ فِيهِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4742"
   - In-book reference: " Book 42, Hadith 147"
@@ -2891,6 +3332,9 @@
       tail-bone from which he was created and from which he will be reconstituted.
     :ar: "\"‏ كُلَّ ابْنِ آدَمَ تَأْكُلُ الأَرْضُ إِلاَّ عَجْبَ الذَّنَبِ، مِنْهُ
       خُلِقَ وَفِيهِ يُرَكَّبُ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4743"
   - In-book reference: " Book 42, Hadith 148"
@@ -2923,6 +3367,9 @@
       ‏:‏ يَا جِبْرِيلُ اذْهَبْ فَانْظُرْ إِلَيْهَا ‏.‏ فَذَهَبَ فَنَظَرَ إِلَيْهَا
       ثُمَّ جَاءَ فَقَالَ ‏:‏ أَىْ رَبِّ وَعِزَّتِكَ لَقَدْ خَشِيتُ أَنْ لاَ يَبْقَى
       أَحَدٌ إِلاَّ دَخَلَهَا ‏\"‏ ‏.‏"
+  :grade:
+    :en: Hasan Sahih (Al-Albani)
+    :ar: "  حسن صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4744"
   - In-book reference: " Book 42, Hadith 149"
@@ -2936,6 +3383,9 @@
       that between Jarbah and Adhruh.
     :ar: "\"‏ إِنَّ أَمَامَكُمْ حَوْضًا مَا بَيْنَ نَاحِيَتَيْهِ كَمَا بَيْنَ جَرْبَاءَ
       وَأَذْرُحَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4745"
   - In-book reference: " Book 42, Hadith 150"
@@ -2952,6 +3402,9 @@
       day? He replied: Seven or eight hundred.'
     :ar: "\"‏ مَا أَنْتُمْ جُزْءٌ مِنْ مِائَةِ أَلْفِ جُزْءٍ مِمَّنْ يَرِدُ عَلَىَّ
       الْحَوْضَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4746"
   - In-book reference: " Book 42, Hadith 151"
@@ -2980,6 +3433,9 @@
       ‏:‏ ‏\"‏ فَإِنَّهُ نَهْرٌ وَعَدَنِيهِ رَبِّي عَزَّ وَجَلَّ فِي الْجَنَّةِ، وَعَلَيْهِ
       خَيْرٌ كَثِيرٌ عَلَيْهِ حَوْضٌ تَرِدُ عَلَيْهِ أُمَّتِي يَوْمَ الْقِيَامَةِ
       آنِيَتُهُ عَدَدُ الْكَوَاكِبِ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Hasan (Al-Albani)
+    :ar: "  حسن   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4747"
   - In-book reference: " Book 42, Hadith 152"
@@ -2998,6 +3454,9 @@
       and took out musk. Muhammad (ﷺ) then asked the angel who was with him: What
       is this? He replied: It is al-Kawthar which Allah has given you.'
     :ar: "\"‏ مَا هَذَا ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4748"
   - In-book reference: " Book 42, Hadith 153"
@@ -3028,6 +3487,9 @@
       ‏:‏ نَعَمْ لاَ مَرَّةً وَلاَ ثِنْتَيْنِ وَلاَ ثَلاَثًا وَلاَ أَرْبَعًا وَلاَ
       خَمْسًا، فَمَنْ كَذَّبَ بِهِ فَلاَ سَقَاهُ اللَّهُ مِنْهُ ثُمَّ خَرَجَ مُغْضَبًا
       ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4749"
   - In-book reference: " Book 42, Hadith 154"
@@ -3044,6 +3506,9 @@
       فِي الْقَبْرِ فَشَهِدَ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ
       اللَّهِ صلى الله عليه وسلم فَذَلِكَ قَوْلُ اللَّهِ عَزَّ وَجَلَّ ‏{‏ يُثَبِّتُ
       اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ ‏}‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4750"
   - In-book reference: " Book 42, Hadith 155"
@@ -3092,6 +3557,9 @@
       هَذَا الرَّجُلِ فَيَقُولُ ‏:‏ كُنْتُ أَقُولُ مَا يَقُولُ النَّاسُ ‏.‏ فَيَضْرِبُهُ
       بِمِطْرَاقٍ مِنْ حَدِيدٍ بَيْنَ أُذُنَيْهِ فَيَصِيحُ صَيْحَةً يَسْمَعُهَا الْخَلْقُ
       غَيْرَ الثَّقَلَيْنِ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4751"
   - In-book reference: " Book 42, Hadith 156"
@@ -3113,6 +3581,9 @@
       قَالَ فِيهِ ‏:‏ ‏\"‏ وَأَمَّا الْكَافِرُ وَالْمُنَافِقُ فَيَقُولاَنِ لَهُ ‏\"‏
       ‏.‏ زَادَ ‏:‏ ‏\"‏ الْمُنَافِقُ ‏\"‏ ‏.‏ وَقَالَ ‏:‏ ‏\"‏ يَسْمَعُهَا مَنْ يَلِيهِ
       غَيْرَ الثَّقَلَيْنِ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4752"
   - In-book reference: " Book 42, Hadith 157"
@@ -3192,6 +3663,9 @@
       لَصَارَ تُرَابًا ‏\"‏ ‏.‏ قَالَ ‏:‏ ‏\"‏ فَيَضْرِبُهُ بِهَا ضَرْبَةً يَسْمَعُهَا
       مَا بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ إِلاَّ الثَّقَلَيْنِ فَيَصِيرُ تُرَابًا
       ‏\"‏ ‏.‏ قَالَ ‏:‏ ‏\"‏ ثُمَّ تُعَادُ فِيهِ الرُّوحُ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4753"
   - In-book reference: " Book 42, Hadith 158"
@@ -3206,6 +3680,9 @@
       حَدَّثَنَا الأَعْمَشُ، حَدَّثَنَا الْمِنْهَالُ، عَنْ أَبِي عُمَرَ، ‏:‏ زَاذَانَ
       قَالَ سَمِعْتُ الْبَرَاءَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ فَذَكَرَ
       نَحْوَهُ ‏.‏"
+  :grade:
+    :en: 
+    :ar: 
   :reference:
   - Reference: " Sunan Abi Dawud 4754"
   - In-book reference: " Book 42, Hadith 159"
@@ -3234,6 +3711,9 @@
       أَمْ مِنْ وَرَاءِ ظَهْرِهِ، وَعِنْدَ الصِّرَاطِ إِذَا وُضِعَ بَيْنَ ظَهْرَىْ
       جَهَنَّمَ ‏\"‏ ‏.‏ قَالَ يَعْقُوبُ ‏:‏ عَنْ يُونُسَ وَهَذَا لَفْظُ حَدِيثِهِ
       ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4755"
   - In-book reference: " Book 42, Hadith 160"
@@ -3255,6 +3735,9 @@
       صلى الله عليه وسلم وَقَالَ ‏:‏ ‏\"‏ لَعَلَّهُ سَيُدْرِكُهُ مَنْ قَدْ رَآنِي
       وَسَمِعَ كَلاَمِي ‏\"‏ ‏.‏ قَالُوا ‏:‏ يَا رَسُولَ اللَّهِ كَيْفَ قُلُوبُنَا
       يَوْمَئِذٍ أَمِثْلُهَا الْيَوْمَ قَالَ ‏:‏ ‏\"‏ أَوْ خَيْرٌ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4756"
   - In-book reference: " Book 42, Hadith 161"
@@ -3275,6 +3758,9 @@
       لَقَدْ أَنْذَرَهُ نُوحٌ قَوْمَهُ، وَلَكِنِّي سَأَقُولُ لَكُمْ فِيهِ قَوْلاً
       لَمْ يَقُلْهُ نَبِيٌّ لِقَوْمِهِ ‏:‏ إِنَّهُ أَعْوَرُ وَإِنَّ اللَّهَ لَيْسَ
       بِأَعْوَرَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4757"
   - In-book reference: " Book 42, Hadith 162"
@@ -3289,6 +3775,9 @@
       takes off the noose of Islam from his neck.'
     :ar: "\"‏ مَنْ فَارَقَ الْجَمَاعَةَ شِبْرًا فَقَدْ خَلَعَ رِبْقَةَ الإِسْلاَمِ
       مِنْ عُنُقِهِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4758"
   - In-book reference: " Book 42, Hadith 163"
@@ -3309,6 +3798,9 @@
       قُلْتُ ‏:‏ إِذًا وَالَّذِي بَعَثَكَ بِالْحَقِّ أَضَعُ سَيْفِي عَلَى عَاتِقِي،
       ثُمَّ أَضْرِبُ بِهِ حَتَّى أَلْقَاكَ أَوْ أَلْحَقَكَ ‏.‏ قَالَ ‏:‏ ‏\"‏ أَوَلاَ
       أَدُلُّكَ عَلَى خَيْرٍ مِنْ ذَلِكَ تَصْبِرُ حَتَّى تَلْقَانِي ‏\"‏ ‏.‏"
+  :grade:
+    :en: Da'if (Al-Albani)
+    :ar: "  ضعيف   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4759"
   - In-book reference: " Book 42, Hadith 164"
@@ -3334,6 +3826,9 @@
       ‏\"‏ ‏.‏ فَقِيلَ ‏:‏ يَا رَسُولَ اللَّهِ أَفَلاَ نَقْتُلُهُمْ قَالَ ابْنُ دَاوُدَ
       ‏:‏ ‏\"‏ أَفَلاَ نُقَاتِلُهُمْ ‏\"‏ ‏.‏ قَالَ ‏:‏ ‏\"‏ لاَ مَا صَلَّوْا ‏\"‏
       ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4760"
   - In-book reference: " Book 42, Hadith 165"
@@ -3350,6 +3845,9 @@
       said : it means one who feels its disapproval in his heart, and one who expresses
       disapproval in his heart.'
     :ar: "\"‏ فَمَنْ كَرِهَ فَقَدْ بَرِئَ، وَمَنْ أَنْكَرَ فَقَدْ سَلِمَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4761"
   - In-book reference: " Book 42, Hadith 166"
@@ -3366,6 +3864,9 @@
     :ar: "\"‏ سَتَكُونُ فِي أُمَّتِي هَنَاتٌ وَهَنَاتٌ وَهَنَاتٌ، فَمَنْ أَرَادَ أَنْ
       يُفَرِّقَ أَمْرَ الْمُسْلِمِينَ وَهُمْ جَمِيعٌ فَاضْرِبُوهُ بِالسَّيْفِ كَائِنًا
       مَنْ كَانَ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4762"
   - In-book reference: " Book 42, Hadith 167"
@@ -3385,6 +3886,9 @@
       لَنَبَّأْتُكُمْ مَا وَعَدَ اللَّهُ الَّذِينَ يَقْتُلُونَهُمْ عَلَى لِسَانِ مُحَمَّدٍ
       صلى الله عليه وسلم ‏.‏ قَالَ قُلْتُ ‏:‏ أَنْتَ سَمِعْتَ هَذَا مِنْهُ قَالَ ‏:‏
       إِي وَرَبِّ الْكَعْبَةِ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4763"
   - In-book reference: " Book 42, Hadith 168"
@@ -3425,6 +3929,9 @@
       حَنَاجِرَهُمْ يَمْرُقُونَ مِنَ الإِسْلاَمِ مُرُوقَ السَّهْمِ مِنَ الرَّمِيَّةِ،
       يَقْتُلُونَ أَهْلَ الإِسْلاَمِ وَيَدَعُونَ أَهْلَ الأَوْثَانِ لَئِنْ أَنَا أَدْرَكْتُهُمْ
       قَتَلْتُهُمْ قَتْلَ عَادٍ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4764"
   - In-book reference: " Book 42, Hadith 169"
@@ -3452,6 +3959,9 @@
       قَتَلَهُمْ وَقَتَلُوهُ، يَدْعُونَ إِلَى كِتَابِ اللَّهِ وَلَيْسُوا مِنْهُ فِي
       شَىْءٍ، مَنْ قَاتَلَهُمْ كَانَ أَوْلَى بِاللَّهِ مِنْهُمْ ‏\"‏ ‏.‏ قَالُوا ‏:‏
       يَا رَسُولَ اللَّهِ مَا سِيمَاهُمْ قَالَ ‏:‏ ‏\"‏ التَّحْلِيقُ ‏\"‏ ‏.‏"
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4765"
   - In-book reference: " Book 42, Hadith 170"
@@ -3468,6 +3978,9 @@
     :en: Tasmid means uprooting the hair.
     :ar: "\"‏ سِيمَاهُمُ التَّحْلِيقُ وَالتَّسْبِيدُ، فَإِذَا رَأَيْتُمُوهُمْ فَأَنِيمُوهُمْ
       ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4766"
   - In-book reference: " Book 42, Hadith 171"
@@ -3493,6 +4006,9 @@
       كَمَا يَمْرُقُ السَّهْمُ مِنَ الرَّمِيَّةِ، لاَ يُجَاوِزُ إِيمَانُهُمْ حَنَاجِرَهُمْ،
       فَأَيْنَمَا لَقِيتُمُوهُمْ فَاقْتُلُوهُمْ، فَإِنَّ قَتْلَهُمْ أَجْرٌ لِمَنْ
       قَتَلَهُمْ يَوْمَ الْقِيَامَةِ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4767"
   - In-book reference: " Book 42, Hadith 172"
@@ -3546,6 +4062,9 @@
       عليه وسلم لَنَكَلُوا عَلَى الْعَمَلِ، وَآيَةُ ذَلِكَ أَنَّ فِيهِمْ رَجُلاً لَهُ
       عَضُدٌ وَلَيْسَتْ لَهُ ذِرَاعٌ، عَلَى عَضُدِهِ مِثْلُ حَلَمَةِ الثَّدْىِ عَلَيْهِ
       شَعَرَاتٌ بِيضٌ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4768"
   - In-book reference: " Book 42, Hadith 173"
@@ -3565,6 +4084,9 @@
       إِلَيْهِ حَبَشِيٌّ عَلَيْهِ قُرَيْطَقٌ لَهُ إِحْدَى يَدَيْنِ مِثْلُ ثَدْىِ الْمَرْأَةِ
       عَلَيْهَا شُعَيْرَاتٌ مِثْلُ شُعَيْرَاتِ الَّتِي تَكُونُ عَلَى ذَنَبِ الْيَرْبُوعِ
       ‏.‏"
+  :grade:
+    :en: Sahih in chain (Al-Albani)
+    :ar: "  صحيح الإسناد   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4769"
   - In-book reference: " Book 42, Hadith 174"
@@ -3589,6 +4111,9 @@
       الْمَرْأَةِ عَلَى رَأْسِهِ حَلَمَةٌ مِثْلُ حَلَمَةِ الثَّدْىِ عَلَيْهِ شُعَيْرَاتٌ
       مِثْلُ سِبَالَةِ السِّنَّوْرِ ‏.‏ قَالَ أَبُو دَاوُدَ ‏:‏ وَهُوَ عِنْدَ النَّاسِ
       اسْمُهُ حَرْقُوسُ ‏.‏"
+  :grade:
+    :en: Da'if in chain (Al-Albani)
+    :ar: "  ضعيف الإسناد   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4770"
   - In-book reference: " Book 42, Hadith 175"
@@ -3603,6 +4128,9 @@
       away without any right and he fights and is killed, he is a martyr.'
     :ar: "\"‏ مَنْ أُرِيدَ مَالُهُ بِغَيْرِ حَقٍّ فَقَاتَلَ فَقُتِلَ فَهُوَ شَهِيدٌ
       ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4771"
   - In-book reference: " Book 42, Hadith 176"
@@ -3619,6 +4147,9 @@
       his religion is a martyr.'
     :ar: "\"‏ مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ، وَمَنْ قُتِلَ دُونَ أَهْلِهِ
       أَوْ دُونَ دَمِهِ أَوْ دُونَ دِينِهِ فَهُوَ شَهِيدٌ ‏\""
+  :grade:
+    :en: Sahih (Al-Albani)
+    :ar: "  صحيح   (الألباني)"
   :reference:
   - Reference: " Sunan Abi Dawud 4772"
   - In-book reference: " Book 42, Hadith 177"
