@@ -6,29 +6,22 @@ require 'json'
 require 'yaml'
 require 'sqlite3'
 
-class Scraper
-  BASE_URL = "http://sunnah.com"
-
-  def scrap_books
-    scrap_book("bukhari")
-    scrap_book("muslim")
-    scrap_book("nasai")
-    scrap_book("abudawud")
-    scrap_book("tirmidhi")
-    scrap_book("ibnmajah")
-    scrap_book("malik")
-    scrap_book("nawawi40")
-    scrap_book("adab")
-  end
-
-  def create_db
+class Filler
+  def fill_db
     @db ||= SQLite3::Database.new("hadith.db")
+    fill_collection("bukhari", 'Sahih al-Bukhari')
+    fill_collection("muslim", 'Sahih Muslim')
+    fill_collection("nasai", "Sunan an-Nasa'i")
+    fill_collection("abudawud", 'Sunan Abi Dawud')
+    fill_collection("tirmidhi", 'Jami` at-Tirmidhi')
+    fill_collection("ibnmajah", 'Sunan Ibn Majah')
+    fill_collection("malik", 'Muwatta Malik')
+    fill_collection("nawawi40", '40 Hadith Nawawi')
+    fill_collection("adab", 'Al-Adab Al-Mufrad')
   end
 
-  def scrap_book(book_name)
-    url = "#{BASE_URL}/#{book_name}"
+  def fill_collection(book_name, readable_name)
     create_directory book_name
-    doc = Nokogiri::HTML(open_url(url, book_name))
 
     books = []
     doc.css(".book_title").each do |item|
@@ -45,11 +38,11 @@ class Scraper
     end
     marshal_to_file(book_name, books)
     books.each_with_index do |book, i|
-      scrap_book_page book[:book_url], "#{book_name}/#{i+1}"
+      fill_collection_page book[:book_url], "#{book_name}/#{i+1}"
     end
   end
 
-  def scrap_book_page(url, file_path)
+  def fill_collection_page(url, file_path)
     doc = Nokogiri::HTML(open_url(url, file_path))
     hadiths = []
 
@@ -122,4 +115,4 @@ class Scraper
   end
 end
 
-Scraper.new.scrap_books
+Scraper.new.fill_collections

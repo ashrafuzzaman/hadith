@@ -4,7 +4,6 @@ require 'open-uri'
 require 'awesome_print'
 require 'json'
 require 'yaml'
-require 'sqlite3'
 
 class Scraper
   BASE_URL = "http://sunnah.com"
@@ -19,10 +18,6 @@ class Scraper
     scrap_book("malik")
     scrap_book("nawawi40")
     scrap_book("adab")
-  end
-
-  def create_db
-    @db ||= SQLite3::Database.new("hadith.db")
   end
 
   def scrap_book(book_name)
