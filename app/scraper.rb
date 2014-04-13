@@ -46,8 +46,9 @@ class Scraper
       }
       books << book
     end
-    marshal_to_file(book_name, books)
+    #marshal_to_file(book_name, books)
     books.each_with_index do |book, i|
+      create_book_in_db(i+1, collection_id, book)
       scrap_book_page book[:book_url], "#{book_name}/#{i+1}"
     end
   end
@@ -58,16 +59,39 @@ class Scraper
     end
   end
 
-  #def create_collection_in_db(readable_name, url)
-  #  db.execute("INSERT INTO collections(id, name, url) VALUES ( ?, ?, ? )", @collection_id, readable_name, url)
-  #  @collection_id += 1
-  #  @collection_id - 1
-  #end
-
   def create_collection_in_db(readable_name, url)
     db.execute("INSERT INTO collections(id, name, url) VALUES ( ?, ?, ? )", @collection_id, readable_name, url)
     @collection_id += 1
     @collection_id - 1
+  end
+
+  def create_book_in_db(id, collection_id, book)
+    insert_into('books', id: id,
+                collection_id: collection_id,
+                book_number: book[:book_number],
+                book_name_en: book[:book_name_en],
+                book_name_ar: book[:book_name_ar],
+                book_range_from: book[:book_range_from],
+                book_range_to: book[:book_range_to],
+                url: book[:url])
+
+    #query = %q{ INSERT INTO books(id, collection_id, book_number,
+    #              book_name_en, book_name_ar, book_range_from, book_range_to, url)
+    #            VALUES ( ?, ?, ?, ?, ?, ?, ?, ? )}
+    #
+    #db.execute(query, id, readable_name, url)
+    #@collection_id += 1
+    #@collection_id - 1
+  end
+
+  def insert_into(table, data)
+    fields = data.keys.collect(&:to_s).join(', ')
+    qs = (1..data.size).collect { '?' }.join(',')
+    query = "INSERT INTO #{table}(#{fields}) VALUES (#{qs})"
+    ap query.inspect
+    #data.values.inject(0, query)
+    #ap data.values.inject(0, query)
+    db.execute(data.values.inject(0, query))
   end
 
   def db
