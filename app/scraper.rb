@@ -4,25 +4,33 @@ require 'open-uri'
 require 'awesome_print'
 require 'json'
 require 'yaml'
+require 'sqlite3'
 
 class Scraper
   BASE_URL = "http://sunnah.com"
 
-  def scrap_books
-    scrap_book("bukhari")
-    scrap_book("muslim")
-    scrap_book("nasai")
-    scrap_book("abudawud")
-    scrap_book("tirmidhi")
-    scrap_book("ibnmajah")
-    scrap_book("malik")
-    scrap_book("nawawi40")
-    scrap_book("adab")
+  def initialize
+    @collection_id = 1
   end
 
-  def scrap_book(book_name)
+  def scrap_books
+    clear_db
+    scrap_book("bukhari", 'Sahih al-Bukhari')
+    #scrap_book("muslim", 'Sahih Muslim')
+    #scrap_book("nasai", "Sunan an-Nasa'i")
+    #scrap_book("abudawud", 'Sunan Abi Dawud')
+    #scrap_book("tirmidhi", 'Jami` at-Tirmidhi')
+    #scrap_book("ibnmajah", 'Sunan Ibn Majah')
+    #scrap_book("malik", 'Muwatta Malik')
+    #scrap_book("nawawi40", '40 Hadith Nawawi')
+    #scrap_book("adab", 'Al-Adab Al-Mufrad')
+  end
+
+  def scrap_book(book_name, readable_name)
     url = "#{BASE_URL}/#{book_name}"
     create_directory book_name
+    collection_id = create_collection_in_db(readable_name, url)
+    ap collection_id
     doc = Nokogiri::HTML(open_url(url, book_name))
 
     books = []
@@ -42,6 +50,28 @@ class Scraper
     books.each_with_index do |book, i|
       scrap_book_page book[:book_url], "#{book_name}/#{i+1}"
     end
+  end
+
+  def clear_db
+    ['collections', 'books', 'hadiths'].each do |table|
+      db.execute("DELETE FROM #{table}")
+    end
+  end
+
+  #def create_collection_in_db(readable_name, url)
+  #  db.execute("INSERT INTO collections(id, name, url) VALUES ( ?, ?, ? )", @collection_id, readable_name, url)
+  #  @collection_id += 1
+  #  @collection_id - 1
+  #end
+
+  def create_collection_in_db(readable_name, url)
+    db.execute("INSERT INTO collections(id, name, url) VALUES ( ?, ?, ? )", @collection_id, readable_name, url)
+    @collection_id += 1
+    @collection_id - 1
+  end
+
+  def db
+    @db ||= SQLite3::Database.new("hadith.db")
   end
 
   def scrap_book_page(url, file_path)
@@ -65,7 +95,7 @@ class Scraper
       hadiths << hadith
     end
 
-    marshal_to_file(file_path, hadiths)
+    #marshal_to_file(file_path, hadiths)
   end
 
   def open_url(url, file_path)
