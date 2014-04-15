@@ -121,12 +121,12 @@ class Scraper
   end
 
   def fetch_narrator(item)
-    #Narrated Muhammad Ibn Ziyad:
+    narrator = item.at_css(".englishcontainer .hadith_narrated").text rescue ''
     begin
-      narrator = item.at_css(".englishcontainer .hadith_narrated").text
-      narrator.match(/Narrated(.*)\s?:$?/).strip
+      /(\\n)*(Narrated )?(?<narrator>.*):/.match(narrator)[:narrator].strip
     rescue
-      nil
+      ap "Rescue #{narrator}"
+      narrator
     end
   end
 
