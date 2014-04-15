@@ -15,15 +15,15 @@ class Scraper
 
   def scrap_collections
     clear_db
-    #scrap_collection("bukhari", 'Sahih al-Bukhari')
-    #scrap_collection("muslim", 'Sahih Muslim')
-    #scrap_collection("nasai", "Sunan an-Nasa'i")
+    scrap_collection("bukhari", 'Sahih al-Bukhari')
+    scrap_collection("muslim", 'Sahih Muslim')
+    scrap_collection("nasai", "Sunan an-Nasa'i")
     scrap_collection("abudawud", 'Sunan Abi Dawud')
-    #scrap_collection("tirmidhi", 'Jami` at-Tirmidhi')
-    #scrap_collection("ibnmajah", 'Sunan Ibn Majah')
-    #scrap_collection("malik", 'Muwatta Malik')
-    #scrap_collection("nawawi40", '40 Hadith Nawawi')
-    #scrap_collection("adab", 'Al-Adab Al-Mufrad')
+    scrap_collection("tirmidhi", 'Jami` at-Tirmidhi')
+    scrap_collection("ibnmajah", 'Sunan Ibn Majah')
+    scrap_collection("malik", 'Muwatta Malik')
+    scrap_collection("nawawi40", '40 Hadith Nawawi')
+    scrap_collection("adab", 'Al-Adab Al-Mufrad')
   end
 
   def scrap_collection(book_name, readable_name)
@@ -125,7 +125,6 @@ class Scraper
     begin
       /(\\n)*(Narrated )?(?<narrator>.*):/.match(narrator)[:narrator].strip
     rescue
-      ap "Rescue #{narrator}"
       narrator
     end
   end
