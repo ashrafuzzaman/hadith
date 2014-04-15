@@ -13,24 +13,24 @@ class Scraper
     @collection_id = 1
   end
 
-  def scrap_books
+  def scrap_collections
     clear_db
-    scrap_book("bukhari", 'Sahih al-Bukhari')
-    #scrap_book("muslim", 'Sahih Muslim')
-    #scrap_book("nasai", "Sunan an-Nasa'i")
-    #scrap_book("abudawud", 'Sunan Abi Dawud')
-    #scrap_book("tirmidhi", 'Jami` at-Tirmidhi')
-    #scrap_book("ibnmajah", 'Sunan Ibn Majah')
-    #scrap_book("malik", 'Muwatta Malik')
-    #scrap_book("nawawi40", '40 Hadith Nawawi')
-    #scrap_book("adab", 'Al-Adab Al-Mufrad')
+    scrap_collection("bukhari", 'Sahih al-Bukhari')
+    scrap_collection("muslim", 'Sahih Muslim')
+    scrap_collection("nasai", "Sunan an-Nasa'i")
+    scrap_collection("abudawud", 'Sunan Abi Dawud')
+    scrap_collection("tirmidhi", 'Jami` at-Tirmidhi')
+    scrap_collection("ibnmajah", 'Sunan Ibn Majah')
+    scrap_collection("malik", 'Muwatta Malik')
+    scrap_collection("nawawi40", '40 Hadith Nawawi')
+    scrap_collection("adab", 'Al-Adab Al-Mufrad')
   end
 
-  def scrap_book(book_name, readable_name)
+  def scrap_collection(book_name, readable_name)
     url = "#{BASE_URL}/#{book_name}"
     create_directory book_name
     collection_id = create_collection_in_db(readable_name, url)
-    ap collection_id
+    ap "Loading collection #{readable_name}"
     doc = Nokogiri::HTML(open_url(url, book_name))
 
     books = []
@@ -46,10 +46,9 @@ class Scraper
       }
       books << book
     end
-    #marshal_to_file(book_name, books)
     books.each_with_index do |book, i|
       create_book_in_db(i+1, collection_id, book)
-      scrap_book_page book[:book_url], "#{book_name}/#{i+1}"
+      scrap_collection_page book[:book_url], "#{book_name}/#{i+1}"
     end
   end
 
@@ -60,7 +59,7 @@ class Scraper
   end
 
   def create_collection_in_db(readable_name, url)
-    db.execute("INSERT INTO collections(id, name, url) VALUES ( ?, ?, ? )", @collection_id, readable_name, url)
+    insert_into('collections', id: @collection_id, name: readable_name, url: url)
     @collection_id += 1
     @collection_id - 1
   end
@@ -69,36 +68,25 @@ class Scraper
     insert_into('books', id: id,
                 collection_id: collection_id,
                 book_number: book[:book_number],
-                book_name_en: book[:book_name_en],
-                book_name_ar: book[:book_name_ar],
-                book_range_from: book[:book_range_from],
-                book_range_to: book[:book_range_to],
-                url: book[:url])
-
-    #query = %q{ INSERT INTO books(id, collection_id, book_number,
-    #              book_name_en, book_name_ar, book_range_from, book_range_to, url)
-    #            VALUES ( ?, ?, ?, ?, ?, ?, ?, ? )}
-    #
-    #db.execute(query, id, readable_name, url)
-    #@collection_id += 1
-    #@collection_id - 1
+                book_name_en: book[:book_name][:en],
+                book_name_ar: book[:book_name][:ar],
+                book_range_from: book[:book_range][0],
+                book_range_to: book[:book_range][1],
+                url: book[:book_url])
   end
 
   def insert_into(table, data)
     fields = data.keys.collect(&:to_s).join(', ')
     qs = (1..data.size).collect { '?' }.join(',')
     query = "INSERT INTO #{table}(#{fields}) VALUES (#{qs})"
-    ap query.inspect
-    #data.values.inject(0, query)
-    #ap data.values.inject(0, query)
-    db.execute(data.values.inject(0, query))
+    db.execute(query, data.values.collect { |v| (v.nil? || !v.respond_to?(:strip)) ? v : v.strip })
   end
 
   def db
     @db ||= SQLite3::Database.new("hadith.db")
   end
 
-  def scrap_book_page(url, file_path)
+  def scrap_collection_page(url, file_path)
     doc = Nokogiri::HTML(open_url(url, file_path))
     hadiths = []
 
@@ -126,10 +114,10 @@ class Scraper
     file_path = "#{file_path}.html"
     file_content = file_content(file_path)
     if file_content
-      p "Fetching from file #{file_path}"
       file_content
     else
       sleep rand(10)
+      p "Fetching from web #{url}"
       content = open(url).read
       write_to_file file_path, content
       content
@@ -175,4 +163,4 @@ class Scraper
   end
 end
 
-Scraper.new.scrap_books
+Scraper.new.scrap_collections
