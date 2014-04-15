@@ -15,15 +15,15 @@ class Scraper
 
   def scrap_collections
     clear_db
-    scrap_collection("bukhari", 'Sahih al-Bukhari')
-    scrap_collection("muslim", 'Sahih Muslim')
-    scrap_collection("nasai", "Sunan an-Nasa'i")
+    #scrap_collection("bukhari", 'Sahih al-Bukhari')
+    #scrap_collection("muslim", 'Sahih Muslim')
+    #scrap_collection("nasai", "Sunan an-Nasa'i")
     scrap_collection("abudawud", 'Sunan Abi Dawud')
-    scrap_collection("tirmidhi", 'Jami` at-Tirmidhi')
-    scrap_collection("ibnmajah", 'Sunan Ibn Majah')
-    scrap_collection("malik", 'Muwatta Malik')
-    scrap_collection("nawawi40", '40 Hadith Nawawi')
-    scrap_collection("adab", 'Al-Adab Al-Mufrad')
+    #scrap_collection("tirmidhi", 'Jami` at-Tirmidhi')
+    #scrap_collection("ibnmajah", 'Sunan Ibn Majah')
+    #scrap_collection("malik", 'Muwatta Malik')
+    #scrap_collection("nawawi40", '40 Hadith Nawawi')
+    #scrap_collection("adab", 'Al-Adab Al-Mufrad')
   end
 
   def scrap_collection(book_name, readable_name)
@@ -48,7 +48,7 @@ class Scraper
     end
     books.each_with_index do |book, i|
       create_book_in_db(i+1, collection_id, book)
-      scrap_collection_page book[:book_url], "#{book_name}/#{i+1}"
+      scrap_collection_page(i+1, book[:book_url], "#{book_name}/#{i+1}")
     end
   end
 
@@ -75,6 +75,15 @@ class Scraper
                 url: book[:book_url])
   end
 
+  def create_hadith_in_db(book_id, hadith)
+    insert_into('hadiths', book_id: book_id,
+                narrator: hadith[:hadith_narrator],
+                hadith_en: hadith[:hadith][:en],
+                hadith_ar: hadith[:hadith][:ar],
+                grade_en: hadith[:grade][:en],
+                grade_ar: hadith[:grade][:ar])
+  end
+
   def insert_into(table, data)
     fields = data.keys.collect(&:to_s).join(', ')
     qs = (1..data.size).collect { '?' }.join(',')
@@ -86,13 +95,13 @@ class Scraper
     @db ||= SQLite3::Database.new("hadith.db")
   end
 
-  def scrap_collection_page(url, file_path)
+  def scrap_collection_page(book_id, url, file_path)
     doc = Nokogiri::HTML(open_url(url, file_path))
     hadiths = []
 
     doc.css(".actualHadithContainer").each do |item|
       hadith = {
-          hadith_narrator: (item.at_css(".englishcontainer .hadith_narrated").text.strip rescue nil),
+          hadith_narrator: fetch_narrator(item),
           arabic_sanad: (item.at_css(".arabic_hadith_full .arabic_sanad").text.strip rescue nil),
           hadith: {
               en: (item.at_css(".englishcontainer .text_details").text.strip rescue nil),
@@ -104,10 +113,21 @@ class Scraper
           },
           reference: dom_to_reference(item.at_css(".hadith_reference"))
       }
+      create_hadith_in_db(book_id, hadith)
       hadiths << hadith
     end
 
     #marshal_to_file(file_path, hadiths)
+  end
+
+  def fetch_narrator(item)
+    #Narrated Muhammad Ibn Ziyad:
+    begin
+      narrator = item.at_css(".englishcontainer .hadith_narrated").text
+      narrator.match(/Narrated(.*)\s?:$?/).strip
+    rescue
+      nil
+    end
   end
 
   def open_url(url, file_path)
