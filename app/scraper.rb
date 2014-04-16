@@ -47,13 +47,13 @@ class Scraper
       books << book
     end
     books.each_with_index do |book, i|
-      create_book_in_db(i+1, collection_id, book)
-      scrap_collection_page(i+1, book[:book_url], "#{book_name}/#{i+1}")
+      book_id = create_book_in_db(collection_id, book)
+      scrap_collection_page(book_id, book[:book_url], "#{book_name}/#{i+1}")
     end
   end
 
   def clear_db
-    ['collections', 'books', 'hadiths'].each do |table|
+    ['collections', 'books', 'hadiths', 'sqlite_sequence'].each do |table|
       db.execute("DELETE FROM #{table}")
     end
   end
@@ -64,9 +64,8 @@ class Scraper
     @collection_id - 1
   end
 
-  def create_book_in_db(id, collection_id, book)
-    insert_into('books', id: id,
-                collection_id: collection_id,
+  def create_book_in_db(collection_id, book)
+    insert_into('books', collection_id: collection_id,
                 book_number: book[:book_number],
                 book_name_en: book[:book_name][:en],
                 book_name_ar: book[:book_name][:ar],
@@ -89,6 +88,7 @@ class Scraper
     qs = (1..data.size).collect { '?' }.join(',')
     query = "INSERT INTO #{table}(#{fields}) VALUES (#{qs})"
     db.execute(query, data.values.collect { |v| (v.nil? || !v.respond_to?(:strip)) ? v : v.strip })
+    db.last_insert_row_id
   end
 
   def db
